@@ -18,7 +18,7 @@
 
 ## 全书目录
 
-### [第一部分 · Part 1](part1_cn_en.md) —— CAN SLIM 选股体系
+### [第一部分 · Part 1](/books/how-to-make-money-in-stocks/part1_cn_en.md) —— CAN SLIM 选股体系
 
 | 章 | 英文标题 | 中文标题 |
 | --- | --- | --- |
@@ -31,7 +31,7 @@
 | Chapter8 | I = Institutional Sponsorship | I = 机构支持 |
 | Chapter9 | M = Market Direction: How You Can Determine It | M = 市场方向：如何判断它 |
 
-### [第二部分 · Part 2](part2_cn_en.md) —— 卖出与资金管理
+### [第二部分 · Part 2](/books/how-to-make-money-in-stocks/part2_cn_en.md) —— 卖出与资金管理
 
 | 章 | 英文标题 | 中文标题 |
 | --- | --- | --- |
@@ -40,7 +40,7 @@
 | Chapter12 | Money Management: Should You Diversify, Invest for the Long Haul, Use Margin, Sell Short, or Buy Options, IPOs, Tax Shelters, Nasdaq Stocks, Foreign Stocks, Bonds, or Other Assets? | 资金管理：你应该分散投资、长期持有、使用融资、卖空，还是买入期权、IPO、避税工具、纳斯达克股票、外国股票、债券或其他资产？ |
 | Chapter13 | Twenty-One Costly Common Mistakes Most Investors Make | 投资者最常犯的 21 个代价高昂的错误 |
 
-### [第三部分 · Part 3](part3_cn_en.md) —— 像专业投资者一样操作
+### [第三部分 · Part 3](/books/how-to-make-money-in-stocks/part3_cn_en.md) —— 像专业投资者一样操作
 
 | 章 | 英文标题 | 中文标题 |
 | --- | --- | --- |

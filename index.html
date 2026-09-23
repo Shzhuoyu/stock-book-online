@@ -2,9 +2,9 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
-  <title>笑傲股市 · How to Make Money in Stocks（中英对照）</title>
+  <title>在线图书馆 · 中英对照</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="William J. O'Neil《笑傲股市》(How to Make Money in Stocks) 中英对照在线阅读版" />
+  <meta name="description" content="个人在线图书馆，中英对照在线阅读" />
   <link rel="stylesheet" href="vendor/vue.css" />
   <style>
     :root { --theme-color: #42b983; }
@@ -30,6 +30,16 @@
       subMaxLevel: 2,
       auto2top: true,
       mergeNavbar: true,
+      notFoundPage: true,
+      // 迁移前的旧链接（/#/part1_cn_en 等）自动指向新位置，避免收藏/缓存失效
+      alias: {
+        '/part1_cn_en': '/books/how-to-make-money-in-stocks/part1_cn_en',
+        '/part2_cn_en': '/books/how-to-make-money-in-stocks/part2_cn_en',
+        '/part3_cn_en': '/books/how-to-make-money-in-stocks/part3_cn_en',
+        '/part1_cn_en/': '/books/how-to-make-money-in-stocks/part1_cn_en',
+        '/part2_cn_en/': '/books/how-to-make-money-in-stocks/part2_cn_en',
+        '/part3_cn_en/': '/books/how-to-make-money-in-stocks/part3_cn_en'
+      },
       search: {
         placeholder: { '/': '搜索（中文 / English）' },
         noData: { '/': '没有找到结果' },
