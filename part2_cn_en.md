@@ -744,7 +744,7 @@ In a few cases, around the top of a climax run, a stock may retrace the prior we
 
 Investor’s Business Daily · Investor’s Business Daily
 
-![image](images/Chapter2-663ad2767ba8c72b091858c970163e16dfbbf9f475487bc5bebd4d5fcc2d52.jpg)
+![image](images/Chapter2-663ad2767ba8c72b091858c970163e16dfbbf9f5f475487bc5bebd4d5fcc2d52.jpg)
 
 ![image](images/Chapter2-1ffec053cdb855371a3e5bf24d6ee4a5fe6cd418821973f004ae455c48187244.jpg)
 
@@ -983,7 +983,7 @@ Investor’s Business Daily
 
 Investor’s Business Daily
 
-![image](images/Chapter2-181b8e9b8b74eea31400f9313f964aa6f41ad0ea09ee7d6d37c26e625a17c.jpg)
+![image](images/Chapter2-181b8e9b8b74eea31400f9313f964aa6f41c25ad0ea09ee7d6d37c26e625a17c.jpg)
 
 Investor’s Business Daily
 
@@ -1028,7 +1028,7 @@ Investor’s Business Daily
 
 Investor’s Business Daily
 
-![image](images/Chapter2-181b8e9b8b74eea31400f9313f964aa6f41ad0ea09ee7d6d37c26e625a17c.jpg)
+![image](images/Chapter2-181b8e9b8b74eea31400f9313f964aa6f41c25ad0ea09ee7d6d37c26e625a17c.jpg)
 
 Investor’s Business Daily
 
