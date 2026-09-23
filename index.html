@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>笑傲股市 · How to Make Money in Stocks（中英对照）</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="William J. O'Neil《笑傲股市》(How to Make Money in Stocks) 中英对照在线阅读版" />
+  <link rel="stylesheet" href="vendor/vue.css" />
+  <style>
+    :root { --theme-color: #42b983; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "PingFang SC",
+        "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+    }
+    .markdown-section { max-width: 920px; }
+    .markdown-section img { max-width: 100%; border-radius: 4px; }
+    .markdown-section blockquote { border-left: 4px solid var(--theme-color); }
+    /* 图片行上下留白，避免与正文粘连 */
+    .markdown-section p > img { margin: 12px 0; }
+  </style>
+</head>
+<body>
+  <div id="app">正在加载…</div>
+  <script>
+    window.$docsify = {
+      name: '笑傲股市 · 中英对照',
+      homepage: 'README.md',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      mergeNavbar: true,
+      search: {
+        placeholder: { '/': '搜索（中文 / English）' },
+        noData: { '/': '没有找到结果' },
+        depth: 3
+      }
+    };
+  </script>
+  <script src="vendor/docsify.min.js"></script>
+  <script src="vendor/search.min.js"></script>
+  <script src="vendor/zoom-image.min.js"></script>
+</body>
+</html>

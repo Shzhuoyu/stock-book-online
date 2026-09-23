@@ -1,0 +1,10 @@
+# WorkBuddy 项目数据（本地工具状态，不入库）
+.workbuddy/
+
+# MinerU 原始抽取结果（中间产物，已由 part*_cn_en.md 承载）
+origin/
+
+# 系统杂项
+.DS_Store
+Thumbs.db
+*.log
