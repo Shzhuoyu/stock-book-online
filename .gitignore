@@ -8,3 +8,6 @@ origin/
 .DS_Store
 Thumbs.db
 *.log
+
+# EPUB 电子书：本地保留，不上线（体积大，且已有在线阅读版）
+*.epub
