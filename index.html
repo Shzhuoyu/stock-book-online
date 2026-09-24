@@ -47,6 +47,31 @@
       }
     };
   </script>
+  <script>
+    // 把所有以 / 开头的站内链接改写成 Docsify 内部 hash（#/...）。
+    // 这样无论当前页面在根目录还是子目录，链接指向都唯一确定，不会随页面位置漂移。
+    window.$docsify.plugins = [].concat(function (hook, vm) {
+      hook.doneEach(function () {
+        var sel = [
+          '.sidebar-nav a[href]',
+          '.app-name-link[href]',
+          '.app-nav a[href]',
+          '.markdown-section a[href]'
+        ].join(',');
+        var links = document.querySelectorAll(sel);
+        for (var i = 0; i < links.length; i++) {
+          var a = links[i];
+          var h = a.getAttribute('href') || '';
+          // 跳过图片链接（放大插件用），只处理文字链接
+          if (a.querySelector('img')) { continue; }
+          // 只处理站内绝对路径 /xxx ，排除 //host 与外部链接
+          if (h.charAt(0) === '/' && h.charAt(1) !== '/') {
+            a.setAttribute('href', '#' + h);
+          }
+        }
+      });
+    }, window.$docsify.plugins || []);
+  </script>
   <script src="vendor/docsify.min.js"></script>
   <script src="vendor/search.min.js"></script>
   <script src="vendor/zoom-image.min.js"></script>
