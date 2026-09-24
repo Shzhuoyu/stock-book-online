@@ -31,14 +31,20 @@
       auto2top: true,
       mergeNavbar: true,
       notFoundPage: true,
-      // 迁移前的旧链接（/#/part1_cn_en 等）自动指向新位置，避免收藏/缓存失效
+      // 迁移前的旧链接（/#/part1_cn_en、/#/part1_cn_en/、/#/part1_cn_en.md）
+      // 全部在这里映射到新位置，避免收藏/缓存失效。
+      // 注意：带 .md 后缀的路径不会被 docsify 补全后再匹配别名，
+      // 所以必须单独列一条；这样根目录就不需要放任何跳转占位页。
       alias: {
         '/part1_cn_en': '/books/how-to-make-money-in-stocks/part1_cn_en',
         '/part2_cn_en': '/books/how-to-make-money-in-stocks/part2_cn_en',
         '/part3_cn_en': '/books/how-to-make-money-in-stocks/part3_cn_en',
         '/part1_cn_en/': '/books/how-to-make-money-in-stocks/part1_cn_en',
         '/part2_cn_en/': '/books/how-to-make-money-in-stocks/part2_cn_en',
-        '/part3_cn_en/': '/books/how-to-make-money-in-stocks/part3_cn_en'
+        '/part3_cn_en/': '/books/how-to-make-money-in-stocks/part3_cn_en',
+        '/part1_cn_en.md': '/books/how-to-make-money-in-stocks/part1_cn_en',
+        '/part2_cn_en.md': '/books/how-to-make-money-in-stocks/part2_cn_en',
+        '/part3_cn_en.md': '/books/how-to-make-money-in-stocks/part3_cn_en'
       },
       search: {
         placeholder: { '/': '搜索（中文 / English）' },
