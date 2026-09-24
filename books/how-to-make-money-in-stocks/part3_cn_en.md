@@ -90,57 +90,111 @@ If you think you’re just looking at a bunch of charts, think again. What you a
 
 Telex：27 周上涨 283%
 
+![image](images/Chapter3-16c8dbe4c4775adcd59b25776b5373f0aa188807d00e0851f7a86d788ac10fcc.jpg)
+
 Houston Oil：54 周上涨 1004%
+
+![image](images/Chapter3-4d6e7eb28b4a7923075a1638ea7fa606e7576cee76fb45cb39a180eb9629d7e6.jpg)
 
 Waste Management：242 周上涨 1180%
 
+![image](images/Chapter3-33d1bca9641d25658508990ed9db36bdcda5255b94f2974535ba6f02bc6772df.jpg)
+
 Storage Technology：52 周上涨 371%
+
+![image](images/Chapter3-893f291b47622af70f39f8f56f9e70514cea21ac6da1ef00c7a12782c44e7be1.jpg)
 
 Ford：262 周上涨 889%
 
+![image](images/Chapter3-a7ea65044da2e1b74a1b77ee4216befc4c44687ce4e7be1b4aa9af29b7989fab.jpg)
+
 King World Prod.：116 周上涨 588%
+
+![image](images/Chapter3-2b2241a3925ad67a21a6a7e3d5bf798077fb630f8913793f5b3aae4356e67a38.jpg)
 
 Reebok：18 周上涨 246%
 
+![image](images/Chapter3-e60742ce7147334199f15aa3a53bc4577a534192cfa9cd3190a975133e541174.jpg)
+
 Macromedia：49 周上涨 486%
+
+![image](images/Chapter3-7b8cde956b9ca76d16c1df34c5ec19ad08975dd72521461430f6a07459776e48.jpg)
 
 Comverse Technology：67 周上涨 564%
 
+![image](images/Chapter3-b70a1e76a050add901623df799ca69703f92a78f773e671ae302833567113280.jpg)
+
 ARM Holdings：57 周上涨 1385%
+
+![image](images/Chapter3-ef17d151b2409e2b8c96fa6c1cefdb12a4ef9cd39e38e8d55fdaa121211e493f.jpg)
 
 Compaq：46 周上涨 352%
 
+![image](images/Chapter3-33a30c7c30a9856da50ff85853665ab1495e5005a88c808be83f72f369f2178b.jpg)
+
 Amazon.com：70 周上涨 3805%
+
+![image](images/Chapter3-5562d6f06d23f4a422002fb6ff52631db745647581541930a0edcd86c24cfe26.jpg)
 
 Verisign：66 周上涨 2250%
 
+![image](images/Chapter3-289d6ff03fed815bdd1894e003418ba5f81707cbdb9acd0da6b477447d11f870.jpg)
+
 Veritas Software：62 周上涨 1097%
+
+![image](images/Chapter3-a2605daf7f87cfb78aa9791407313291fe106e3850a5d969a9eee05a7ba3e3a0.jpg)
 
 Qlogic：44 周上涨 803%
 
+![image](images/Chapter3-f289ecbd85431254866c9291c489614c751a5ab40e4acac639af493bb00b7bae.jpg)
+
 Checkpoint Software：40 周上涨 1104%
+
+![image](images/Chapter3-76c4cee63d2fbd338fcc438e9cedfc302ebc7e6c28aa5d01c2575aef2bb06b25.jpg)
 
 Broadvision：30 周上涨 823%
 
+![image](images/Chapter3-15bb47449ef19169ec2fcc95e8d2ed726fdc24de4cb4c74091ae26e410109960.jpg)
+
 Siebel Systems：28 周上涨 466%
+
+![image](images/Chapter3-46a6e563157c0aa571fc769bfecacf48d2200c00aa3bbcd48ff3f7c7291531de.jpg)
 
 Triquint Semiconductor：41 周上涨 1078%
 
+![image](images/Chapter3-97b19fab9afa2ee03cf3978c7a80844cb48261cf4fc58fb9f1d5b9f1407bf11a.jpg)
+
 RF Micro Devices：36 周上涨 444%
+
+![image](images/Chapter3-01098efbe7f7b316f0ed1fddefeab86882947a25a63d9f4e29fc4844cdf6f42a.jpg)
 
 E-Tek Dynamics：28 周上涨 507%
 
+![image](images/Chapter3-cbdbcaa198e6153cb9302208c25dc08c61db91a901333cdfb385618e36932cc9.jpg)
+
 Business Objects：26 周上涨 480%
+
+![image](images/Chapter3-0084f6a75ce5df0c79c262d3f9958e5a774cce38782d4f5719d937bfbba07daa.jpg)
 
 Microstrategy：24 周上涨 1414%
 
+![image](images/Chapter3-05cb225e5a76e82bacf3cd2e5316ec3aeb6a07e3763e0da15e9097561b83088e.jpg)
+
 China Mobile：131 周上涨 484%
+
+![image](images/Chapter3-6231f1f2cd292cd2e9b3681c219073b4a2a0c439928cb1b8f5896dcc74897a7d.jpg)
 
 Vistacare：31 周上涨 115%
 
 Research in Motion：60 周上涨 382%
 
+![image](images/Chapter3-53590085b0a81747aa1ff917df2e6117a1e7836c0b3bb23e8dd26cac4e4eb836.jpg)
+
 McDermott：128 周上涨 703%
+
+![image](images/Chapter3-98ee8255e49cc9af8a990ec21b6cf2879a10115f05c892516bf5a12cd4ccb54a.jpg)
+
+![image](images/Chapter3-6c57f8d176f5b7d30d05ecefec8fc74032cd4a24ee37daa9cd0942ab904f23ef.jpg)
 
 Baidu：25 周上涨 225%
 
@@ -148,146 +202,57 @@ Baidu：25 周上涨 225%
 
 Telex 283% increase in 27 weeks
 
-
-![image](images/Chapter3-16c8dbe4c4775adcd59b25776b5373f0aa188807d00e0851f7a86d788ac10fcc.jpg)
-
 Houston Oil 1004% increase in 54 weeks
-
-
-![image](images/Chapter3-4d6e7eb28b4a7923075a1638ea7fa606e7576cee76fb45cb39a180eb9629d7e6.jpg)
 
 Waste Management 1180% increase in 242 weeks
 
-
-![image](images/Chapter3-33d1bca9641d25658508990ed9db36bdcda5255b94f2974535ba6f02bc6772df.jpg)
-
 Storage Technology 371% increase in 52 weeks
-
-
-![image](images/Chapter3-893f291b47622af70f39f8f56f9e70514cea21ac6da1ef00c7a12782c44e7be1.jpg)
 
 Ford 889% increase in 262 weeks
 
-
-![image](images/Chapter3-a7ea65044da2e1b74a1b77ee4216befc4c44687ce4e7be1b4aa9af29b7989fab.jpg)
-
 King World Prod. 588% increase in 116 weeks
-
-
-![image](images/Chapter3-2b2241a3925ad67a21a6a7e3d5bf798077fb630f8913793f5b3aae4356e67a38.jpg)
 
 Reebok 246% increase in 18 weeks
 
-
-![image](images/Chapter3-e60742ce7147334199f15aa3a53bc4577a534192cfa9cd3190a975133e541174.jpg)
-
 Macromedia 486% increase in 49 weeks
-
-
-![image](images/Chapter3-7b8cde956b9ca76d16c1df34c5ec19ad08975dd72521461430f6a07459776e48.jpg)
 
 Comverse Technology 564% increase in 67 weeks
 
-
-![image](images/Chapter3-b70a1e76a050add901623df799ca69703f92a78f773e671ae302833567113280.jpg)
-
 ARM Holdings 1385% increase in 57 weeks
-
-
-![image](images/Chapter3-ef17d151b2409e2b8c96fa6c1cefdb12a4ef9cd39e38e8d55fdaa121211e493f.jpg)
-
 
 Compaq 352% increase in 46 weeks
 
-
-![image](images/Chapter3-33a30c7c30a9856da50ff85853665ab1495e5005a88c808be83f72f369f2178b.jpg)
-
-
 Amazon.com 3805% increase in 70 weeks
-
-
-![image](images/Chapter3-5562d6f06d23f4a422002fb6ff52631db745647581541930a0edcd86c24cfe26.jpg)
-
 
 Verisign 2250% increase in 66 weeks
 
-
-![image](images/Chapter3-289d6ff03fed815bdd1894e003418ba5f81707cbdb9acd0da6b477447d11f870.jpg)
-
 Veritas Software 1097% increase in 62 weeks
-
-
-![image](images/Chapter3-a2605daf7f87cfb78aa9791407313291fe106e3850a5d969a9eee05a7ba3e3a0.jpg)
 
 Qlogic 803% increase in 44 weeks
 
-
-![image](images/Chapter3-f289ecbd85431254866c9291c489614c751a5ab40e4acac639af493bb00b7bae.jpg)
-
 Checkpoint Software 1104% increase in 40 weeks
-
-
-![image](images/Chapter3-76c4cee63d2fbd338fcc438e9cedfc302ebc7e6c28aa5d01c2575aef2bb06b25.jpg)
 
 Broadvision 823% increase in 30 weeks
 
-
-![image](images/Chapter3-15bb47449ef19169ec2fcc95e8d2ed726fdc24de4cb4c74091ae26e410109960.jpg)
-
 Siebel Systems 466% increase in 28 weeks
-
-
-![image](images/Chapter3-46a6e563157c0aa571fc769bfecacf48d2200c00aa3bbcd48ff3f7c7291531de.jpg)
-
 
 Triquint Semiconductor 1078% increase in 41 weeks
 
-
-![image](images/Chapter3-97b19fab9afa2ee03cf3978c7a80844cb48261cf4fc58fb9f1d5b9f1407bf11a.jpg)
-
-
 RF Micro Devices 444% increase in 36 weeks
-
-
-![image](images/Chapter3-01098efbe7f7b316f0ed1fddefeab86882947a25a63d9f4e29fc4844cdf6f42a.jpg)
-
 
 E-Tek Dynamics 507% increase in 28 weeks
 
-
-![image](images/Chapter3-cbdbcaa198e6153cb9302208c25dc08c61db91a901333cdfb385618e36932cc9.jpg)
-
-
 Business Objects 480% increase in 26 weeks
-
-
-![image](images/Chapter3-0084f6a75ce5df0c79c262d3f9958e5a774cce38782d4f5719d937bfbba07daa.jpg)
 
 Microstrategy 1414% increase in 24 weeks
 
-
-![image](images/Chapter3-05cb225e5a76e82bacf3cd2e5316ec3aeb6a07e3763e0da15e9097561b83088e.jpg)
-
 China Mobile 484% increase in 131 weeks
-
-
-![image](images/Chapter3-6231f1f2cd292cd2e9b3681c219073b4a2a0c439928cb1b8f5896dcc74897a7d.jpg)
 
 Vistacare 115% increase in 31 weeks
 
 Research in Motion 382% increase in 60 weeks
 
-
-![image](images/Chapter3-53590085b0a81747aa1ff917df2e6117a1e7836c0b3bb23e8dd26cac4e4eb836.jpg)
-
-
 McDermott 703% increase in 128 weeks
-
-
-![image](images/Chapter3-98ee8255e49cc9af8a990ec21b6cf2879a10115f05c892516bf5a12cd4ccb54a.jpg)
-
-
-![image](images/Chapter3-6c57f8d176f5b7d30d05ecefec8fc74032cd4a24ee37daa9cd0942ab904f23ef.jpg)
 
 Baidu 225% increase in 25 weeks
 
@@ -295,13 +260,23 @@ Baidu 225% increase in 25 weeks
 
 Wards：38 周上涨 267%
 
+![image](images/Chapter3-2d55693d7ec40e5987db5bb41bdeeb70b139f03d27491b1f993333c2265f7254.jpg)
+
 TCBY：77 周上涨 2189%
+
+![image](images/Chapter3-2a3c6a8dc316206c12a1e92b47f9be0199f6aab6e092b044ab531df78947669a.jpg)
 
 C-Cube：41 周上涨 509%
 
+![image](images/Chapter3-0cfa58611d88e813f6d1501f301fea6b8c251091e0894b137dd52b1ac7904274.jpg)
+
 PMC Sierra：70 周上涨 1949%
 
+![image](images/Chapter3-9c9caf93ef1869495251846992aff2b8b7e72d5b30a70ed70666fe87f2cc019f.jpg)
+
 PE Celera：32 周上涨 2281%
+
+![image](images/Chapter3-179a0b41276339583e0f453d0624a200a4d7562f50ca30bd75c7fbe13bb243a3.jpg)
 
 Gen-Probe：20 周上涨 122%
 
@@ -309,28 +284,13 @@ Gen-Probe：20 周上涨 122%
 
 Wards 267% increase in 38 weeks
 
-
-![image](images/Chapter3-2d55693d7ec40e5987db5bb41bdeeb70b139f03d27491b1f993333c2265f7254.jpg)
-
 TCBY 2189% increase in 77 weeks
-
-
-![image](images/Chapter3-2a3c6a8dc316206c12a1e92b47f9be0199f6aab6e092b044ab531df78947669a.jpg)
 
 C-Cube 509% increase in 41 weeks
 
-
-![image](images/Chapter3-0cfa58611d88e813f6d1501f301fea6b8c251091e0894b137dd52b1ac7904274.jpg)
-
 PMC Sierra 1949% increase in 70 weeks
 
-
-![image](images/Chapter3-9c9caf93ef1869495251846992aff2b8b7e72d5b30a70ed70666fe87f2cc019f.jpg)
-
 PE Celera 2281% increase in 32 weeks
-
-
-![image](images/Chapter3-179a0b41276339583e0f453d0624a200a4d7562f50ca30bd75c7fbe13bb243a3.jpg)
 
 Gen-Probe 122% increase in 20 weeks
 
@@ -338,13 +298,23 @@ Gen-Probe 122% increase in 20 weeks
 
 AMF：23 周上涨 82%
 
+![image](images/Chapter3-b8a4d716adf69c11f2fade7f4045533e84734c901a108d68083d2cccda8fd060.jpg)
+
 Sun Micro：74 周上涨 701%
+
+![image](images/Chapter3-a9030a6d663acfaa14f5b775b6142e26f9086c4c4eb2b6e8d6b5683322f7b6f5.jpg)
 
 Nokia：87 周上涨 486%
 
+![image](images/Chapter3-2d89d556c0d095be5b333c91770ddbedee8319c7b09ee74517c2eab2f3e3fecf.jpg)
+
 Omnivision Tech：39 周上涨 256%
 
+![image](images/Chapter3-8cb7a44ea9d81b8547d26980bea615872f6e0fa4f5dcaa8c268c580b74f6dab8.jpg)
+
 Quality Systems：44 周上涨 177%
+
+![image](images/Chapter3-39366f6489be631afdfd22fa1abfe8f5a43b1a0fd3625825c67baae6d1478139.jpg)
 
 Chicago Merc. Exch.：132 周上涨 208%
 
@@ -352,28 +322,13 @@ Chicago Merc. Exch.：132 周上涨 208%
 
 AMF 82% increase in 23 weeks
 
-
-![image](images/Chapter3-b8a4d716adf69c11f2fade7f4045533e84734c901a108d68083d2cccda8fd060.jpg)
-
 Sun Micro 701% increase in 74 weeks
-
-
-![image](images/Chapter3-a9030a6d663acfaa14f5b775b6142e26f9086c4c4eb2b6e8d6b5683322f7b6f5.jpg)
 
 Nokia 486% increase in 87 weeks
 
-
-![image](images/Chapter3-2d89d556c0d095be5b333c91770ddbedee8319c7b09ee74517c2eab2f3e3fecf.jpg)
-
 Omnivision Tech 256% increase in 39 weeks
 
-
-![image](images/Chapter3-8cb7a44ea9d81b8547d26980bea615872f6e0fa4f5dcaa8c268c580b74f6dab8.jpg)
-
 Quality Systems 177% increase in 44 weeks
-
-
-![image](images/Chapter3-39366f6489be631afdfd22fa1abfe8f5a43b1a0fd3625825c67baae6d1478139.jpg)
 
 Chicago Merc. Exch. 208% increase in 132 weeks
 
@@ -381,13 +336,23 @@ Chicago Merc. Exch. 208% increase in 132 weeks
 
 Handleman：139 周上涨 328%
 
+![image](images/Chapter3-bb0598c3aa16794fcb76a1c1adac38e839930bc41810a5c7929e13cc75de9e3d.jpg)
+
 Hilton：60 周上涨 232%
+
+![image](images/Chapter3-a53cb6bd3b13fb95aed2c5d3e762005bc46c8bd1f80fe93887f354dbfbd40b01.jpg)
 
 Jones Medical：36 周上涨 447%
 
+![image](images/Chapter3-bcc3d5cf48d00daa6943be31def78d3ea64e64a821725ef8743ba91422fde0d2.jpg)
+
 SDL Inc：39 周上涨 814%
 
+![image](images/Chapter3-85f11921e99a3fca7cbf201596164b702f09b7712f3485db23353fa19733be15.jpg)
+
 Starbucks：70 周上涨 126%
+
+![image](images/Chapter3-351b9ea9b94576fc9d7a8f980330e5c10f134ff1d3608b0a8341fda85b58128e.jpg)
 
 American Movil：205 周上涨 730%
 
@@ -395,28 +360,13 @@ American Movil：205 周上涨 730%
 
 Handleman 328% increase in 139 weeks
 
-
-![image](images/Chapter3-bb0598c3aa16794fcb76a1c1adac38e839930bc41810a5c7929e13cc75de9e3d.jpg)
-
 Hilton 232% increase in 60 weeks
-
-
-![image](images/Chapter3-a53cb6bd3b13fb95aed2c5d3e762005bc46c8bd1f80fe93887f354dbfbd40b01.jpg)
 
 Jones Medical 447% increase in 36 weeks
 
-
-![image](images/Chapter3-bcc3d5cf48d00daa6943be31def78d3ea64e64a821725ef8743ba91422fde0d2.jpg)
-
 SDL Inc 814% increase in 39 weeks
 
-
-![image](images/Chapter3-85f11921e99a3fca7cbf201596164b702f09b7712f3485db23353fa19733be15.jpg)
-
 Starbucks 126% increase in 70 weeks
-
-
-![image](images/Chapter3-351b9ea9b94576fc9d7a8f980330e5c10f134ff1d3608b0a8341fda85b58128e.jpg)
 
 American Movil 730% increase in 205 weeks
 
@@ -424,9 +374,15 @@ American Movil 730% increase in 205 weeks
 
 Prime Computer：169 周上涨 1564%
 
+![image](images/Chapter3-a89038b2aadc349f86ebbe09419738667ea75ce6fabee9b897746957ce634eec.jpg)
+
 Surgical Affiliates：150 周上涨 1632%
 
+![image](images/Chapter3-8c4338006cc1857f61ce179f826a3f77a96c9ab338e0ddd7906f879c26450c1a.jpg)
+
 Optical Coating Labs：58 周上涨 1957%
+
+![image](images/Chapter3-82aff3667b8c0fa084c6c3b19d15b797966579929fbbf37f6fd6a9e0cdfb567f.jpg)
 
 Network Appliance：18 周上涨 517%
 
@@ -434,20 +390,9 @@ Network Appliance：18 周上涨 517%
 
 Prime Computer 1564% increase in 169 weeks
 
-
-![image](images/Chapter3-a89038b2aadc349f86ebbe09419738667ea75ce6fabee9b897746957ce634eec.jpg)
-
-
 Surgical Affiliates 1632% increase in 150 weeks
 
-
-![image](images/Chapter3-8c4338006cc1857f61ce179f826a3f77a96c9ab338e0ddd7906f879c26450c1a.jpg)
-
 Optical Coating Labs 1957% increase in 58 weeks
-
-
-![image](images/Chapter3-82aff3667b8c0fa084c6c3b19d15b797966579929fbbf37f6fd6a9e0cdfb567f.jpg)
-
 
 Network Appliance 517% increase in 18 weeks
 
@@ -808,6 +753,16 @@ Possible future groups might include wireless, storage area networking, person-t
 
 在 2003 年的牛市中，Coach（COH）是我们每周复盘图表时发现的一只纽交所股票——它于 2 月 28 日突破底部。4 月 25 日，它从 10 周移动平均价格线反弹，给出又一个买点。不过，这一次新牛市是在大盘指数出现一次重大"跟进确认日"之后才真正启动的；而就在 4 月 25 日，同属服装零售行业的另两只龙头——Urban Outfitters（URBN）和 Deckers Outdoor（DECK）——与 Coach 同时突破。于是，来自同一行业组的一只纽交所股票和两只纳斯达克股票，提供了充足的证据：一个强大的新行业组正为刚刚开启的新牛市苏醒过来。这也是 IBD 把纽交所与纳斯达克行情表合并、并按行业板块展示股票的又一理由——当龙头们聚在一组里时，你一抬眼就能把它们全认出来。
 
+![image](images/Chapter3-dd715df38eb8a20581659f858c51b87efd2e381f593f715d5786dc06414ad3d4.jpg)
+
+![image](images/Chapter3-e63ba25a75927a8b087201201d2fb2bbfade1ead64a1cfff152dcd93f80624a5.jpg)
+
+![image](images/Chapter3-bd7113ca8e23c24ac07dd1168bcfda5ac39667a397993481fe99a67df95f5da8.jpg)
+
+![image](images/Chapter3-fd7e2e02662e1c0ecb8102ce6e59617c0325ecaa3a5fd7ea68dc2bfc0fa0ff99.jpg)
+
+![image](images/Chapter3-9c41beaf9eb3685d2b89e41454b4524c72e1ca23d64109dd45a8e0faa4662966.jpg)
+
 Groups that emerge as leaders in a new bull market cycle can be found by observing unusual strength in one or two Nasdaq stocks and relating that strength to similar power in a listed stock in the same group.
 
 Initial strength in only one listed stock is not sufficient to attract attention to a category, but confirmation by one or two kindred Nasdaq issues can quickly steer you to a possible industry recovery. You can see this by looking at the accompanying charts of home builder Centex’s OTC-traded stock from March to August of 1970, and of home builder Kaufman & Broad’s NYSE-listed shares from April to August of the same year:
@@ -821,21 +776,6 @@ Initial strength in only one listed stock is not sufficient to attract attention
 4. A strong Centex base coincided with the base in Kaufman & Broad.
 
 In the 2003 bull market, Coach (COH) was a NYSE-listed stock that we found on our weekly review of charts as it broke out of its base on February 28. It gave another buy point on April 25 when it bounced off its 10-week moving average price line. However, this time the new bull market had begun in earnest after a major market follow-through day in the market averages, and on April 25 two other leaders in the retail clothing industry— Urban Outfitters (URBN) and Deckers Outdoor (DECK)— broke out at the same time as the Coach move. Now there was plenty of evidence, from one NYSE stock and two Nasdaq issues in the same industry group, of a powerful new group coming alive for the new bull market that had just started. This is one more reason IBD’s NYSE and Nasdaq tables are combined and the stocks are shown by industry sectors. You can spot all the leaders more easily when they’re together in a group.
-
-![image](images/Chapter3-dd715df38eb8a20581659f858c51b87efd2e381f593f715d5786dc06414ad3d4.jpg)
-
-
-![image](images/Chapter3-e63ba25a75927a8b087201201d2fb2bbfade1ead64a1cfff152dcd93f80624a5.jpg)
-
-
-![image](images/Chapter3-bd7113ca8e23c24ac07dd1168bcfda5ac39667a397993481fe99a67df95f5da8.jpg)
-
-
-![image](images/Chapter3-fd7e2e02662e1c0ecb8102ce6e59617c0325ecaa3a5fd7ea68dc2bfc0fa0ff99.jpg)
-
-
-![image](images/Chapter3-9c41beaf9eb3685d2b89e41454b4524c72e1ca23d64109dd45a8e0faa4662966.jpg)
-
 
 ### A Key Stock’s Weakness Can Spill Over to the Group
 
@@ -1015,6 +955,8 @@ IBD 让搜寻赢家股变得更容易。面对 10000 多只可供选择的公开
 
 它为你提供宝贵的投资教育与支持。IBD 的全部重心，都放在扎实的数据库研究与大量的历史范式构建上，以之作为范例——是事实，而非个人意见。本章梳理了众多信息源，能帮你学习和理解市场究竟如何运作——依据的是多年的历史先例。
 
+![image](images/Chapter3-042530df7eaf096af3429a2f27ce1f1c7e7dd769bd37daeeb07afa3c323a4338.jpg)
+
 So what is it exactly that distinguishes IBD from other sources? Let’s take a closer look.
 
 IBD makes it easier to search for winning stocks. With more than 10,000 publicly traded stocks to choose from, IBD provides performance lists and proven proprietary fundamental and technical ratings and rankings that help you narrow your choices to only the very best opportunities.
@@ -1022,9 +964,6 @@ IBD makes it easier to search for winning stocks. With more than 10,000 publicly
 It offers quicker, easier, and more accurate and reliable ways to interpret the general market. The key elements of the day’s trading action are explained in IBD’s “The Big Picture” column to give you a sound perspective on the health of the overall market and improve your timing of buy and sell decisions. In tough markets like 2000–2003 and 2007–2009, this is critical information.
 
 It provides you valuable investing education and support. IBD’s entire focus is on solid database research and extensive historical model building to serve as examples—facts, not personal opinions. There are a multitude of sources outlined in this chapter that can help you learn and understand how the market really works, based on years of historical precedent.
-
-![image](images/Chapter3-042530df7eaf096af3429a2f27ce1f1c7e7dd769bd37daeeb07afa3c323a4338.jpg)
-
 
 ### A New, Better Way to Find Winning Stocks
 
@@ -1147,7 +1086,6 @@ For those of you who may not have always checked your stocks’ return on equity
 ### Accumulation/Distribution—The Influence of Professional Trading on Stocks
 
 专业投资者对一只股票的价格有着巨大的影响力。因此，务必买入共同基金正在买入的较优质股票，并卖出或回避那些它们可能正在大量抛售的股票。试图逆着这股庞大的交易力量而行，只会损害你的成绩。要快速、高效地跟踪专业交易的最终结果，可使用 IBD 的吸筹/派发评级（Accumulation/Distribution Rating，图表中标为 4 的那一列），它基于每日的价格与成交量变化。
-
 
 #### 昔日龙头的 ROE
 
@@ -1351,7 +1289,6 @@ The next page I turn to is “Inside Real Estate.” I don’t normally read thi
 
 ### The New America
 
-
 接下来是"新美国"（The New America）版，专讲年轻的创业型公司，每天会深入报道一家公司。版面顶部有时会有"盘后市场"（AfterMarket）标题下的一组简讯。我正在看的一条标题是"Neutral Tandem 因第四季度业绩大涨"。它写道："电信设备制造商 Neutral Tandem 跳空高开 11%，成交量超过平均水平的七倍"，随后引述分析师……
 
 你永远不知道读 IBD 能捡到多少好点子。但每一期里，总会有几个值得你去查一查。你只需走到电脑前，输入报纸上紧随公司名首次出现处所印的股票代码，花不了多少时间，就能查清这只股票的历史、盈利情况以及其他几项关键基本面。全国一些最优秀的组合经理，就是用这种办法快速筛查股票，来决定该重点研究哪些公司、或去搜集哪些公司的更多信息。这也是给自选股清单添砖加瓦的好办法。
@@ -1438,6 +1375,8 @@ I’ve found this computer screen to be valuable. For it to fail to pick up a ne
 
 B2 版题为"市场如何？"。它载满了绝对关键的数据。我们用大号、易读的图表呈现四大关键大盘指数——纽交所综合、纳斯达克、标普 500 和道琼斯工业指数，并把它们上下叠放，方便你比较，看出哪个指数更强、是否某个指数在某个时点上与其他指数背离。此时我们注意到：虽然 1 月所有指数都处于负向趋势，但纳斯达克仅下跌 2%，小于其他指数，暗示它是这段艰难行情中现阶段的领头者。
 
+![image](images/Chapter3-cc155f30acedb2e2265201947b861c9b0a56cf232cb7106b89ea441f2121a7d2.jpg)
+
 我们还有相对强度线、移动平均线，以及紧贴纽交所综合指数图下方的一条显示纽交所涨跌家数线（advance-decline line）——让你一眼看清过去六个月里，纽交所是上涨的股票多还是下跌的多。甚至还有一项吸筹/派发指标，显示哪个主要指数的吸筹量最大。按当前读数，纳斯达克为"B–"，意味着它近期吸纳资金强于其他指数。
 
 B2 是我每天必看的一版，你也应该如此。我要逐日仔细核查主要指数近期的价格与关键成交量动向，看它们是否仍处上升趋势、仍在被吸筹，还是正转入新的下跌趋势、表现出高度负面的行为。不要忽视每日成交量——它是能告诉你是否出了问题的关键。如果你学习并学会正确解读大盘指数（这需要一些时间），你就会懂得如何避开大多数严重的下跌，因为派发的增加总是出现在早期阶段，先于下跌中更具破坏性的部分展开。这能帮你多保住不少钱，无论要你花多少时间，都绝对值得努力去精通。毕竟，为了挣到你如今希望投资的那笔钱，你花了多少时间？那么，花点时间学会如何娴熟地保住并守护它，值不值呢？
@@ -1445,9 +1384,6 @@ B2 是我每天必看的一版，你也应该如此。我要逐日仔细核查�
 如果你学会解读市场并运用 IBD 的大盘规则，那么在任何熊市里发现自己亏损 30%、40%、50% 甚至更多，就毫无借口。我知道大多数散户投资者、或许还有本刊的一些读者，可能在 2008 年的市场回调中受了伤。但 IBD 提供了规则和信息。如果读者做了功课、读了"大势研判"专栏，就应该看到：IBD 的方法已在 2000 年末和 2008 年形成的熊市下跌的早期阶段，捕捉到了不利的动向。
 
 Page B2 is titled “How’s The Market?” It is loaded with absolutely crucial data. We present the four key general market indexes—the NYSE composite, Nasdaq, S&P 500, and Dow Jones Industrials—in large, easy-to-read charts. We stack them one on top of the other so you can compare them and see which indexes are stronger and if one index diverges from the others at some point. At this time, we note that while all the indexes were in a negative trend in January, the Nasdaq was down only 2%, less than the others, implying it is the leader at this stage in a difficult market.
-
-![image](images/Chapter3-cc155f30acedb2e2265201947b861c9b0a56cf232cb7106b89ea441f2121a7d2.jpg)
-
 
 We also have relative strength lines, moving average lines, and a line just below the NYSE Composite chart that displays the New York Stock Exchange advance-decline line, which let’s you quickly see day by day over the last six months if more stocks on the NYSE were advancing or declining. There’s even an Accumulation/Distribution measure showing which of the major indexes has the largest amount of accumulation. At this reading, the Nasdaq had a “B–,” meaning it has recently enjoyed stronger accumulation than the others.
 
@@ -1465,10 +1401,9 @@ October 3, 2007, was the first distribution day on the Nasdaq, October 11 was th
 
 B2 版还有一个其他日报没有的独特栏目——"IBD 共同基金指数"。我们挑选两打领先的成长型基金，用图形展示它们的综合表现。我把它当作一个辅助指数，因为在某种意义上，它是这些较好基金的一条巨大的涨跌家数线——这 24 只基金合计持有 1000 到 2000 只或更多股票。当我在这个指数上看到经典的、形态良好的杯柄形态，且该形态之前有一段强劲的上升趋势时，这个指数和大盘几乎总会向上走。
 
-There is another unique feature on page B2 you can’t find in other daily publications—the “IBD Mutual Fund Index,” where we pick two dozen leading growth funds and show their composite performance in a graphic display. I use this as a supplementary index because it is in a way a giant advance-decline line of some of the better funds with a combined 1,000 to 2,000 or more stocks owned among the 24 funds. When I’ve seen a classic, well-formed cup-with-handle pattern in this index, preceded by a strong prior uptrend to the pattern, the index and the market have almost always moved up.
-
 ![image](images/Chapter3-850c301be173da01bb1e5b42213b5bd7d33b6af8e52ac978c86600dd76562702.jpg)
 
+There is another unique feature on page B2 you can’t find in other daily publications—the “IBD Mutual Fund Index,” where we pick two dozen leading growth funds and show their composite performance in a graphic display. I use this as a supplementary index because it is in a way a giant advance-decline line of some of the better funds with a combined 1,000 to 2,000 or more stocks owned among the 24 funds. When I’ve seen a classic, well-formed cup-with-handle pattern in this index, preceded by a strong prior uptrend to the pattern, the index and the market have almost always moved up.
 
 ### IBD’s 197 Industry Sub-Group Rankings
 
@@ -1560,6 +1495,8 @@ It’s interesting that more than 1,000 people have written to tell us that they
 
 纳斯达克新闻股
 
+![image](images/Chapter3-81e20348ef2b932835e40062883d4cce68460ab7bd56f5e3587e3031a68ba72f.jpg)
+
 这些排名会在数周或数月内发生变化。但弄清楚现在什么在领涨、以及每个板块里哪些名字拥有最好的基本面与市场行为变量，是值得的。那里正是你应当集中研究的地方。
 
 这些表格可能需要一点时间来适应。但几周之后，你就会知道自己所持股票列在哪里。为方便起见，我们还有一张表，列出 IBD 全部 197 个子行业，并告诉你每个子行业属于 33 个宽泛板块中的哪一个。
@@ -1575,10 +1512,6 @@ If you’re in a bear market, don’t expect these lists to work. Three out of e
 Over time, I’ve found that the first six or seven sectors in our stock tables will contain most of the new leaders. I’ve also found that just because some of the sectors in the back half haven’t been leaders recently doesn’t mean that some of them won’t later possibly become turnarounds. Lower-ranked and poor-performing sectors in this issue are Computer— Hardware, Savings & Loans, Apparel, Machinery, Media, Steel, Real Estate, and Semiconductors.
 
 **NASDAQ STOCKS IN THE NEWS**
-
-
-![image](images/Chapter3-81e20348ef2b932835e40062883d4cce68460ab7bd56f5e3587e3031a68ba72f.jpg)
-
 
 These rankings can shift over a period of weeks or months. But it pays to know what’s leading now and which names within each sector have the best fundamental and market-action variables. That’s where you want to concentrate your research.
 
@@ -1608,6 +1541,8 @@ Below the how-to-read box is a short list of “do’s and don’ts”—in othe
 
 最后收尾的部分：我们报道的期货和期权内容比大多数出版物更多。这里有一个债券市场专栏、几张利率图表，以及不少于 36 张商品期货图表。
 
+![image](images/Chapter3-0a03d4f57d2a04ac14465a248f62c4c8573ba37ec982fecdb303658027d7c679.jpg)
+
 The “IBD Timesaver Table” on the same page is a feature many busy people like to use because it picks up all the high-ranking stocks that were up or down in price in a short table that includes volume and some other rankings. I always check this and take particular note of the “Stocks Down” list. I want to be aware of the stocks that have been hit hard because this could affect others in the same industry. If a stock shows up repeatedly on this list, it could be that it has topped and is headed for more trouble.
 
 I’ve mentioned that we have 10 different ways you can zero in on the leading groups. We also have little sector charts under the heading “Leading Market Indexes.” Each has a daily price and volume chart. Hi-tech, Junior Growth, Leisure, and Consumer Sectors now top the list.
@@ -1627,9 +1562,6 @@ It helps to be up on stocks that come through with better-than-expected earnings
 To wrap up the paper, we cover more futures and options than most publications. There’s a column on the bond market, several interest-rate charts and tables, and no fewer than 36 charts on commodities futures.
 
 **Key Commodity Futures**
-
-
-![image](images/Chapter3-0a03d4f57d2a04ac14465a248f62c4c8573ba37ec982fecdb303658027d7c679.jpg)
 
 ### “Investor’s Corner” and IBD 100
 
@@ -1760,6 +1692,8 @@ Most Active—NYSE and Nasdaq This daily column (also found in the print edition
 
 **IBD 图表告诉你买卖的正确时机** 在没有先看图之前，绝不要买入 IBD 行情表中任何高评级的股票；对你持有的任何股票，也值得定期检视日线图和周线图。这一步至关重要，能帮你发现正在形成的趋势、跟踪股价走势，从而知道确切的买卖时点。IBD 图表的设计目的，就是让新手和有经验的看图者都更容易、更迅速地看清真实情况。在 Investors.com 注册后，这些日线图和周线图均可免费使用。
 
+![image](images/Chapter3-03d655bd5b897f93cc94e4b946c203a78c6f799317aa9c41422a7c409cbcf59c.jpg)
+
 如果你对图表心存畏惧，就把股票图想成"一图胜千言"。它会告诉你一家公司的进展（或停滞）中一些至关重要的事。用不了多久，你的检视就会变得相当自动化。日线图还能帮你发现未来可能的赢家。IBD 日线图包含以下内容：
 
 - 价格上涨日以蓝色表示，下跌日以红色表示
@@ -1820,7 +1754,6 @@ In the “General Market and Industry Group” section, you’ll also get a pass
 
 For those who are intimidated by charts, think of a stock chart as a “picture worth a thousand words.” It will tell you some vital things about the progress (or lack of progress) of any company. In time, you will find your review is quite automatic. Daily charts can also help you spot possible future winners. IBD daily charts include the following:
 
-![image](images/Chapter3-03d655bd5b897f93cc94e4b946c203a78c6f799317aa9c41422a7c409cbcf59c.jpg)
 - Up days in price in blue; down days in red
 
 - Continually updated price and volume data
@@ -1845,6 +1778,8 @@ To capture the biggest gains, it’s important that you use both daily and weekl
 
 "我的股票清单"。借助"我的股票清单"，你最多可创建五份清单，每份最多 50 只股票。为保持条理、节省时间，你可以按不同用途创建不同清单。例如，为所持股票建一份"我的组合"清单，为当前正在构筑底部的龙头股建一份"筑底股"清单，为接近正确买点的股票建一份"接近买点"清单。定期审视和管理你的清单、按需增删股票，很重要。
 
+![image](images/Chapter3-7ecb6927ad9383d48efc6a3380aeb14162031df81089fc1daf43573348ba14ef.jpg)
+
 为帮你跟踪所持股票的表现，"我的最大波动股"功能会自动提醒你：清单中哪些股票正出现最大的价格波动，无论涨跌。
 
 "我的股票清单"还让你一键访问每只股票的"IBD 股票体检"、IBD 图表和 IBD 档案。用 IBD 档案读一读 IBD 关于你关注公司的报道，能为股票背后的故事提供宝贵洞见。用"IBD 股票体检"和 IBD 图表，持续评估你所持有和关注的股票。
@@ -1852,9 +1787,6 @@ To capture the biggest gains, it’s important that you use both daily and weekl
 Once you’ve evaluated and purchased a stock, it’s crucial that you track its performance. “Buy and hold” is a dangerous strategy, as all stocks—even those of well-known, established companies—can be volatile and risky. To be a successful investor over the long haul, you need to keep all your losses small and to know when to sell and take your profits. Chapters 10 and 11 discuss how you can do that with time-tested sell rules. The “My Stock Lists” feature on Investors.com will help you stay organized so you can apply them effectively.
 
 “My Stock Lists” With “My Stock Lists,” you can create up to five lists with up to 50 stocks on each list. To stay organized and save time, you can create different lists for different purposes. For example, you could create a “My Portfolio” list for the stocks you own, a list of “Stocks in Bases” for leading stocks that are currently forming a base, and a “Near a Buy Point” list for stocks that are approaching a proper buy point. It’s important that you review and manage your lists regularly, adding and deleting stocks as needed.
-
-![image](images/Chapter3-7ecb6927ad9383d48efc6a3380aeb14162031df81089fc1daf43573348ba14ef.jpg)
-
 
 <table><tr><td>Symbol</td><td>Company Name</td><td colspan="2">Price Price Chg.</td><td colspan="4">Price % Chg. Volume (0000) Volume % Chg. HBD Tools</td></tr><tr><td>MYGN</td><td>Myriad Genetics</td><td>\$43.64</td><td>-1.43‡</td><td>-3.17%‡</td><td>185</td><td>0.75%†</td><td>√</td></tr><tr><td>NTES</td><td>Netease.Com Inc Adr</td><td>\$26.66</td><td>0.21†</td><td>0.79%†</td><td>254</td><td>92.92%†</td><td>√</td></tr><tr><td>OTEX</td><td>Open Text Corp</td><td>\$33.42</td><td>0.44†</td><td>1.33%†</td><td>71</td><td>30.47%†</td><td>√</td></tr><tr><td>GMCR</td><td>Green Mtn Coffee Roastrs</td><td>\$49.06</td><td>2.41†</td><td>5.17%†</td><td>63</td><td>9.50%†</td><td>√</td></tr><tr><td>QSII</td><td>Quality Systems Inc</td><td>\$46.94</td><td>2.94†</td><td>6.68%†</td><td>80</td><td>42.87%†</td><td>√</td></tr></table>
 
@@ -1874,6 +1806,8 @@ To help you track the performance of your stocks, the “My Biggest Price Movers
 4. IBD 图表
 5. "我的股票清单"
 
+![image](images/Chapter3-490f94158badc4e4b03fdfad4a748f836d9c91dedbdd0be65c4b35c0a8c2c76a.jpg)
+
 “My Routine” gives you one-click access to your favorite tools and features from virtually any page on Investors.com. It’s a convenient, time-saving way to go through your investing “to do” list quickly.
 
 Here’s a sample routine you could set up to follow market direction and find, evaluate, and track your stocks.
@@ -1887,9 +1821,6 @@ Here’s a sample routine you could set up to follow market direction and find, 
 4. IBD charts
 
 5. “My Stock Lists”
-
-![image](images/Chapter3-490f94158badc4e4b03fdfad4a748f836d9c91dedbdd0be65c4b35c0a8c2c76a.jpg)
-
 
 ### Continuing Education—The Key to Investing Success
 
@@ -2143,6 +2074,8 @@ Since Yesterday, The 1930s in America by Frederick Lewis Allen, gives a good acc
 
 历史如今正在行进，但不像 1929 年，而像 1938 年。那么，1938 年发生了什么？
 
+![image](images/Chapter3-aaf91f2402181e6e940208482de3142e049ae5d343c720672e7834087328b77e.jpg)
+
 1930 年，纳粹党在德国国会赢得 107 个席位。1933 年 1 月，希特勒出任德国总理。他那时已拥有冲锋队、希特勒青年团和其他纳粹组织。仅仅几个月后，国会就把全部宪法权力交给希特勒；到 7 月，所有其他政党都被取缔。希特勒则一直声称自己只对和平感兴趣。
 
 到 1938 年，英法同希特勒谈判，试图以让步来安抚他。英国相信他们已与希特勒达成和平协议——"我们时代的和平"。人群欢呼。在议会里，丘吉尔说："我们遭受了一场失败。"没人相信他，他被喝了倒彩。1939 年，第二次世界大战爆发。德国两周内就碾平了法国。
@@ -2160,8 +2093,6 @@ The reason history repeats in this amazing manner is that the market is made up 
 The rally from the 1932 low to the 1936-37 peak lasted the same amount of time as our Nasdaq recent rally back from the low of 2002 to 2007 . . . and both fell around 50%.
 
 History is now on the march, but it’s not like 1929, it’s like 1938. So, what was happening in 1938?
-
-![image](images/Chapter3-aaf91f2402181e6e940208482de3142e049ae5d343c720672e7834087328b77e.jpg)
 
 >Nasdaq Composite February 1992–March 2009 compared to Dow Jones Industrials November 1921–December 1942.
 
@@ -2551,7 +2482,6 @@ You can’t be successful and on top of the market without making any trades. Go
 4. 在糟糕的市场中割肉离场
 5. 缺乏耐心，过早丧失信心
 
-
 1. Failing to sit tight for at least 10 to 15 years
 2. Worrying about a fund’s management fee, its turnover rate, or the dividends it pays
 3. Being affected by news in the market when you’re supposed to be investing for the long term
@@ -2730,10 +2660,11 @@ Some of our institutional clients who use WONDA say they can “practically prin
 
 随附的 Dome Petroleum Datagraph 已做标注，以突出我们解读和使用这份基本面与技术信息展示的几种方式。1977 年 11 月，我们以 48 美元向机构推荐了 Dome。基金经理们不喜欢这个主意，于是我们自己去买。Dome 成了我们当时最大的赢家之一。这个以及后面的案例研究，都是它究竟如何做成的真实例子。
 
+![image](images/Chapter3-00c8320a2d1583c822a94e8ac93a29ed48ed4b04a7e937d2b8d8dd8e4939658b.jpg)
+
 One of the secrets that you, as a winning individual investor, should never forget is that you want to buy a stock before its potential is obvious to others. When numerous research reports show up, it might actually be time to consider selling. If it’s value is obvious to almost everyone, it’s probably too late.
 
 ##### 30 Positive Factors on Dome Petroleum in November 1977
-![image](images/Chapter3-00c8320a2d1583c822a94e8ac93a29ed48ed4b04a7e937d2b8d8dd8e4939658b.jpg)
 
 The accompanying Datagraph of Dome Petroleum has been marked up to highlight a few of the ways we interpret and use this display of fundamanetal and technical information. We suggested Dome to institutions in November, 1977 at \$48. Fund managers didn’t like the idea, so we bought the stock ourselves. Dome became one of our biggest winners at that time. This and the following case studies are real-life examples of how it’s actually done.
 
@@ -2955,6 +2886,8 @@ O'NEIL 新龙头与落后者回顾长期记录：10635 条龙头思路、5089 �
 
 2009 年 3 月
 
+![image](images/Chapter3-8f66667a37a33dbfc73ea18d8361d216d90082f24ad4c10563e79eb55f13bec7.jpg)
+
 业绩计算反映的是每周复利回报率。任何计算均未考虑股息和佣金。所有持仓在每周开始时重新平衡为等额美元。涨跌百分比仅针对周末仍留在"龙头思路"或"落后者思路"名单上的品种计算。
 
 业绩结果并不代表实际交易，也可能未反映：若真正管理客户资金，重大经济与市场因素可能对投资决策过程产生的影响。以上内容并不暗示未来会有可比的表现。应当认识到，大多数普通股都含有相当大的投机风险。
@@ -2974,8 +2907,6 @@ How well has this approach worked? In 1977, we introduced an institutional servi
 O’NEIL NEW LEADERS & LAGGARDS REVIEW LONG-TERM RECORD 10635 LEADER IDEAS AND 5089 LAGGARD IDEAS
 
 MARCH 2009
-
-![image](images/Chapter3-8f66667a37a33dbfc73ea18d8361d216d90082f24ad4c10563e79eb55f13bec7.jpg)
 
 Performance computations reflect a weekly compounded rate of return. Dividends and commissions were not considered in any computations. All holdings are rebalanced to equal dollar amounts at the beginning of the week. Percent gains and losses are calculated for all issues that remain on the “LEADER IDEAS” or “LAGGARD IDEAS” at the end of the week.
 

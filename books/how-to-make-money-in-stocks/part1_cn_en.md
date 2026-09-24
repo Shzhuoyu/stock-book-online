@@ -82,11 +82,19 @@ As mentioned in the introduction, and as shown on the annotated charts of histor
 
 在多数、但并非全部情况下，杯底应当是圆滑的，呈“U”形而非狭窄的“V”形。这一特征让股票有时间经历一次必要的自然回调，并在杯底附近出现两三次最后的小幅疲软。这个“U”形区域很重要，因为它能吓退或耗尽残留的弱势持有者，并把其他投机者的注意力从这只股票上引开。由此，一个由更稳固的持有者组成的、在下一次上涨中更不易抛售的基础便建立起来。随附的图表来自 Daily Graphs Online®，展示了苹果电脑 2004 年 2 月的日线价量走势。
 
+![image](images/Part1-3f799d3771b8abbb792e98ec7840f6d6e2c856a6908380cd1ac41c50818c5139.jpg)
+
 成长型股票在大盘中段回调期间形成杯形、并回调到大盘均值的 1½ 到 2½ 倍，是正常的。你最好的选择，通常是那些在中段回调中形态受损最小的股票。无论牛市还是熊市，跌幅超过大盘均值 2½ 倍的股票通常过于宽泛、松散，必须以怀疑的眼光看待。2000 年第二、三季度，JDS Uniphase 等数十家前高科技龙头形成了宽、松、深的杯形，它们几乎都是有缺陷、易失败的形态，预示着这些股票在试图突破创新高时应当被回避。
 
 极少数波动剧烈的龙头股，在牛市中可能暴跌 40% 甚至 50%。在牛市中回调幅度超过这一水平的形态，若试图创新高并恢复涨势，失败率更高。原因何在？从峰值到低点跌幅超过 50%，意味着股票必须从低点上涨逾 100% 才能回到原高点。历史研究表明，在如此巨大的波动之后再创新高的股票，往往会在突破价位之上 5% 到 15% 处失败。从底部直接冲上新高的股票可能风险更大，因为它们没有回踩。
 
+![image](images/Part1-4910aa6e36a9f6c1b0e00d0ac4f31f73e80a6b9f5a9e4b671c613958e9f64e1d.jpg)
+
 Sea Containers 是一个很突出的例外。它在 1975 年牛市的中段回调中下跌约 50%，随后形成一个形态完美的杯柄结构，并在接下来 101 周里上涨 554%。这只股票盈利增长率达 54%，最新季度业绩大增 192%；1975 年 6 月初我在波士顿向富达研究管理公司做月度演示时，它是我列举的几只经典杯柄股之一。看到这样惊人的数字，一位投资组合经理当即产生了兴趣。
+
+![image](images/Part1-c4b128f90a8d5ced7636440fc67471d3b54e295b73f093223fcb6a1e4b3d9143.jpg)
+
+![image](images/Part1-f70b1f383a03c556bf6c56bc8e7da149fab673e34527e481d02c20d50ae4ed62.jpg)
 
 从这个例子可以看出，某些在大盘中段回调或重大熊市中回调了 50% 到 60% 甚至更多的形态，也可能成功。（参见 Sea Containers 和 The Limited 的图表。）在这些情形下，回调的百分比取决于大盘下跌的严重程度，以及该股前期涨幅之巨大。
 
@@ -94,31 +102,11 @@ One of the most important price patterns looks like a cup with a handle when the
 
 In most, but not all, cases, the bottom part of the cup should be rounded and give the appearance of a “U” rather than a very narrow “V.” This characteristic allows the stock time to proceed through a needed natural correction, with two or three final little weak spells around the lows of the cup. The “U” area is important because it scares out or wears out the remaining weak holders and takes other speculators’ attention away from the stock. A more solid foundation of strong owners who are much less apt to sell during the next advance is thereby established. The accompanying chart from Daily Graphs Online® shows the daily price and volume movements for Apple Computer in February 2004. 
 
-![image](images/Part1-3f799d3771b8abbb792e98ec7840f6d6e2c856a6908380cd1ac41c50818c5139.jpg)
-
-
 It’s normal for growth stocks to create cup patterns during intermediate declines in the general market and to correct 1½ to 2½ times the market averages. Your best choices are generally stocks with base patterns that deteriorate the least during an intermediate market decline. Whether you’re in a bull market or a bear market, stock downturns that exceed 2½ times the market averages are usually too wide and loose and must be regarded with suspicion. Dozens of former high-tech leaders, such as JDS Uniphase, formed wide, loose, and deep cup patterns in the second and third quarters of 2000. These were almost all faulty, failure-prone patterns signaling that the stocks should have been avoided when they attempted to break out to new highs. 
 
 A very small number of volatile leaders can plunge by as much as 40% or 50% in a bull market. Chart patterns that correct by more than this amount during bull markets have a higher rate of failure if they try to make new price highs and resume their advance. The reason? A downswing of over 50% from a peak to a low means that the stock must increase more than 100% from its low to get back to its old high. Historical research has shown that stocks that make new price highs after such huge moves tend to fail 5% to 15% beyond their breakout prices. Stocks that come straight off the bottom into new highs off cups can be more risky because they had no pullbacks. 
 
-![image](images/Part1-4910aa6e36a9f6c1b0e00d0ac4f31f73e80a6b9f5a9e4b671c613958e9f64e1d.jpg)
-
-
 Sea Containers was a glowing exception. It descended about 50% during an intermediate decline in the 1975 bull market. It then formed a perfectly shaped cup-with-handle price structure and proceeded to increase 554% in the next 101 weeks. This stock, with its 54% earnings growth rate and its latest quarterly results up 192%, was one of several classic cup-with-handle stocks that I presented to Fidelity Research & Management in Boston during a monthly meeting in early June 1975. Upon seeing such big numbers, one of the portfolio managers was instantly interested. 
-
-![image](images/Part1-c4b128f90a8d5ced7636440fc67471d3b54e295b73f093223fcb6a1e4b3d9143.jpg)
-
-
-
-© 2009 Investor’s Business Daily, Inc.
-
-
-![image](images/Part1-f70b1f383a03c556bf6c56bc8e7da149fab673e34527e481d02c20d50ae4ed62.jpg)
-
-
-
-© 2009 Investor’s Business Daily, Inc.
-
 
 As you can see by this example, some patterns that have corrected 50% to 60% or more coming out of an intermediate bull market decline or a major bear market can succeed. (See the charts for Sea Containers and The Limited.) In these cases, the percent of decline is a function of the severity of the general market decline and the tremendous extent of the stock’s prior price run-up. 
 
@@ -180,6 +168,8 @@ Nearly all proper bases will show a dramatic drying up of volume for one or two 
 
 数周放量上涨、另一些周又出现极端缩量的组合，同样是非常有建设性的信号。如果你把 Daily Graphs Online 图表服务与周线图结合使用，就能看到有时仅发生在某一天的异常交易活动。微软在突破 31½ 买点的那天，成交量比均值高出 545%，显示出真正重要的机构买盘。此后它开启了一轮长达 13 年的大牛市，从拆股调整后的 10 美分涨到 53.98 美元。这样的涨幅够惊人吧？
 
+![image](images/Part1-5429969741a2218efdf8d80ff5984fc10667305be0d6349300bf7c50e0b09070.jpg)
+
 成交量是个了不起的话题，值得仔细研究。它能帮你辨识一只股票是处于吸筹（机构买入）还是派发（机构卖出）。一旦掌握这项技能，你就不必再依赖分析师和所谓专家的个人意见。关键位置的大成交量是不可或缺的。
 
 成交量是衡量供需与机构支持的最佳指标——这是成功股票分析的两个关键要素。要学会用图表来正确把握买入时机。在错误的时间买入，更糟的是买入并未处于吸筹之中、或形态不健康、有缺陷的股票，代价实在太大。
@@ -189,9 +179,6 @@ Nearly all proper bases will show a dramatic drying up of volume for one or two 
 Another clue that is valuable to the trained chart specialist is the occurrence of big daily and weekly volume spikes. Microsoft is an example of an outstanding stock that flashed heavy accumulation just before a huge run-up. 
 
 Weeks of advancing prices on heavy volume, followed in other weeks by extreme volume dry-ups, are also a very constructive sign. If you use a Daily 
-
-![image](images/Part1-5429969741a2218efdf8d80ff5984fc10667305be0d6349300bf7c50e0b09070.jpg)
-
 
 Graphs Online chart service in conjunction with the weekly graphs, you’ll be able to see unusual trading activity that sometimes happens on only one day. The day Microsoft broke out at its 31½ buy point, its volume was 545% above average, signaling really important institutional buying. It then had a 13-year bull run from a split-adjusted 10 cents to \$53.98. How’s that for a big percentage move? 
 
@@ -205,30 +192,15 @@ The next time you consider buying a stock, check its weekly volume. It’s usual
 
 德州仪器、苹果、General Cable 和 Precision Castparts，在形态的长度与深度上都很相似。你能看出苹果与 Precision Castparts 之间的相似之处吗？当你学会更娴熟地做到这一点，将来就能像识别这些过去的赢家一样，辨认出许多杯柄形。
 
-Texas Instruments, Apple, General Cable, and Precision Castparts were all similar-size patterns in length and depth. Can you recognize the similarity between Apple and Precision Castparts? As you learn to do this with greater skill, you will in the future be able to spot many cup with handles just like these past winners. 
-
 ![image](images/Part1-b0b0180de77d64300cae51c41207db8fc2e9b6a95215063cf8280b779c5782e3.jpg)
-
-
-
-Investor’sBusinessDail
-
 
 ![image](images/Part1-fa392a0625cc3065043c8f998b5851c532e0c7f7db707cf77f3ef22e4211444d.jpg)
 
-
-
-Investor’sBusinessDail
-
-
 ![image](images/Part1-4e5319a3c3389fee9306dc25858dc20f305b965e1e8203a295cfbb289fdbb570.jpg)
 
-
-
-© 2009 Investor’s Business Daily, Inc.
-
-
 ![image](images/Part1-f372a769b96812944ddacb5f59b2ff4abd62dd99fec89254c36ba4992b71b97a.jpg)
+
+Texas Instruments, Apple, General Cable, and Precision Castparts were all similar-size patterns in length and depth. Can you recognize the similarity between Apple and Precision Castparts? As you learn to do this with greater skill, you will in the future be able to spot many cup with handles just like these past winners. 
 
 ### The Value of Market Corrections
 
@@ -266,75 +238,51 @@ A bear market is the time to do a postanalysis of your prior decisions. Plot on 
 
 所谓“带柄浅碟形”，是一种与杯柄形相似的形态，只是浅碟部分往往延续更长时间，使形态变得更浅。（如果“杯柄形”和“带柄浅碟形”这些名称听起来古怪，不妨想想：多年来你一直认得并称之为“北斗七星”和“小北斗”的某些星座，不也是如此命名吗？）1967 年 4 月的 Jack Eckerd，就是带柄浅碟形底部的例子。
 
-A “saucer with handle” is a price pattern similar to the cup with handle except that the saucer part tends to stretch out over a longer period of time, making the pattern shallower. (If the names “cup with handle” and “saucer with handle” sound unusual, consider that for years you have recognized and called certain constellations of stars the “Big Dipper” and the “Little Dipper.”) Jack Eckerd in April 1967 was an example of the saucer-with-handle base. 
-
 ![image](images/Part1-24a327046058ffe8607dd2b95b8d6150527c771ef148689b3f6380bbe66af74d.jpg)
+
+A “saucer with handle” is a price pattern similar to the cup with handle except that the saucer part tends to stretch out over a longer period of time, making the pattern shallower. (If the names “cup with handle” and “saucer with handle” sound unusual, consider that for years you have recognized and called certain constellations of stars the “Big Dipper” and the “Little Dipper.”) Jack Eckerd in April 1967 was an example of the saucer-with-handle base. 
 
 ### Recognizing a “Double-Bottom” Price Pattern
 
 “双重底”形态看上去像字母“W”。这种形态出现的频率不如杯柄形，但仍然相当常见。通常重要的是：W 的第二个底要与第一个底的价格水平（低点）持平，或在几乎所有情况下明确地比它低一两点，从而清洗掉较弱的投资者。未能跌破则可能形成有缺陷、更易失败的“近乎”双重底。双重底也可能带柄，尽管柄部并非必需。
 
+![image](images/Part1-f5714d9eb4445643dc9c773f5635eea4d1bb73c9b2f54e47310488a1e42dd9a1.jpg)
+
 双重底的深度和横向长度与杯形相近。双重底的枢轴买点位于 W 的右上侧，即股票在第二腿下跌后回升之处。枢轴点的价格应等于 W 中间峰的高度，而该峰应止步于形态峰值价格略下方一点。若双重底带柄，则由柄部的峰价决定枢轴买点。请参见随附的 Dome Petroleum、Price Co. 和思科系统图表——它们分别是 1977、1982 和 1990 年出现的出色双重底形态。稍晚的例子有 EMC、NVR 和 eBay。
 
 就双重底形态而言，适用如下符号：A = 底部起点；B = 第一腿的底；C = W 的中部（确定买点）；D = 第二腿的底。若双重底带柄，则 E = 柄部顶端（确定买点），F = 柄部底端。
 
+![image](images/Part1-3e9eb274cbbf971d9cfc3d2864eaeb0893e6db54adbd12646195f39a40e55eb4.jpg)
+
+![image](images/Part1-f4d0f05ec8b7a1bbd4e3050757c7b42e6d683e10f1fb3f18381dbd1487fe5dc8.jpg)
+
+![image](images/Part1-a72c5d467d90e415533c11c5cb58bd5f09a74d64b9930ae55160b9ccd86cc7a1.jpg)
+
+![image](images/Part1-cff7219bdaece630ba8f8880d8c879c9dec06d1713cf53649b11417ea622e47f.jpg)
+
+![image](images/Part1-14cc5f0a0e9eca6098ca8bdcae763770a83ad400952b8885a5cddfb94545e0db.jpg)
+
+![image](images/Part1-a1a20d621f732974d0d2bd49f5eb8b03eb094d134d35058bda69a60c9e7450a9.jpg)
+
 A “double-bottom” price pattern looks like the letter “W.” This pattern also doesn’t occur quite as often as the cup with handle, but it still occurs frequently. It is usually important that the second bottom of the W match the price level (low) of the first bottom or, as in almost all cases, clearly undercut it by one or two points, thereby creating a shakeout of weaker investors. Failure to undercut may create a faulty, more failure-prone “almost” double bottom. Double bottoms may also have handles, although this is not essential. 
-
-![image](images/Part1-f5714d9eb4445643dc9c773f5635eea4d1bb73c9b2f54e47310488a1e42dd9a1.jpg)
-
 
 The depth and horizontal length of a double bottom are similar to those of the cup formation. The pivot buy point in a double bottom is located on the top right side of the W, where the stock is coming up after the second leg down. The pivot point should be equal in price to the top of the middle peak of the W, which should stop somewhere a little below the pattern’s peak price. If the double bottom has a handle, then the peak price of the handle determines the pivot buy point. See the accompanying charts for Dome Petroleum, Price Co. and Cisco Systems for outstanding examples of double-bottom price patterns found during 1977, 1982, and 1990. Some later examples are EMC, NVR, and eBay. 
 
 For double-bottom patterns, the following symbols apply: A = beginning of base; B = bottom of first leg; C = middle of W that sets the buy point; D = bottom of second leg. If the double-bottom pattern has a handle, then E = top of the handle (sets the buy point) and F = bottom of the handle. 
 
-![image](images/Part1-3e9eb274cbbf971d9cfc3d2864eaeb0893e6db54adbd12646195f39a40e55eb4.jpg)
-
-
-9 Investor’s Business Daily 
-
-![image](images/Part1-f4d0f05ec8b7a1bbd4e3050757c7b42e6d683e10f1fb3f18381dbd1487fe5dc8.jpg)
-
-
-![image](images/Part1-a72c5d467d90e415533c11c5cb58bd5f09a74d64b9930ae55160b9ccd86cc7a1.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-cff7219bdaece630ba8f8880d8c879c9dec06d1713cf53649b11417ea622e47f.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-14cc5f0a0e9eca6098ca8bdcae763770a83ad400952b8885a5cddfb94545e0db.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-a1a20d621f732974d0d2bd49f5eb8b03eb094d134d35058bda69a60c9e7450a9.jpg)
-
 ### Definition of a “Flat-Base” Price Structure
 
 平底是另一种颇有回报的价格结构。它通常是第二阶段底部，出现在股票从杯柄形、带柄浅碟形或双重底上涨 20% 或更多之后。平底在至少五到六周内于相当紧凑的价格区间内横盘，回调不超过 10% 到 15%。1979 年 5 月的俄亥俄标准石油、1978 年 3 月的 Smith-Kline，以及 1982 年的 Dollar General，都是平底的好例子。
 
-Pep Boys 在 1981 年 3 月形成了一个较长的平底。如果你错过了某只股票从杯柄形发起的首次突破，就该继续留意它。它迟早可能形成一个平底，给你第二次上车的机会。这里再举几个较近的例子：Surgical Care Affiliates、CB Richard Ellis 和 Deckers Outdoor。
-
-A flat base is another rewarding price structure. It is usually a second-stage base that occurs after a stock has advanced 20% or more off a cup with handle, saucer with handle, or double bottom. The flat base moves straight sideways in a fairly tight price range for at least five or six weeks, and it does not correct more than 10% to 15%. Standard Oil of Ohio in May 1979, Smith - Kline in March 1978, and Dollar General in 1982 are good examples of flat 
-
 ![image](images/Part1-aa315cfeccff29662b780ac1c50527bcd43dccc40df16e6eb393bc7f16432caf.jpg)
-
 
 ![image](images/Part1-947b6480764a8b6ade185fcfdc1b6de763d2c55f1eced5421a3b6c51da6c8205.jpg)
 
-
 ![image](images/Part1-12da49617ec6892a1a06db6fb8340c0ebabee4438e3569684e7071f092aca57c.jpg)
 
+Pep Boys 在 1981 年 3 月形成了一个较长的平底。如果你错过了某只股票从杯柄形发起的首次突破，就该继续留意它。它迟早可能形成一个平底，给你第二次上车的机会。这里再举几个较近的例子：Surgical Care Affiliates、CB Richard Ellis 和 Deckers Outdoor。
 
+A flat base is another rewarding price structure. It is usually a second-stage base that occurs after a stock has advanced 20% or more off a cup with handle, saucer with handle, or double bottom. The flat base moves straight sideways in a fairly tight price range for at least five or six weeks, and it does not correct more than 10% to 15%. Standard Oil of Ohio in May 1979, Smith - Kline in March 1978, and Dollar General in 1982 are good examples of flat 
 
 bases. Pep Boys in March 1981 formed a longer flat base. If you miss a stock’s initial breakout from a cup with handle, you should keep your eye on it. In time it may form a flat base and give you a second opportunity to get on board. Here are a few more recent examples: Surgical Care Affiliates, CB Richard Ellis, and Deckers Outdoor.
 
@@ -342,29 +290,19 @@ bases. Pep Boys in March 1981 formed a longer flat base. If you miss a stock’s
 
 从杯柄形或双重底上行之后，这种形态通常持续四到七周，跌幅不大（一般只有 10% 到 15%），并呈方方正正的箱形外观。我多年来注意到它，最终才加以研究、度量和归类。举几个例子：Lorillard、Korvette、德州仪器、家得宝、戴尔和 Taro。
 
-After moving up from a cup with handle or double bottom, this formation typically lasts from four to seven weeks; doesn’t correct too much, usually only 10% to 15%; and has a square, boxy look. I’ve noted this over recent years, but finally we’ve studied, measured, and classified it. Here are some examples: Lorillard, Korvette, Texas Instruments, Home Depot, Dell, and Taro. 
-
 ![image](images/Part1-5541e1292abe2b07f85826f5e4174c9b1f17629b55328069e544d40413323028.jpg)
-
 
 ![image](images/Part1-3ed88836f6180e1951988597e2af1e57c9e0453d50578e188e0ce0f1ead2ecd5.jpg)
 
-
 ![image](images/Part1-4093d929d134ae9a9fd86f857ae70b03244f99bc3ab9e4d5d29ffd0942315fe6.jpg)
-
-
-© 2009 Investor’s Business Daily, Inc. 
 
 ![image](images/Part1-6e8f04535f557fc21136385aac7b3544dc335c4ed848a95f5f8c31dc4a3c3e07.jpg)
 
-
 ![image](images/Part1-1e5257a9c54f8403b66bf57c8c961ed6ec5b2fd5a316b31e2f4ff2cd6ba352a3.jpg)
-
 
 ![image](images/Part1-b4fc54091d88fb95d901a80306a2b184dd27265dfcbc9dce7d8d2c57777538da.jpg)
 
-
-© 2009 Investor’s Business Daily, Inc. 
+After moving up from a cup with handle or double bottom, this formation typically lasts from four to seven weeks; doesn’t correct too much, usually only 10% to 15%; and has a square, boxy look. I’ve noted this over recent years, but finally we’ve studied, measured, and classified it. Here are some examples: Lorillard, Korvette, Texas Instruments, Home Depot, Dell, and Taro. 
 
 ### High, Tight Flags Are Rare
 
@@ -372,97 +310,41 @@ After moving up from a cup with handle or double bottom, this formation typicall
 
 这是最强的形态，但也非常危险、难以正确解读。许多股票能从这个形态上暴涨 200% 甚至更多。（参见 Bethlehem Steel，1915 年 5 月；American Chain & Cable，1935 年 10 月；E. L. Bruce，1958 年 6 月；Zenith，1958 年 10 月；Universal Controls，1958 年 11 月；Certain-teed，1961 年 1 月；Syntex，1963 年 7 月；Rollins，1964 年 7 月；Simmonds Precision，1965 年 11 月；Accustaff，1995 年 1 月；Emulex，1999 年 10 月；JDS Uniphase，1999 年 10 月；Qualcomm，1999 年 12 月；Taser International，2003 年 11 月；以及 Google，2004 年 9 月的图表。每一个较早的形态都是较晚形态的前例，所以要仔细研究它们。
 
+![image](images/Part1-f9a6370e12e13bae6a0f51a1aaf2917788730b5df200c05964b8e68fde0efa1d.jpg)
+
+![image](images/Part1-a5bc69a57bff8ef02b756c5b52e8b6b9512a74f826e9d3f04cdcb2a3f4dc88e5.jpg)
+
+![image](images/Part1-f830283f61bd64799ed53f371b7ad0be389d0fd1fbbd5e85e5d62772b028a675.jpg)
+
+![image](images/Part1-835d9f4f221e878afbb0246665d4730fd7ee167145d7a9a93500827f8a4acfee.jpg)
+
+![image](images/Part1-fbd582da85f6c9d43f33229923cb2da2151f338b7902a8a965d7bd359cb5ac6b.jpg)
+
+![image](images/Part1-7426c7080cd39b84ef57a77cc73a3f366e71cb7b0198db0ec7100826f9d61731.jpg)
+
+![image](images/Part1-427008fc94498b0ff400364230f7f04ba02cdfc6f55ace6a2be90ba2a3f89f82.jpg)
+
+![image](images/Part1-f29522b9ded94c79e19a051eee22b75def5a0514b1ec91f434547d9acbb85a92.jpg)
+
+![image](images/Part1-93a25d026351b171b21e9c859e34fde2402b483d13dc9f1350d864d34dbe1515.jpg)
+
+![image](images/Part1-c0c228a8a97986dbf2bc88c51de6f0c870853baed4361ab1fdaf2af66825b3af.jpg)
+
+![image](images/Part1-2a030e476437072f1fde3521a93c3eab4c863f690a435606d8f9ac07cd9c6e8b.jpg)
+
+![image](images/Part1-4277567db766a80ed573af686c44643bbae8cf10dbaf8838250d36b5b71025f7.jpg)
+
+![image](images/Part1-0356c87150c6477853fe2693cb8d75d523ffbb6dd6f75dd9e83ff2da237a4c3a.jpg)
+
+![image](images/Part1-115be35c5591fb44f2ebb696093a089ed8523843aa139da01c30b708eb6e8716.jpg)
+
+![image](images/Part1-5ab0683f5abeb34e29e6c2142d26c76c2469738f344ca968c177fee39e2732d2.jpg)
+
 1958 年第二季度约 50 美元处的 E. L. Bruce 形态，为 1961 年 Certain-teed 的上涨提供了完美的形态前例。而 Certain-teed 又反过来成为我在 1963 年 7 月买入第一只超级赢家 Syntex 时所参照的图表范本。
 
 A “high, tight flag” price pattern is rare, occurring in no more than a few stocks during a bull market. It begins with the stock moving generally 100% to 120% in a very short period of time (four to eight weeks). It then corrects sideways no more than 10% to 25%, usually in three, four, or five weeks. 
 
 This is the strongest of patterns, but it’s also very risky and difficult to interpret correctly. Many stocks can skyrocket 200% or more off this formation. (See the charts for Bethlehem Steel, May 1915; American Chain & Cable, October 1935; E. L. Bruce, June 1958; Zenith, October 1958; Universal Controls, November 1958; Certain-teed, January 1961; Syntex, July 1963; Rollins, July 1964; Simmonds Precision, November 1965; Accustaff, January 1995; Emulex, October 1999; JDS Uniphase, October 1999; Qualcomm, December 1999; Taser International, November 2003; and Google, September 2004. Each earlier pattern serves as a precedent for each later pattern, so study them carefully. 
-
-![image](images/Part1-f9a6370e12e13bae6a0f51a1aaf2917788730b5df200c05964b8e68fde0efa1d.jpg)
-
-
-![image](images/Part1-a5bc69a57bff8ef02b756c5b52e8b6b9512a74f826e9d3f04cdcb2a3f4dc88e5.jpg)
-
-
-![image](images/Part1-f830283f61bd64799ed53f371b7ad0be389d0fd1fbbd5e85e5d62772b028a675.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-835d9f4f221e878afbb0246665d4730fd7ee167145d7a9a93500827f8a4acfee.jpg)
-
-
-
-9 Investor’s Business Daily
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-fbd582da85f6c9d43f33229923cb2da2151f338b7902a8a965d7bd359cb5ac6b.jpg)
-
-
-![image](images/Part1-7426c7080cd39b84ef57a77cc73a3f366e71cb7b0198db0ec7100826f9d61731.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-427008fc94498b0ff400364230f7f04ba02cdfc6f55ace6a2be90ba2a3f89f82.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-f29522b9ded94c79e19a051eee22b75def5a0514b1ec91f434547d9acbb85a92.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-93a25d026351b171b21e9c859e34fde2402b483d13dc9f1350d864d34dbe1515.jpg)
-
-
-![image](images/Part1-c0c228a8a97986dbf2bc88c51de6f0c870853baed4361ab1fdaf2af66825b3af.jpg)
-
-
-![image](images/Part1-2a030e476437072f1fde3521a93c3eab4c863f690a435606d8f9ac07cd9c6e8b.jpg)
-
-
-
-© 2009 Investor’s Business Daily, Inc.
-
-
-![image](images/Part1-4277567db766a80ed573af686c44643bbae8cf10dbaf8838250d36b5b71025f7.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-0356c87150c6477853fe2693cb8d75d523ffbb6dd6f75dd9e83ff2da237a4c3a.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-115be35c5591fb44f2ebb696093a089ed8523843aa139da01c30b708eb6e8716.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-5ab0683f5abeb34e29e6c2142d26c76c2469738f344ca968c177fee39e2732d2.jpg)
-
-
 
 The E. L. Bruce pattern in the second quarter of 1958, at around \$50, provided a perfect chart pattern precedent for the Certain-teed advance that occurred in 1961. Certain-teed, in turn, became the chart model that I used to buy my first super winner, Syntex, in July 1963.
 
@@ -476,6 +358,12 @@ The E. L. Bruce pattern in the second quarter of 1958, at around \$50, provided 
 
 1978 年，我们机构服务公司两个最好的想法——M/A-Com 和波音——都呈现底上底形态，一只上涨 180%，另一只上涨 950%。Ascend Communications 和甲骨文也是底上底的例子。在 1994 年 12 月熊市底部突破后，Ascend 在 17 个月内飙升近 1500%。甲骨文则在 1999 年 10 月重现同样的底上底形态，猛涨近 300%。1934 年大萧条尾声，可口可乐也做过同样的事。
 
+![image](images/Part1-2295762d7c081cf734dca7d9e8efd8fece111e5c9df3b200a3fffa96aa54fd18.jpg)
+
+![image](images/Part1-27ed53086ae11ee73cbcf41f714791bd64475f7d86d69ad60045825172618fe1.jpg)
+
+![image](images/Part1-585f5252ce52cd1090391f819771c9e9c85cacc9561c7f56bb06ae9e11edc62f.jpg)
+
 During the latter stages of a bear market, a seemingly negative condition flags what may be aggressive new leadership in the new bull phase. I call this unusual case a “base on top of a base.” 
 
 What happens is that a powerful stock breaks out of its base and advances, but is unable to increase a normal 20% to 30% because the general market begins another leg down. The stock therefore pulls back in price and builds a second back-and-forth price consolidation area just on top of its previous base while the general market averages keep making new lows. 
@@ -483,22 +371,6 @@ What happens is that a powerful stock breaks out of its base and advances, but i
 When the bearish phase in the overall market ends, as it always does at some point, this stock is apt to be one of the first to emerge at a new high en route to a huge gain. It’s like a spring that is being held down by the pressure of a heavy object. Once the object (in this case, a bear market) is removed, the spring is free to do what it wanted to do all along. This is another example of why it’s foolhardy to get upset and emotional with the market or lose your confidence. The next big race could be just a few months away. 
 
 Two of our institutional services firm’s best ideas in 1978—M/A-Com and Boeing—showed base-on-top-of-a-base patterns. One advanced 180%, the other 950%. Ascend Communications and Oracle were other examples of a base on top of a base. After breaking out at the bear market bottom of December 1994, Ascend bolted almost 1,500% in 17 months. Oracle repeated the same base-on-base pattern in October 1999 and zoomed nearly 300%. Coming out of the Depression in 1934, Coca-Cola did the same thing. 
-
-![image](images/Part1-2295762d7c081cf734dca7d9e8efd8fece111e5c9df3b200a3fffa96aa54fd18.jpg)
-
-
-![image](images/Part1-27ed53086ae11ee73cbcf41f714791bd64475f7d86d69ad60045825172618fe1.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-585f5252ce52cd1090391f819771c9e9c85cacc9561c7f56bb06ae9e11edc62f.jpg)
-
-
-
-Investor’s Business Daily
 
 ### Ascending Bases
 
@@ -510,6 +382,16 @@ Investor’s Business Daily
 
 可见，历史确实会重演。你了解并辨识的历史形态越多，在未来的市场中就越有可能赚到更多的钱。（参见第 1 章的图表范例，以及 Simmonds Precision、Monogram Industries、Redman Industries、美国在线和 Titanium Metals。）
 
+![image](images/Part1-d8bef6e9eab59756f84af556a509eb1570fc03e58e26f7e54008fcd752e6ad51.jpg)
+
+![image](images/Part1-46841b28615001fa3a2b0a12c81bb127ca4069f1d7785b917d03c1e46ce70a05.jpg)
+
+![image](images/Part1-e455b9e20d90772ef10ce09700c899ea829513f9cefdfd978325425d226523fa.jpg)
+
+![image](images/Part1-e028a62e79fcde6de532353089f7fd15149d7441ea5c67982a6edb95184d4ffa.jpg)
+
+![image](images/Part1-39369d067e09a3cf2a42ef2decadfa187270386a08cc91e71401991a8d3b0f19.jpg)
+
 Ascending bases, like flat bases, occur midway along a move up after a stock has broken out of a cup-with-handle or double-bottom base. They have three pullbacks of from 10% to 20%, with each low point during the sell-off in price being higher than the preceding one, which is why I call them ascending bases. 
 
 Each of the pullbacks usually occurs because the general market is declining at that time. 
@@ -517,20 +399,6 @@ Each of the pullbacks usually occurs because the general market is declining at 
 Boeing formed a 13-week ascending base in the second quarter of 1954 and then doubled in price. Redman Industries, a builder of mobile homes, had an 11-week ascending base in the first quarter of 1968 and proceeded to increase 500% in just 37 weeks. America Online created the same type of base in the first quarter of 1999 and resumed what turned out to be a 500% run-up from the breakout of a 14-week cup with handle in October 1998. 
 
 So you see, history does repeat itself. The more historical patterns you know and come to recognize, the more money you should be able to make in future markets. (See the chart examples in Chapter 1, and also Simmonds Precision, Monogram Industries, Redman Industries, America Online, and Titanium Metals. 
-
-![image](images/Part1-d8bef6e9eab59756f84af556a509eb1570fc03e58e26f7e54008fcd752e6ad51.jpg)
-
-
-![image](images/Part1-46841b28615001fa3a2b0a12c81bb127ca4069f1d7785b917d03c1e46ce70a05.jpg)
-
-
-![image](images/Part1-e455b9e20d90772ef10ce09700c899ea829513f9cefdfd978325425d226523fa.jpg)
-
-
-![image](images/Part1-e028a62e79fcde6de532353089f7fd15149d7441ea5c67982a6edb95184d4ffa.jpg)
-
-
-![image](images/Part1-39369d067e09a3cf2a42ef2decadfa187270386a08cc91e71401991a8d3b0f19.jpg)
 
 ### Wide-and-Loose Price Structures Are Failure Prone
 
@@ -540,9 +408,17 @@ New England Nuclear 形成了一个宽、松、有缺陷的形态，从 A、B、
 
 随后 New England Nuclear 从 E 点经 F 到 G 形成第二个底部。但若你试图在 G 点买入，就又一次错了——因为形态仍然宽而松，买得过早。从 E 到 F 是一段漫长的下跌，相对强度严重恶化。从 F 点底部直线上冲到虚假突破点 G 又太快、太反复无常，只用了三个月。三个月相对强度改善，对比此前 17 个月的下跌，不足以把先前的不良趋势扭转为正面。
 
+![image](images/Part1-cd89eb2842c5e0da2d8cafa5b1ca5a3c7b165ee8957e721f83973899b2273b98.jpg)
+
 之后股票从 G 点跌到 H 点，形成似乎是 E-F-G 杯形的柄部区域。若你在突破尝试中的 I 点买入，又会再次失败。原因：柄部太松，回撤了 20%。不过，在又一次失败之后，股票终于在 I-J-K 各点间使价格结构变得紧凑，15 周后在 K 点突破一个紧凑健康的底部，此后股价几乎翻了三倍。注意从 K 点回溯到 F 点的 11 个月里，该股强劲的上升趋势和显著改善的相对强度线。
 
 所以，买入股票确实有正确与错误之分，而要理解这种差别，需要下一番功夫。股市里没有一夜成名的成功，成功与听信他人消息或运气好坏毫不相干。你必须学习、做好准备，才能靠自己的投资取得成功。所以，让自己更有知识。开始时并不容易，但回报可能非常丰厚。任何人都能学会，你也能。相信自己的学习能力，抛弃过去那些行不通的假设。
+
+![image](images/Part1-ca01efb7e7887d746b4bd78ca89001ec2a8c96f2d1e063478598ceed30793b52.jpg)
+
+![image](images/Part1-c42658f10cdbe7254ebe71e9b83bba8ccd31c24ba43b56ce3d7abeb535734267.jpg)
+
+![image](images/Part1-7a13b31cc52139c2026d666c0c7bd39be490b8702f3e46dc19ff175b417dbabe.jpg)
 
 以下是 2000 年 3 月开始的漫长熊市中，曾诱人买入的一些宽而松的缺陷形态：Veritas Software（2000 年 10 月 20 日）、Anaren Microwave（2000 年 12 月 28 日），以及 Comverse Technology（2001 年 1 月 24 日）。
 
@@ -552,7 +428,11 @@ New England Nuclear 形成了一个宽、松、有缺陷的形态，从 A、B、
 
 它还揭示了一条非常重要的原则：我们每个人都需要时间，才能改变经过相当长时期形成的看法。这一次，即便当前季度盈利在三季下滑后转为增长 357%，也没能把我对该股错误的看空观点扭转为看多。正确的买点是 1976 年 1 月。
 
+![image](images/Part1-8798e04f97e8b32c5d9b0229f2fcacf811ca438cebc25c31985d9c95be8ef2da.jpg)
+
 1994 年 8 月，PeopleSoft 重现了 New England Nuclear 和 Houston Oil 的形态。它 1993 年 9 月从宽、松、楔形上倾的形态中突破失败；1994 年 3 月第二次突破又失败，因为其柄部区域形成于杯柄形的下半区。最后，当形态和大盘都对了，PeopleSoft 从 1994 年 8 月开始一飞冲天。
+
+![image](images/Part1-e95d28a471decb9465e3bc0c05f2fb1958085aa210639091d85760b005e7f936.jpg)
 
 1999 年 1 月第一周，总部在圣迭戈的高通延续了 PeopleSoft 分三阶段的先例。1997 年 10 月，高通从一个松散的、过多底部位于下半区的缺陷底部直线上冲进新高。随后它构建了第二个缺陷底部，从下半区的柄部突破，又失败。第三个底部终于成功：一个形态合格的杯柄形在 1999 年 1 月第一周奏效。高通从拆股调整后的 7.50 美元，仅用一年就直冲 200 美元。也许你该多花点时间研究历史前例。你觉得呢？假如你当时投资 7500 美元买入高通，一年后它就值 20 万美元。
 
@@ -564,25 +444,9 @@ New England Nuclear then formed a second base from points E to F to G. But if yo
 
 The stock then declined from point G to point H to form what appeared to be a handle area for the possible cup formation from points E to F to G. If you bought at point I on the breakout attempt, the stock failed again. Reason: the handle was too loose; it degenerated 20%. However, after failing that time, the stock at last tightened up its price structure from points I to J to K, and 15 weeks later, at point K, it broke out of a tight, sound base and nearly tripled in price afterwards. Note the stock’s strong uptrend and materially improved relative strength line for 11 months from point K back to point F. 
 
-![image](images/Part1-cd89eb2842c5e0da2d8cafa5b1ca5a3c7b165ee8957e721f83973899b2273b98.jpg)
-
-
-
-9Investor’sBusinessDail
-
-
 So, there really is a right time and a wrong time to buy a stock, but understanding the difference requires some study. There’s no such thing as being an overnight success in the stock market, and success has nothing to do with listening to tips from other people or being lucky. You have to study and prepare yourself so that you can become successful on your own with your investing. So make yourself more knowledgeable. It isn’t easy at first, but it can be very rewarding. Anyone can learn to do it. You can do it. Believe in your ability to learn. Unlearn past assumptions that didn’t work. 
 
 Here are some faulty wide-and-loose patterns that faked people into buying during the prolonged bear market that began in March 2000: Veritas 
-
-![image](images/Part1-ca01efb7e7887d746b4bd78ca89001ec2a8c96f2d1e063478598ceed30793b52.jpg)
-
-
-![image](images/Part1-c42658f10cdbe7254ebe71e9b83bba8ccd31c24ba43b56ce3d7abeb535734267.jpg)
-
-
-![image](images/Part1-7a13b31cc52139c2026d666c0c7bd39be490b8702f3e46dc19ff175b417dbabe.jpg)
-
 
 Software on October 20, 2000; Anaren Microwave on December 28, 2000; and Comverse Technology on January 24, 2001. 
 
@@ -594,23 +458,9 @@ It also points out a very important principle: it takes time for all of us to ch
 
 In August 1994, PeopleSoft repeated the New England Nuclear and Houston Oil patterns. It failed in its breakout attempt from a wide, loose, wedgingupward pattern in September 1993. It then failed a second time in its breakout attempt in March 1994, when its handle area formed in the lower half of its cup-with-handle pattern. Finally, when the chart pattern and the general market were right, PeopleSoft skyrocketed starting in August 1994. 
 
-
 144
 
-
-![image](images/Part1-8798e04f97e8b32c5d9b0229f2fcacf811ca438cebc25c31985d9c95be8ef2da.jpg)
-
-
-
 145
-
-
-![image](images/Part1-e95d28a471decb9465e3bc0c05f2fb1958085aa210639091d85760b005e7f936.jpg)
-
-
-
-9Investor’sBusinessDail
-
 
 In the first week of January 1999, San Diego–based Qualcomm followed PeopleSoft’s three-phased precedent. In October 1997, Qualcomm charged into new-high ground straight up from a loose, faulty base with too much of its base in its lower half. It then built a second faulty base, broke out of a handle in the lower part, and failed. The third base was the charm: a properly formed cup with handle that worked in the first week in January 1999. Qualcomm went straight through the roof from a split-adjusted \$7.50 to \$200 in only one year. Maybe you should spend more time studying historical precedents. What do you think? If you had invested \$7,500 in Qualcomm, a year later it would have been worth \$200,000. 
 
@@ -624,9 +474,13 @@ In the first week of January 1999, San Diego–based Qualcomm followed PeopleSof
 
 1962 年，威廉·吉勒（William Jiler）写了一本通俗易读的书《图表如何助你在股市获利》，阐释了技术分析背后的许多正确原则。但它似乎也延续了对大萧条前某些易失败形态的展示与讨论。
 
+![image](images/Part1-158c6d430454d11615a73abe06a992bcf4ff39a398682ca5784864398b3dda09.jpg)
+
 三重底和头肩底，是多本技术分析书籍中广为提及的形态。我们发现它们同样较弱。头肩底在少数情况下可能成功，但它缺乏强劲的前期上升趋势——而这对于多数强势市场龙头而言是必不可少的。
 
 不过，在标示股票见顶方面，头肩顶形态是最可靠的形态之一。要当心：如果你对图表只有一点粗浅的了解，就可能误判什么才是正确的头肩顶。许多专业人士也解读不当。右（第二）肩必须略低于左肩（参见 Alexander & Alexander 的图表）。
+
+![image](images/Part1-357f01d0c2de1efe96ac28bc4e4edf606e139d75919e17c8d6ae7986fb28540f.jpg)
 
 三重底比双重底更松散、更弱、更缺乏吸引力。原因在于，股票是三次而非两次（如双重底）或一次（如强势杯柄形）急剧回调、下跌到其绝对低点。如前所述，带楔形柄的杯形通常也是有缺陷、易失败的形态，正如 Global Crossing Ltd. 的图表所示。有能力的读图者本会回避或卖出 Global Crossing，该公司后来破产了。
 
@@ -638,17 +492,9 @@ In 1948, John McGee and Robert D. Edwards wrote Technical Analysis of Stock Tren
 
 In 1962, William Jiler wrote an easy-to-read book, How Charts Can Help You in the Stock Market, that explains many of the correct principles behind technical analysis. However, it too seems to have continued the display and discussion of certain failure-prone patterns of the pre-Depression era. 
 
-Investor’sBusinessDail 
-
-![image](images/Part1-158c6d430454d11615a73abe06a992bcf4ff39a398682ca5784864398b3dda09.jpg)
-
-
 Triple bottoms and head-and-shoulders bottoms are patterns that are widely mentioned in several books on technical analysis. We have found these to be weaker patterns as well. A head-and-shoulders bottom may succeed in a few instances, but it has no strong prior uptrend, which is essential for most powerful market leaders. 
 
 When it comes to signifying a top in a stock, however, head-and-shoulders top patterns are among the most reliable. Be careful: if you have only a little knowledge of charts, you can misinterpret what is a correct head-andshoulders top. Many pros don’t interpret the pattern properly. The right (second) shoulder must be slightly below the left shoulder (see the chart for Alexander & Alexander). 
-
-![image](images/Part1-357f01d0c2de1efe96ac28bc4e4edf606e139d75919e17c8d6ae7986fb28540f.jpg)
-
 
 A triple bottom is a looser, weaker, and less-attractive base pattern than a double bottom. The reason is that the stock corrects and falls back sharply to its absolute low three times rather than twice, as with a double bottom, or once, as in the strong cup with handle. As mentioned earlier, a cup with a wedging handle is also usually a faulty, failure-prone pattern, as you can see in the Global Crossing Ltd. chart example. A competent chart reader would have avoided or sold Global Crossing, which later went bankrupt. 
 
@@ -656,15 +502,13 @@ A triple bottom is a looser, weaker, and less-attractive base pattern than a dou
 
 许多基本面证券分析师认为，技术分析就是买入相对价格强度最强的股票；另一些人则认为，技术研究只指买入“高动量”股票。这两种看法都是错的。
 
+![image](images/Part1-d9e8a7cabe7314de6b55d21f97a1d39149446aba423972db619523408e5217e4.jpg)
+
 仅仅买入某些业绩最佳名单上相对价格强度最高的股票是不够的。你应当买入那些刚刚开始从健康的筑底期脱颖而出、表现强于大盘的股票。卖出的时机，则是股票已快速上涨、明显偏离底部、并显示出极高的相对价格强度之时。要分辨这两者的差别，你必须使用日线或周线图。
 
 Many fundamental securities analysts think that technical analysis means buying those stocks with the strongest relative price strength. Others think that technical research refers only to the buying of “high-momentum” stocks. Both views are incorrect. 
 
 It’s not enough to just buy stocks that show the highest relative price strength on some list of best performers. You should buy stocks that are per-
-
-![image](images/Part1-d9e8a7cabe7314de6b55d21f97a1d39149446aba423972db619523408e5217e4.jpg)
-
-
 
 forming better than the general market just as they are beginning to emerge from sound base-building periods. The time to sell is when the stock has advanced rapidly, is extended materially from its base, and is showing extremely high relative price strength. To recognize the difference, you have to use daily or weekly charts.
 
@@ -678,6 +522,8 @@ forming better than the general market just as they are beginning to emerge from
 
 优秀的图表分析者懂得如何识别那些代表沉重上方供给的价格区域。他们绝不会犯下买入近期上方供给沉重的股票这种致命错误。这是一个许多只关注基本面的分析师有时会犯的严重错误。
 
+![image](images/Part1-57d908847ee2a0c427bb4b0e88f58fdfaf1d3a01912e6477241953e0762bbf8a.jpg)
+
 不过，一只能够一路消化其上方供给、杀出重围的股票，即便价格略高，也可能更值得买入。它已证明自己有足够的需求去吸纳这些供给、越过阻力区域。两年以上的供给区造成的阻力较小。当然，一只刚刚首次突破进入新高区域的股票，没有任何上方供给需要消化，这使其更具吸引力。
 
 A critically important concept to learn in analyzing price movements is the principle of overhead supply. Overhead supply is when there are significant areas of price resistance in a stock as it moves up after experiencing a downtrend. 
@@ -687,9 +533,6 @@ These areas of resistance represent prior purchases of a stock and serve to limi
 These are the holders who promised themselves: “If I can just get out even, I will sell.” Human nature doesn’t change. So it’s normal for a number of these people to sell when they see a chance to get their money back after having been down a large amount. 
 
 Good chartists know how to recognize the price zones that represent heavy areas of overhead supply. They will never make the fatal mistake of buying a stock that has a large amount of recent overhead supply. This is a serious mistake that many analysts who are concerned solely with fundamentals sometimes make. 
-
-![image](images/Part1-57d908847ee2a0c427bb4b0e88f58fdfaf1d3a01912e6477241953e0762bbf8a.jpg)
-
 
 A stock that’s able to fight its way through its overhead supply, however, may be safer to buy, even though the price is a little higher. It has proved to have sufficient demand to absorb the supply and move past its level of resistance. Supply areas more than two years old create less resistance. Of course, a stock that has just broken out into new high ground for the first time has no overhead supply to contend with, which adds to its appeal. 
 
@@ -1107,9 +950,7 @@ Growth stocks with steady earnings tend to have a stability figure below 20 or 2
 
 <table><tr><td colspan="2">McDonald's Corp.</td></tr><tr><td>EPS Growth Rate</td><td>19%</td></tr><tr><td>Earnings Stability</td><td>4</td></tr><tr><td>P/E Ratio</td><td>15 (1.4 x SP)</td></tr><tr><td>5-Year P/E Range</td><td>12–21</td></tr><tr><td>Return on Equity</td><td>29%</td></tr><tr><td>Cash Flow</td><td>$4.85</td></tr></table>
 
-
 Sample earnings stability
-
 
 Earnings stability numbers are customarily shown right after a company’s annual growth rate, but most analysts and investment services don’t bother to make the calculation. We show them in many of our institutional products as well as in Daily Graphs and Daily Graphs Online, which are designed for individual investors. 
 
@@ -1501,20 +1342,15 @@ Our study of the greatest stock market winners proved that the old adage “buy 
 
 ### What seems too high in price and risky to the majority usually goes higher eventually, and what seems low and cheap usually goes lower.
 
-在大多数人看来价格太高、太冒险的股票，最终往往继续上涨；而在大多数人看来低廉、便宜的股票，往往继续下跌。
-
-Are you finding this “high-altitude paradox” a little difficult to act upon? Let me cite another study we conducted. In this one, we analyzed two groups of stocks—those that made new highs and those that made new lows—over many bull market periods. The results were conclusive: stocks on the new-high list tended to go higher in price, while those on the newlow list tended to go lower. 
-
-Investor’sBusinessDail Investor’s Business Dail 
-
 ![image](images/Part1-f32f4f8684b6f905c09f1472ce40c66759774dd670682d381113b316751bc70d.jpg)
-
 
 ![image](images/Part1-ac7f8c904e2595bcbc98ca120b64089198e6ae2f7e49a066b821b770a23b9ded.jpg)
 
-
 ![image](images/Part1-c7c88588fd9ca9b4980d2ec3f8a2d32df15d35f9de732ee12e06b6c63d465295.jpg)
 
+在大多数人看来价格太高、太冒险的股票，最终往往继续上涨；而在大多数人看来低廉、便宜的股票，往往继续下跌。
+
+Are you finding this “high-altitude paradox” a little difficult to act upon? Let me cite another study we conducted. In this one, we analyzed two groups of stocks—those that made new highs and those that made new lows—over many bull market periods. The results were conclusive: stocks on the new-high list tended to go higher in price, while those on the newlow list tended to go lower. 
 
 Based on our research, a stock on Investor’s Business Daily’s “new price low” list tends to be a pretty poor prospect and should be avoided. In fact, decisive investors should sell such stocks long before they ever get near the new-low list. A stock making the new-high list—especially one making the list for the first time while trading on big volume during a bull market— might be a prospect with big potential. 
 
@@ -1536,15 +1372,25 @@ As a smart investor, your job is to buy when a stock looks too high to the major
 
 如第 2 章所述，完美的买入时机是在牛市中、股票刚刚开始突破价格底部之际。（参见第 178 页美国在线的图表。）如果股票已高出底部精确买点 5% 或 10% 以上，就应回避。在这个水平买入，会大大增加在下次正常回调或急跌中被震出的概率。你不能随便什么时候都买入最好的股票。有一个正确的时间，然后就是其他所有时间。
 
+![image](images/Part1-0869791522ba612e33cd0b6c1c16555021230c94008b3ac960d5fdbd82ef5d31.jpg)
+
+![image](images/Part1-3314e6ba0606366ad7b8b886830e325224eb22f37fd62dd5c16ada3e51173de0.jpg)
+
 （市场大悖论的答案）
 
 既然你已了解大悖论，你还会选择本章早先所挑的那只股票吗？该买的是股票 A，Syntex Corp.，见下一页。指向 1963 年 7 月周线价格运动的箭头标示了买点。这个箭头与股票 A 图表末尾（做了 3 拆 1 调整后）的价量活动相吻合。Syntex 从 1963 年 7 月的买点开启了一波重大上涨。相比之下，股票 B（Halliburton）和股票 C（Comdata Network）双双下跌，如后页图表所示。（箭头标示了此前展示的图表结束之处。）
 
 寻找那些开发出重要新产品或新服务、或因新管理层或行业状况实质性改善而受益的公司。然后，当它们从健康、经正确分析的价格整理形态中脱颖而出、接近或实际创出价格新高、并伴随成交量放大时，买入它们的股票。
 
+![image](images/Part1-2b913533c980d49633da5dbe39ccf557517f3374505fd76b9600d817a5f07dc5.jpg)
+
 股票 A：从买入箭头起 6 个月上涨 482%。
 
+![image](images/Part1-05fb714b6248dbbb9d5bac0bdefc57c01b0101d0f8aa6de789f3b43892994518.jpg)
+
 股票 B：从箭头起 6 个月下跌 42%。
+
+![image](images/Part1-bf9289b15f340b335cf9ed828fbf381e09f110177523e02707f03f2b735a53c2.jpg)
 
 股票 C：从箭头起 5 个月下跌 21%。
 
@@ -1554,37 +1400,15 @@ These correctly created breakouts are the points at which most really big price 
 
 As noted in Chapter 2, the perfect time to buy is during a bull market just as a stock is starting to break out of its price base. (See the America Online chart on page 178.) If the stock is more than 5% or 10% above the exact buy point off the base, it should be avoided. Buying it at this level greatly increases the chance of getting shaken out in the next normal correction or sharp pullback in price. You can’t just buy the best stocks any old time. There’s a right time, and then there are all the other times. 
 
-![image](images/Part1-0869791522ba612e33cd0b6c1c16555021230c94008b3ac960d5fdbd82ef5d31.jpg)
-
-
-![image](images/Part1-3314e6ba0606366ad7b8b886830e325224eb22f37fd62dd5c16ada3e51173de0.jpg)
-
-
-
 Answers to the Market’s Great Paradox
-
 
 Now that you know the Great Paradox, would you still pick the same stock you did earlier in the chapter? The right one to buy was Stock A, Syntex Corp., which is shown on the next page. The arrow pointing to July 1963’s weekly price movements indicates the buy point. This arrow coincides with the price and volume activity at the end of the Stock A chart, adjusted for a 3-for-1 split. Syntex enjoyed a major price advance from its July 1963 buy point. In contrast, Stocks B (Halliburton) and C (Comdata Network) both declined, as you can see from the charts given on the next page. (The arrows indicate where the corresponding charts shown earlier left off.) 
 
 Search for companies that have developed important new products or services, or that have benefited from new management or materially improved industry conditions. Then buy their stocks when they are emerging from sound, correctly analyzed price consolidation patterns and are close to, or actually making, new price highs on increased volume. 
 
-![image](images/Part1-2b913533c980d49633da5dbe39ccf557517f3374505fd76b9600d817a5f07dc5.jpg)
-
-
-
 Stock A: 482% increase in 6 months from buy arrow.
 
-
-![image](images/Part1-05fb714b6248dbbb9d5bac0bdefc57c01b0101d0f8aa6de789f3b43892994518.jpg)
-
-
-
 Stock B: down 42% in 6 months from arrow.
-
-
-![image](images/Part1-bf9289b15f340b335cf9ed828fbf381e09f110177523e02707f03f2b735a53c2.jpg)
-
-
 
 Stock C: down 21% in 5 months from arrow.
 
@@ -2096,15 +1920,11 @@ Here is a list of some of the technology stocks that were removed from our New S
 
 Another benefit to you as an individual investor is that institutional sponsorship provides buying support when you want to sell your investment. If there’s no sponsorship, and you try to sell your stock in a poor market, you may have problems finding someone to buy it. Daily marketability is one of the big advantages of owning high-quality stocks in the United States. (Real estate is far less liquid, and sales commissions and fees are much higher.) Good institutional sponsorship provides continuous liquidity for you. In a poor real estate market, there is no guarantee that you can find a willing buyer when you want to sell. It could take you six months to a year, and you could sell for a much lower price than you expected. 
 
-
 Stocks Removed from NSMI Buys in 2000
-
 
 <table><tr><td>Symbol</td><td>Name</td><td>Date Removed</td><td>Price Removed</td><td>Low Price as of 10/30/01</td><td>Percent Decline as of 10/30/01*</td></tr><tr><td>AMAT</td><td>Applied Materials</td><td>5/11/2000</td><td>$80.56</td><td>$26.59</td><td>67%</td></tr><tr><td>CSCO</td><td>Cisco Systems</td><td>8/1/2000</td><td>$63.50</td><td>$11.04</td><td>83%</td></tr><tr><td>CNXT</td><td>Conexant Systems</td><td>3/3/2000</td><td>$84.75</td><td>$6.57</td><td>92%</td></tr><tr><td>DELL</td><td>Dell Computer Corp</td><td>5/9/2000</td><td>$46.31</td><td>$16.01</td><td>65%</td></tr><tr><td>EMC</td><td>E M C Corp</td><td>12/15/2000</td><td>$74.63</td><td>$10.01</td><td>87%</td></tr><tr><td>EXDS</td><td>Exodus Communications</td><td>3/30/2000</td><td>$69.25</td><td>$0.14</td><td>100%</td></tr><tr><td>INTC</td><td>Intel Corp</td><td>9/15/2000</td><td>$58.00</td><td>$18.96</td><td>67%</td></tr><tr><td>JDSU</td><td>J D S Uniphase</td><td>10/10/2000</td><td>$90.50</td><td>$5.12</td><td>94%</td></tr><tr><td>MOT</td><td>Motorola</td><td>3/30/2000</td><td>$51.67</td><td>$10.50</td><td>80%</td></tr><tr><td>NXTL</td><td>Nextel Communications</td><td>4/12/2000</td><td>$55.41</td><td>$6.87</td><td>88%</td></tr><tr><td>NT</td><td>Nortel Networks</td><td>10/2/2000</td><td>$59.56</td><td>$4.76</td><td>92%</td></tr><tr><td>PMCS</td><td>P M C Sierra Inc</td><td>8/1/2000</td><td>$186.25</td><td>$9.37</td><td>95%</td></tr><tr><td>QLGC</td><td>Qlogic Corp</td><td>3/14/2000</td><td>$167.88</td><td>$17.21</td><td>90%</td></tr><tr><td>SEBL</td><td>Siebel Systems Inc</td><td>12/15/2000</td><td>$76.88</td><td>$12.24</td><td>84%</td></tr><tr><td>SUNW</td><td>Sun Microsystems</td><td>11/9/2000</td><td>$49.32</td><td>$7.52</td><td>85%</td></tr><tr><td>VIGN</td><td>Vignette Corp</td><td>3/15/2000</td><td>$88.33</td><td>$3.08</td><td>97%</td></tr><tr><td>YHOO</td><td>Yahoo!</td><td>3/30/2000</td><td>$175.25</td><td>$8.02</td><td>95%</td></tr></table>
 
-
 *Percentages have been rounded to the nearest whole number. 
-
 
 In summary: buy only those stocks that have at least a few institutional sponsors with better-than-average recent performance records and that have added institutional owners in recent quarters. If I find that a stock has a large number of sponsors, but that none of the sponsors is on my list of the 10 or so excellent-performing funds, in the majority of cases I will pass over the stock. Institutional sponsorship is one more important tool to use as you analyze a stock for purchase. 
 
@@ -2256,6 +2076,8 @@ Some charts of market averages also include major news events over the last 12 m
 
 熊市中，股票通常高开低走；牛市中，它们往往低开高走。大盘均值需要每天查看，因为趋势的反转可能在任意几天内开始。依赖这些主要指数，是分析市场行为、判断其方向的一种更直接、实用、有效的方法。
 
+![image](images/Part1-6ce873bce842a328060d3e1ef701974abeadbb2d84e8ba9af20ef083643787ac.jpg)
+
 不要依赖其他次要指标，因为它们未被证明在择时上有效。听那些钻研 30 到 50 种不同技术或经济指标、然后告诉你他们认为市场应该怎么走的众多市场通讯作者、技术分析师或策略师，通常是非常昂贵的时间浪费。投资通讯可能在投资者心中制造疑虑和困惑。有意思的是，历史表明，市场往往恰在消息全坏、这些专家最怀疑、最不确定的时候上涨。
 
 当大盘见顶时，你必须卖出，至少筹集一些现金，并脱离保证金（借来的钱），以保护账户。作为个人投资者，你可以轻松在一两天内筹集现金、退出，日后当市场终于对了，你同样可以重新入场。如果你在大盘见顶时不卖出、不筹集现金，你那串分散的前市场龙头就会大幅下跌。其中一些可能永远回不到原来的水平。
@@ -2263,11 +2085,6 @@ Some charts of market averages also include major news events over the last 12 m
 你最好的办法，是学会解读主要大盘指数的日线价量图。这样做，你就不会偏离太远，也不需要太多其他东西。和市场争论没有好处。经验告诉我们，对市场妄加猜测可能是一个非常昂贵的错误。
 
 In bear markets, stocks usually open strong and close weak. In bull markets, they tend to open weak and close strong. The general market averages need to be checked every day, since reverses in trends can begin on any given few 
-
-Investor’s Business Daily 
-
-![image](images/Part1-6ce873bce842a328060d3e1ef701974abeadbb2d84e8ba9af20ef083643787ac.jpg)
-
 
 days. Relying on these primary indexes is a more direct, practical, and effective method for analyzing the market’s behavior and determining its direction. 
 
@@ -2455,6 +2272,26 @@ If you study the following daily market average graphs of several tops closely a
 
 异常表现的一个例子是，龙头股在上涨途中从第三或第四阶段的图表底部形态突破。这类底部结构大多有缺陷，价格波动显得宽得多、松得多。一个有缺陷的底部（宽、松、反复无常），最好通过研究一只股票日线或周线的价量历史图表来辨识和分析。
 
+![image](images/Part1-0bd9f5100fefe92c44e21951c64575103d5c884e46fb576bd0bfe40ef64038e6.jpg)
+
+![image](images/Part1-1e56246c6231054d21926e50e6fda0e95d0b94db3d0afd56455d6679605a8b57.jpg)
+
+![image](images/Part1-1e8e164c3784e3a0b509db0780f2a58037acadb4f330cb00449e92ee84dfd9e9.jpg)
+
+![image](images/Part1-0e79a87bd91d26427ebd65ff2e66eb5330ae262fa976098087a3397c283ad4be.jpg)
+
+![image](images/Part1-2ab777ac1c475b8b9f5f02b91e92cb3e189a96246cff16a4663e6ecea72a2711.jpg)
+
+![image](images/Part1-3da59cdefdcb1ca231112862d57174a0b290e48ff634d1f8d39638ba84c34d3a.jpg)
+
+![image](images/Part1-ea42938181089a779d22dccbd928a80437715fab87850466a7ed8c448dc0876f.jpg)
+
+![image](images/Part1-d04974e69559786e3bb0e237ad186b5e509d1862cba69777e746893999d958ee.jpg)
+
+![image](images/Part1-e3ff98f9f4a8cfe896ecf02d790a3651146485ddf523e2c9fbbee933b86ff60c.jpg)
+
+![image](images/Part1-100ed820e7d4699517593cb4bb96dc026e8e0b2bc50185a3413a9c7f824c33eb.jpg)
+
 异常表现的另一个迹象是“冲顶”顶。此时，一只龙头股在已上涨多月之后，又连续两三周加速上涨。（关于卖出，参见第 11 章。）
 
 少数龙头会在顶部附近出现首次异常破位、伴随沉重成交量，但随后只能从回调低点小幅反弹。还有一些会在最近几季度的盈利报告中显示出上行势头严重丧失。
@@ -2474,68 +2311,6 @@ If you study the following daily market average graphs of several tops closely a
 The second most important indicator of a primary change in market direction, after the daily averages, is the way leading stocks act. After the market has advanced for a couple of years, you can be fairly sure that it’s headed for trouble if most of the individual stock leaders start acting abnormally. 
 
 One example of abnormal activity can be seen when leading stocks break out of third- or fourth-stage chart base formations on the way up. Most of these base structures will be faulty, with price fluctuations appearing much wider and looser. A faulty base (wide, loose, and erratic) can best be recognized and analyzed by studying charts of a stock’s daily or weekly price and volume history. 
-
-![image](images/Part1-0bd9f5100fefe92c44e21951c64575103d5c884e46fb576bd0bfe40ef64038e6.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-1e56246c6231054d21926e50e6fda0e95d0b94db3d0afd56455d6679605a8b57.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-1e8e164c3784e3a0b509db0780f2a58037acadb4f330cb00449e92ee84dfd9e9.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-0e79a87bd91d26427ebd65ff2e66eb5330ae262fa976098087a3397c283ad4be.jpg)
-
-
-
-Investor’s Business Dail
-
-
-![image](images/Part1-2ab777ac1c475b8b9f5f02b91e92cb3e189a96246cff16a4663e6ecea72a2711.jpg)
-
-
-
-9 Investor’s Business Daily
-
-
-![image](images/Part1-3da59cdefdcb1ca231112862d57174a0b290e48ff634d1f8d39638ba84c34d3a.jpg)
-
-
-![image](images/Part1-ea42938181089a779d22dccbd928a80437715fab87850466a7ed8c448dc0876f.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-d04974e69559786e3bb0e237ad186b5e509d1862cba69777e746893999d958ee.jpg)
-
-
-
-Investor’s Business Daily
-
-
-![image](images/Part1-e3ff98f9f4a8cfe896ecf02d790a3651146485ddf523e2c9fbbee933b86ff60c.jpg)
-
-
-![image](images/Part1-100ed820e7d4699517593cb4bb96dc026e8e0b2bc50185a3413a9c7f824c33eb.jpg)
-
-
-
-© 2009 Investor’s Business Daily, Inc.
-
 
 Another sign of abnormal activity is the “climax” top. Here, a leading stock will run up more rapidly for two or three weeks in a row, after having advanced for many months. (See Chapter 11 on selling.) 
 
@@ -2607,6 +2382,20 @@ Many institutional investors love to “bottom fish.” They’ll start buying s
 
 记住，没有哪一轮新牛市能在没有强劲价量跟进确认的情况下开始。等待并倾听市场是值得的。以下几幅图是 1974 到 2003 年间股市若干底部的例子。
 
+![image](images/Part1-0bce58adf615fa52b54b5e9355e42489dbe1cdabe4785945d55a925bf1c6f91b.jpg)
+
+![image](images/Part1-26f63d6e0316bff51000971e66cb22744058d754ce8c9dab02ef68150e0a2163.jpg)
+
+![image](images/Part1-5ddc8466f484745fdae72b9f49e1a354463929457543d0d6f02e2c2b0a62bb2e.jpg)
+
+![image](images/Part1-3ad40b1b3808921d8350a6272d902223fd1005ae52938333e74ff68d3018215e.jpg)
+
+![image](images/Part1-d7400d0b928a4c6c45ea10da5b399528415060d6e07520bb151cd4cacc361672.jpg)
+
+![image](images/Part1-fdbc694ae0c35c9fff7452006dd586d00b51fe399a989d57d71180748601db67.jpg)
+
+![image](images/Part1-590fb2ffc31d5e8899109438add9824ec063fc05e21f5435c22467db366ac7b3.jpg)
+
 Once you’ve recognized a bear market and have scaled back your stock holdings, the big question is how long you should remain on the sidelines. If you plunge back into the market too soon, the apparent rally may fade, and you’ll lose money. But if you hesitate at the brink of the eventual roaring recovery, opportunities will pass you by. Again, the daily general market averages provide the best answer by far. Markets are always more reliable than most investors’ emotions or personal opinions. 
 
 At some point in every correction—whether that correction is mild or severe—the stock market will always attempt to rally. Don’t jump back in right away. Wait for the market itself to confirm the new uptrend. 
@@ -2626,50 +2415,6 @@ However, just because the market corrects the day after a follow-through doesn�
 A follow-through signal doesn’t mean you should rush out and buy with abandon. It just gives you the go-ahead to begin buying high-quality stocks with strong sales and earnings as they break out of sound price bases, and it is a vital second confirmation the attempted rally is succeeding. 
 
 Remember, no new bull market has ever started without a strong price and volume follow-through confirmation. It pays to wait and listen to the market. The following graphs are examples of several bottoms in the stock market between 1974 and 2003. 
-
-![image](images/Part1-0bce58adf615fa52b54b5e9355e42489dbe1cdabe4785945d55a925bf1c6f91b.jpg)
-
-
-
-© 2009 Investor’s Business Daily, Inc.
-
-
-![image](images/Part1-26f63d6e0316bff51000971e66cb22744058d754ce8c9dab02ef68150e0a2163.jpg)
-
-
-![image](images/Part1-5ddc8466f484745fdae72b9f49e1a354463929457543d0d6f02e2c2b0a62bb2e.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-3ad40b1b3808921d8350a6272d902223fd1005ae52938333e74ff68d3018215e.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-d7400d0b928a4c6c45ea10da5b399528415060d6e07520bb151cd4cacc361672.jpg)
-
-
-
-Investor’sBusinessDail
-
-
-![image](images/Part1-fdbc694ae0c35c9fff7452006dd586d00b51fe399a989d57d71180748601db67.jpg)
-
-
-
-© 2009 Investor’s Business Daily, Inc.
-
-
-![image](images/Part1-590fb2ffc31d5e8899109438add9824ec063fc05e21f5435c22467db366ac7b3.jpg)
-
-
-
-© 2009 Investor’s Business Daily, Inc.
 
 ### The Big Money Is Made in the First Two Years
 
@@ -2781,6 +2526,8 @@ At best, the advance-decline line is a secondary indicator of limited value. If 
 
 S&P 500 指数与联邦储备委员会贴现率
 
+![image](images/Part1-dd49d87b76c524e52e3a9c51f73833ec23f29e2361a40639a04b2238dfe21cdb.jpg)
+
 美联储碾碎 1981 年的经济。例如，1981 年开始的熊市和代价高昂、拖沓的衰退，完全是因为美联储在 1980 年 9 月 26 日、11 月 17 日和 12 月 5 日接连迅速上调贴现率。1981 年 5 月 8 日的第四次上调，把贴现率推到 14% 的历史最高。这在当时终结了美国经济、我们的基础产业和股市。
 
 不过，美联储的利率变化不应成为你的首要市场指标，因为股市本身就是你最好的晴雨表。我们对市场周期的分析发现了三个贴现率没能帮助预测的关键市场转折。
@@ -2815,12 +2562,7 @@ With the advent of program trading and various hedging devices, some funds now h
 
 Most funds operate with a policy of being widely diversified and fully or nearly fully invested at all times. This is because most fund managers, given the great size of today’s funds (billions of dollars), have difficulty getting out of the market and into cash at the right time and, most importantly, then getting back into the market fast enough to participate in the initial powerful rebound off the ultimate bottom. So they may try to shift their emphasis to big-cap, semidefensive groups. 
 
-
 S & P 5 00 I n d ex a n d Fed e ra l Rese rve B oa rd D i sco u nt Rate
-
-
-![image](images/Part1-dd49d87b76c524e52e3a9c51f73833ec23f29e2361a40639a04b2238dfe21cdb.jpg)
-
 
 The Fed Crushes the 1981 Economy. The bear market and the costly, protracted recession that began in 1981, for example, came about solely because the Fed increased the discount rate in rapid succession on September 26, November 17, and December 5 of 1980. Its fourth increase, on May 8, 1981, thrust the discount rate to an all-time high of 14%. That finished off the U.S. economy, our basic industries, and the stock market for the time being. 
 

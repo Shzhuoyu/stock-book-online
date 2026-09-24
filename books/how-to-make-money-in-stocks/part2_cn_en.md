@@ -34,7 +34,6 @@ The same holds true in the stock market. Unless you have a strong defense to pro
 
 我习惯在"止盈"与"止损"之间维持 3:1 的比例：若能取得 20% 到 25% 的收益，就在亏损 7% 或 8% 时止损。但如果你身处 2008 年那样的熊市、还是买了股票，也许只能赚到寥寥几次 10% 或 15% 的涨幅，那么我会果断行动，在亏损 3% 时无一例外地自动止损。
 
-
 Bernard Baruch, a famous market operator on Wall Street and a trusted advisor to U.S. presidents, said it best: “If a speculator is correct half of the time, he is hitting a good average. Even being right 3 or 4 times out of 10 should yield a person a fortune if he has the sense to cut his losses quickly on the ventures where he has been wrong.”
 
 As you can see, even the most successful investors make many mistakes. These poor decisions will lead to losses, some of which can become quite awful if you’re not disciplined and careful. No matter how smart you are, how high your IQ, how advanced your education, how good your information, or how sound your analysis, you’re simply not going to be right all the time. In fact, you’ll probably be right less than half the time! You positively must understand and accept that the first rule for the highly successful individual investor is . . . always cut short and limit every single loss. To do this takes never-ending discipline and courage.
@@ -50,7 +49,6 @@ I like to follow a 3-to-1 ratio between where to sell and take profits and where
 你必须在自己可能犯错时及时察觉，并毫不犹豫地卖出，截断每一笔亏损。你的职责是与市场保持同步，而不是强求市场来迁就你。
 
 那么，怎么判断自己可能错了？很简单：股价跌破了你的买入价！你这心爱的"杰作"每跌破成本一分，你判断错误的概率、以及你为错误所要付出的代价，就同时增加一分。
-
 
 You’ve got to recognize when you may be wrong and sell without hesitation to cut short every one of your losses. It’s your job to get in phase with the market and not try to get the market to be in phase with you.
 
@@ -69,7 +67,6 @@ How can you tell when you may be wrong? That’s easy: the price of the stock dr
 多年来我发现，自己买入的十只股票里，只有一两只真正出类拔萃，能够带来如此丰厚的利润。换句话说，要想抓住那一两只赚大钱的股票，你必须去寻找、并买下十只。
 
 这便引出一个问题：剩下那八只怎么办？是像大多数人那样抱着它们苦苦期盼，还是果断卖出、继续尝试，直到觅得更大的成功？
-
 
 People think that in order to be successful, you have to be either lucky or right most of the time. Not so. Successful people make many mistakes, and their success is due to hard work, not luck. They just try harder and more often than the average person. There aren’t many overnight successes; success takes time.
 
@@ -94,7 +91,6 @@ Which begs the question, what do you do with the other eight? Do you sit with th
 死抱着一笔巨额亏损时，你几乎无法清醒思考，情绪会占上风，于是你自我安慰："它不可能再跌了。"可别忘了，还有其他许多股票可供选择，在那里扳回损失的机会或许更大。
 
 这里再给你一个判断是否该卖出的方法：设想自己并不持有这只股票，而银行里有 2800 美元现金，然后问自己："我现在真的想买这只股票吗？"如果答案是"不"，那你又何必继续持有它？
-
 
 When you say, “I can’t sell my stock because I don’t want to take a loss,” you assume that what you want has some bearing on the situation. But the stock doesn’t know who you are, and it couldn’t care less what you hope or want.
 
@@ -137,7 +133,6 @@ Here’s another suggestion that may help you decide whether to sell: pretend th
 一种情形是，你很可能一开始就错了：股票没有如你预期那般表现，跌破了你的买入价，你开始亏掉辛苦钱，而且可能还要亏更多。另一种情形是，你开头是对的：股票表现更好，你已拥有可观盈利。此时你是在打理利润，因此在牛市中，你可以给股票更大的波动空间，以免被一次正常的 10% 到 15% 回调震仓出局。
 
 不过，买入时不要追得太高。关键在于精准地在突破点买入，把股票下跌 8% 的概率降到最低。（关于如何用图表选股，详见第 2 章。）
-
 
 Individual investors should definitely set firm rules limiting the loss on the initial capital they have invested in each stock to an absolute maximum of 7% or 8%. Institutional investors who lessen their overall risk by taking large positions and diversifying broadly are unable to move into and out of stocks quickly enough to follow such a loss-cutting plan. This is a terrific advantage that you, the nimble and decisive individual investor, have over the institutions. So use it.
 
@@ -193,7 +188,6 @@ Don’t chase your stock up too far when you’re buying it, however. The key is
 
 除非你愿意迅速砍掉所有亏损，否则绝不要用融资买入，否则你可能转瞬之间血本无归。如果券商发来追加保证金通知（要求你或卖出股票、或追加资金，以弥补亏损股票的净值缺口），切勿拿好钱去填坏窟窿。卖出一些股票，并认清市场和你的保证金经办人想告诉你什么。
 
-
 There is considerable risk in all common stocks, regardless of their name, quality, purported blue-chip status, previous performance record, or current good earnings. Keep in mind that growth stocks can top at a time when their earnings are excellent and analysts’ estimates are still rosy.
 
 There are no sure things or safe stocks. Any stock can go down at any time . . . and you never know how far it can go down.
@@ -234,7 +228,6 @@ You should never invest on margin unless you’re willing to cut all your losses
 
 小额亏损是廉价的保险，也是你为投资所能买到的唯一一种保险。即便你卖出后股票又涨了（很多确实会涨），你也已达成关键目标——让所有亏损保持在小额，而且你手上仍有资金，可以换一只股票再试一次、去赢得一个赢家。
 
-
 This policy of limiting losses is similar to paying insurance premiums. You’re reducing your risk to precisely the level you’re comfortable with. Yes, the stock you sell will often turn right around and go back up. And yes, this can be frustrating. But when this happens, don’t conclude that you were wrong to sell it. That is exceedingly dangerous thinking that will eventually get you into big trouble.
 
 Think about it this way: If you bought insurance on your car last year and you didn’t have an accident, was your money wasted? Will you buy the same insurance this year? Of course you will! Did you take out fire insurance on your home or your business? If your home or business hasn’t burned down, are you upset because you feel that you made a bad financial decision? No. You don’t buy fire insurance because you know your house is going to burn down. You buy insurance just in case, to protect yourself against the remote possibility of a serious loss.
@@ -259,7 +252,6 @@ Small losses are cheap insurance, and they’re the only insurance you can buy o
 
 放任亏损扩大，是几乎所有投资者犯下的最严重错误。你必须接受这个事实：选股与择时上的错误会频频发生，即便是经验最老到的专业投资者也无法避免。我甚至要说，如果你不愿截断并限制亏损，那你大概根本就不该买股票。你会开着没刹车的车在街上跑吗？如果你是战斗机飞行员，会不带降落伞上战场吗？
 
-
 There’s an old investment saying that the first loss in the market is the smallest. In my view, the way to make investment decisions is to always (with no exceptions) take your losses quickly and your profits slowly. Yet most investors get emotionally confused and take their profits quickly and their losses slowly.
 
 What is your real risk in any stock you buy when you use the method we’ve discussed? It’s 8%, no matter what you buy, if you follow this rule religiously. Still, most investors stubbornly ask, “Shouldn’t we sit with stocks rather than selling and taking a loss?” Or, “How about unusual situations where some bad news hits suddenly and causes a price decline?” Or, “Does this loss-cutting procedure apply all the time, or are there exceptions, like when a company has a good new product?” The answer: there are no exceptions. None of these things changes the situation one bit. You must always protect your hard-earned pool of capital.
@@ -273,7 +265,6 @@ Letting your losses run is the most serious mistake that almost all investors ma
 人人都爱买股票，却没人爱卖股票。只要还持有，你就仍可寄望它涨回来、至少让你保本离场；一旦卖出，你就放弃全部希望，被迫接受暂时失败的冷酷现实。投资者总是满怀期盼，却不肯正视现实。知道并行动，胜过期盼或猜测。你希望股票上涨好让你至少保本离场，这与市场的走势和残酷现实毫无关系。市场只服从供求法则。
 
 一位伟大的交易者曾指出，市场中只有两种情绪：希望与恐惧。"唯一的问题是，"他补充道，"我们该恐惧时却在希望，该希望时却在恐惧。"这句话在 2009 年与 1909 年同样真切。
-
 
 One of the most unprofessional things a stockbroker can do is hesitate or fail to call customers whose stocks are down in price. That’s when the customer needs help the most. Shirking this duty in difficult periods shows a lack of courage under pressure. About the only thing that’s worse is for brokers to take themselves off the hook by advising customers to “average down” (buy more of a stock that is already showing a loss). If I were advised to do this, I’d close my account and look for a smarter broker.
 
@@ -295,7 +286,6 @@ A great trader once noted there are only two emotions in the market: hope and fe
 
 普通投资者的心理与此并无二致。他们盼着更多火鸡回到箱里，而本该恐惧的是：所有火鸡都可能走光，自己最后将一无所获。
 
-
 Many years ago, I heard a story by Fred C. Kelly, the author of Why You Win or Lose, that illustrates perfectly how the conventional investor thinks when the time comes to make a selling decision:
 
 A little boy was walking down the road when he came upon an old man trying to catch wild turkeys. The man had a turkey trap, a crude device consisting of a big box with the door hinged at the top. This door was kept open by a prop, to which was tied a piece of twine leading back a hundred feet or more to the operator. A thin trail of corn scattered along a path lured turkeys to the box.
@@ -316,7 +306,6 @@ The psychology of normal investors is not much different. They hope more turkeys
 
 假设你两年前以 30 美元买入一只股票，如今值 34 美元。大多数投资者会因为有了利润而卖出。可是，你两年前付的价格，和这只股票如今值多少有何关系？又与你是否该继续持有或卖出它有何关系？关键在于这只股票相对于你已持有、或可能持有的其他股票的表现。
 
-
 If you’re a typical investor, you probably keep records of your transactions. When you think about selling a stock, you probably look at your records to see what price you paid for it. If you have a profit, you may sell, but if you have a loss, you tend to wait. After all, you didn’t invest in the market to lose money. However, what you should be doing is selling your worst-performing stock first. Keep your flower patch free of weeds.
 
 You may decide to sell your shares in Myriad Genetics, for example, because it shows a nice profit, but you’ll keep your General Electric because it still has a ways to go before it’s back to the price you paid for it. If this is the way you think, you’re suffering from the “price-paid bias” that afflicts 95% of all investors.
@@ -336,7 +325,6 @@ Suppose you bought a stock two years ago at \$30, and it’s now worth \$34. Mos
 把这些数字写下来，你就更容易看出股票何时触及了其中一个水平。
 
 基于自己的成本做卖出决定，仅仅因为无法接受自己择股不慎、亏了钱，就死抱着下跌的股票，是糟糕的生意经。事实上，你这么做，恰恰与你经营自己企业时会做的决定背道而驰。
-
 
 To help you avoid the price-paid bias, particularly if you are a longer-term investor, I suggest you use a different method of analyzing your results. At the end of each month or quarter, compute the percentage change in the price of each stock from the last date you did this type of analysis. Now list your investments in order of their relative price performance since your previous evaluation period. Let’s say Caterpillar is down 6%, ITT is up 10%, and General Electric is down 10%. Your list would start with ITT on top, then Caterpillar, then GE. At the end of the next month or quarter, do the same thing. After a few reviews, you will easily recognize the stocks that are not doing well. They’ll be at the bottom of the list; those that did best will be at or near the top.
 
@@ -364,7 +352,6 @@ It’s bad business to base your sell decisions on your cost and hold stocks dow
 
 现在你已掌握降低风险、挑选最佳股票的真正秘诀：别再数你的火鸡，扔掉你的黄裙子！
 
-
 Investing in the stock market is really no different from running your own business. Investing is a business and should be operated as such. Assume that you own a small store selling women’s clothing. You’ve bought and stocked women’s dresses in three colors: yellow, green, and red. The red dresses go quickly, half the green ones sell, and the yellows don’t sell at all.
 
 What do you do about it? Do you go to your buyer and say, “The red dresses are all sold out. The yellow ones don’t seem to have any demand, but I still think they’re good. Besides, yellow is my favorite color, so let’s buy some more of them anyway”?
@@ -388,7 +375,6 @@ Now you know the real secret to reducing your risk and selecting the best stocks
 这些定义与你在《韦氏词典》里读到的略有出入，却准确得多。别忘了，巴鲁克与利弗莫尔曾多次在股市中赚得数百万美元；至于那些词典编纂者赚了多少，我就不清楚了。
 
 我的目标之一，是让你去质疑许多你过去听过或用过的错误投资理念、信念与方法。其中之一，就是对"投资"一词本身含义的固有成见。关于股市如何运作、如何在此成功，外面流传的错误信息多得令人难以置信。学着客观地分析一只股票以及市场行为的全部相关事实吧。别再听信朋友、同事，以及每日电视上那些专家滔滔不绝的个人观点，别再被他们左右。
-
 
 There are two often-misunderstood words that are used to describe the kinds of people who participate in the stock market: speculator and investor. When you think of the word speculator, you might think of someone who takes big risks, gambling on the future success of a stock. Conversely, when you think of the word investor, you might think of someone who approaches the stock market in a sensible and rational manner. According to these conventional definitions, you may think it’s smarter to be an investor.
 
@@ -420,7 +406,6 @@ Wide diversification is a substitute for lack of knowledge. It sounds good, and 
 
 要做成功的投资者，你就必须正视事实，停止自我合理化和期盼。没有谁在情感上愿意认亏，但为了提高在股市中胜出的机会，你必须去做许多自己不想做的事。订立精确的规则与不留情面的卖出纪律，你就能获得重大优势。
 
-
 It’s also risky and possibly foolish to say to yourself, “I’m not worried about my stocks being down because they are good stocks, and I’m still getting my dividends.” Good stocks bought at the wrong time can go down as much as poor stocks, and it’s possible they might not be such good stocks in the first place. It may just be your personal opinion they’re good.
 
 Furthermore, if a stock is down 35% in value, isn’t it rather absurd to say you’re all right because you are getting a 4% dividend yield? A 35% loss plus a 4% income gain equals a whopping 31% net loss.
@@ -436,7 +421,6 @@ To be a successful investor, you must face facts and stop rationalizing and hopi
 要想真正精通选股就得下一番功夫，而要懂得何时、如何卖出则需要下更多功夫。正确地卖出股票是更难的一件事，也是所有人最不理解的环节。要做到位，你需要一套止损计划，以及迅速、毫不动摇地执行它的纪律。
 
 忘掉你的自我，放下你的骄傲，别再试图与市场争辩，也不要对任何让你亏钱的股票产生情感依恋。请记住：没有所谓的优质股，它们全都是烂股……除非它们上涨。从 2000 年和 2008 年的经历中吸取教训吧。遵循我们卖出规则的人保住了本金、落袋为安；而那些没有规则、或不遵守任何卖出规则的人，则身受重创。
-
 
 There’s one last critical reason for you to take losses before they have a chance to really hurt you: never lose your courage to make decisions in the future. If you don’t sell to cut your losses when you begin to get into trouble, you can easily lose the confidence you’ll need to make buy and sell decisions in the future. Or, far worse, you can get so discouraged that you finally throw in the towel and get out of the market, never realizing what you did wrong, never correcting your faulty procedures, and giving up all the future potential the stock market—one of the most outstanding opportunities in America—has to offer.
 
@@ -496,7 +480,6 @@ What all these Wall Street legends believed was this: you simply must get out wh
 
 在查看了 Dreyfus 一百多笔新买入后，我发现了一个惊人的事实：每一只股票，都是在其过去一年所卖出的最高价位上买入的。换句话说，如果一只股票在 40 到 50 美元之间来回震荡了数月，Dreyfus 就会在它创出新高、于 50 到 51 美元之间成交时立刻买入。而这些股票在跃上新高之前，也都形成了某些图表价格形态。这给了我两条至关重要的线索：创新高时买入很重要，特定的图表形态则预示着巨大的利润潜力。
 
-
 To be a big success in the stock market, you need definite rules and a profitand-loss plan. I developed many of the buy and sell rules described in this book in the early 1960s, when I was a young stockbroker with Hayden, Stone. These rules helped me buy a seat on the New York Stock Exchange and start my own firm shortly thereafter. When I started out, though, I concentrated on developing a set of buy rules that would locate the very best stocks. But as you’ll see, I had only half of the puzzle figured out.
 
 My buy rules were first developed in January 1960, when I analyzed the three best-performing mutual funds of the prior two years. The standout was the then-small Dreyfus Fund, which racked up gains twice as large as those of many of its competitors.
@@ -551,7 +534,6 @@ About this time, I was accepted to Harvard Business School’s first Program for
 
 这与大多数人的投资方式截然不同。他们大多向下摊平，也就是在股价下跌时加买股票，以摊低每股成本。可是，为什么要往那些不奏效的股票上追加更多辛苦钱呢？
 
-
 After reading his book, I adopted Livermore’s method of pyramiding, or averaging up, when a stock advanced after I purchased it. “Averaging up” is a technique where, after your initial stock purchase, you buy additional shares of the stock when it moves up in price. This is usually warranted when the first purchase of a stock is made precisely at a correct pivot, or buy, point and the price has increased 2% or 3% from the original purchase price. Essentially, I followed up what was working with additional but always smaller purchases, allowing me to concentrate my buying when I seemed to be right. If I was wrong and the stock dropped a certain amount below my cost, I sold the stock to cut short every loss.
 
 This is very different from how the majority of people invest. Most of them average down, meaning they buy additional shares as a stock declines in price in order to lower their cost per share. But why add more of your hard-earned money to stocks that aren’t working?
@@ -573,7 +555,6 @@ This is very different from how the majority of people invest. Most of them aver
 这就是赢家与输家的分野，无论在市场还是在人生中。如果你在 2000 年或 2008 年的熊市中受了伤，别灰心、别放弃。把你的错误标在图表上，加以研究，并写下一些新的规则——只要照着做，就能纠正你的错误，让你避开那些耗费大量时间与金钱的行为。这样你就会离充分把握下一轮牛市更近一步。而在美国，未来还会有许多轮牛市。只要你没有认输退出、也没有像大多数政客那样开始怨天尤人，你就永远不算输家。若你照我这里的建议去做，它或许能改变你的一生。
 
 "成功没有秘诀，"前国务卿科林·鲍威尔将军说，"它是准备、努力和从失败中学习的结果。" 
-
 
 In the first half of 1961, my rules and plan worked great. Some of the top winners I bought that year were Great Western Financial, Brunswick, Kerr-McGee, Crown Cork & Seal, AMF, and Certain-teed. But by summer, all was not well.
 
@@ -608,7 +589,6 @@ This is the difference between winners and losers, whether in the market or in l
 通过卖出落后者、把资金转投赢家，你的钱就能用在效率高得多的地方。在行情好的一年里，你可以做两三次 20% 的操作，而不必苦苦熬过那么多次漫长而毫无产出的回调、干等一只股票构筑全新的底部。
 
 三到六个月内赚到 20%，比花上一年才赚到 20% 效率高得多。一年内两次 20% 收益复利滚动，相当于 44% 的年回报率。等你经验更丰富，还可以用足融资（保证金账户中的购买力），把复利回报推到接近 100%。
-
 
 As a result of my analysis, I discovered that successful stocks, after breaking out of a proper base, tend to move up 20% to 25%. Then they usually decline, build new bases, and in some cases resume their advances. With this new knowledge in mind, I made a rule that I’d buy each stock exactly at the pivot buy point and have the discipline not to pyramid or add to my position at more than 5% past that point. Then I’d sell each stock when it was up 20%, while it was still advancing.
 
@@ -646,7 +626,6 @@ A 20% gain in three to six months is substantially more productive than a 20% ga
 
 如果你有时感到气馁，请永远不要放弃。回过头去，再多下一些细致的功夫。正是你在周一到周五、朝九晚五之外投入的学习与钻研时间，最终决定了你是赢得并达成目标，还是错失那些真能改变你一生的绝佳机遇。
 
-
 Another exceedingly profitable observation I made from analyzing every one of my money-losing, out-of-ignorance mistakes was that most of my market-leading stocks that topped had done so because the general market started into a decline of 10% or more. This conclusion finally led to my discovering and developing our system of interpreting the daily general market averages’ price and volume chart. It gave us the critical ability to establish the true trend and major changes of direction in the overall market.
 
 Three months later, by April 1, 1962, following all of my selling rules had automatically forced me out of every stock. I was 100% in cash, with no idea the market was headed for a real crash that spring. This is the fascinating thing: the rules will force you out, but you don’t know how bad it can really get. You just know it’s going down and you’re out, which sooner or later will be worth its weight in gold to you. That’s what happened in 2008. Our rules forced us out, and we had no idea the market was headed for a major breakdown. Most institutional investors were affected because their investment policy was to be fully invested (95% to 100%).
@@ -673,7 +652,6 @@ If you get discouraged at times, don’t ever give up. Go back and put in some d
 
 第二，在牛市中买入一只股票后，要提防你或许会在报价纸带或电脑上看到的巨额抛单。这些抛售可能是情绪化的、盲目的、暂时的，也可能相对于过去的成交量而言并没有看上去那么大。最好的股票也会经历几天或一周的急跌。这时候去看周线图以把握全局，以免在一次可能只是正常回撤的走势中被吓出局、震出局。事实上，赢家股有 40% 到 60% 的概率会回调到精确买点或略低于买点的位置，试图把你震出去；但除非你当初追得太高，它本不该下跌 8%。如果你错误频出、似乎怎么做都不灵，就检查一下，确认你没有把许多买入价定在精确正确买点之上 10%、15% 或 20% 的位置。追高很少奏效。你不能因为越来越兴奋就买入。
 
-
 Before we examine the key selling rules one by one, keep these two key points in mind.
 
 First, buying precisely right solves most of your selling problems. If you buy at exactly the right time off a proper daily or weekly chart base in the first place, and you do not chase or pyramid a stock when it’s extended in price more than 5% past a correct pivot buy point, you will be in a position to sit through most normal corrections. Winning stocks very rarely drop 8% below a correct pivot buy point. In fact, most big winners don’t close below their pivot point. Buying as close to the pivot point as possible is therefore absolutely essential and may let you cut the smaller number of resulting losses more quickly than 8%. A stock might have to drop only 4% or 5% before you know something could be wrong.
@@ -689,7 +667,6 @@ Second, beware of the big-block selling you might see on a ticker tape or your P
 当你试图辨认一只股票是否进入见顶过程时，有许多信号可供观察，包括冲顶前后的价格运动、不利的成交量以及其他弱势表现。随着你持续研究这些信息并把它运用到日常决策中，其中很多会对你越来越清晰。这些规则与原则成就了我大多数较出色的市场决策，但它们起初可能显得有点复杂。我建议你先重读第 2 章关于看图的内容，再回头读这些卖出规则。
 
 事实上，我在这几百场研讨会上遇到的、真正靠投资获得成功的 IBD 订户都告诉我，他们把整本书读了两三遍甚至更多。你多半无法一次就读透。一些曾被外界噪音分散注意力的人说，他们会定期重读，以帮助自己重回正轨。
-
 
 By studying how the greatest stock market winners, as well as the market itself, all topped, I came up with the following list of factors that occur when a stock tops and rolls over. Perhaps you’ve noticed that few of the selling rules involve changes in the fundamentals of a stock. Many big investors get out of a stock before trouble appears on the income statement. If the smart money is selling, so should you. Individual investors don’t stand much chance when institutions begin liquidating large positions. You buy with heavy emphasis on the fundamentals, such as earnings, sales, profit margins, return on equity, and new products, but many stocks peak when earnings are up 100% and analysts are projecting continued growth and higher price targets.
 
@@ -717,6 +694,27 @@ In fact, most of the IBD subscribers I’ve met at our hundreds of workshops who
 5. 200 日移动平均线。有些股票在高于其 200 日移动平均价格线 70% 到 100% 或更多时可以卖出，不过这一条我很少用到。
 6. 从顶部回落途中卖出。如果你没能在股票仍在上涨时及早卖出，那就在它从峰值下跌的途中卖出。首次破位之后，有些股票可能会反弹一次。
 
+![image](images/Chapter2-d003f46e093c08ecaf23747988242d011b37073235d3c06eef50c7c3b82f59fd.jpg)
+
+![image](images/Chapter2-cd04cf34447839c549071e531283197a0a41ad695becd18e0e04d7daa605867e.jpg)
+
+![image](images/Chapter2-e63321eb58c48a2327d0ed045975ac2403175162879d6c01b28f2816a3e70f31.jpg)
+
+![image](images/Chapter2-3e7dcda2f675c253902db402a48d0e4708e80d27273a0e1e38446949aa2616d9.jpg)
+
+![image](images/Chapter2-663ad2767ba8c72b091858c970163e16dfbbf9f5f475487bc5bebd4d5fcc2d52.jpg)
+
+![image](images/Chapter2-1ffec053cdb855371a3e5bf24d6ee4a5fe6cd418821973f004ae455c48187244.jpg)
+
+![image](images/Chapter2-5c718ae7f4453746a445b6fc173ef2fe0e5972f769576eefbdeaa9f6245086c4.jpg)
+
+![image](images/Chapter2-42b49d83b08fadb538ebc936ed55083245c6fee2b8c4aee674b03e6965c7bb5e.jpg)
+
+![image](images/Chapter2-b737885d107fd008c73e8cdc2dfc62dcde004bd686e42423553fec32593c25bd.jpg)
+
+![image](images/Chapter2-0f3f57ce92aca31451b554f10f05fa1bb8f445227de402104e89aa64b39cd7f1.jpg)
+
+![image](images/Chapter2-060dc1934b00d75b9dd87a010769b59a3d345ead2c868ce550dddcf032ed2402.jpg)
 
 Many leading stocks top in an explosive fashion. They make climax runs— suddenly advancing at a much faster rate for one or two weeks after an advance of many months. In addition, they often end in exhaustion gaps— when a stock’s price opens up on a gap from the prior day’s close, on heavy volume. These and related bull market climax signals are discussed in detail here.
 
@@ -734,34 +732,6 @@ In a few cases, around the top of a climax run, a stock may retrace the prior we
 5. 200-day moving average line. Some stocks may be sold when they are 70% to 100% or more above their 200-day moving average price line, although I have rarely used this one.
 6. Selling on the way down from the top. If you didn’t sell early while the stock was still advancing, sell on the way down from the peak. After the first breakdown, some stocks may pull back up in price once.
 
-![image](images/Chapter2-d003f46e093c08ecaf23747988242d011b37073235d3c06eef50c7c3b82f59fd.jpg)
-
-![image](images/Chapter2-cd04cf34447839c549071e531283197a0a41ad695becd18e0e04d7daa605867e.jpg)
-
-![image](images/Chapter2-e63321eb58c48a2327d0ed045975ac2403175162879d6c01b28f2816a3e70f31.jpg)
-
-![image](images/Chapter2-3e7dcda2f675c253902db402a48d0e4708e80d27273a0e1e38446949aa2616d9.jpg)
-
-Investor’s Business Daily · Investor’s Business Daily
-
-![image](images/Chapter2-663ad2767ba8c72b091858c970163e16dfbbf9f5f475487bc5bebd4d5fcc2d52.jpg)
-
-![image](images/Chapter2-1ffec053cdb855371a3e5bf24d6ee4a5fe6cd418821973f004ae455c48187244.jpg)
-
-![image](images/Chapter2-5c718ae7f4453746a445b6fc173ef2fe0e5972f769576eefbdeaa9f6245086c4.jpg)
-
-![image](images/Chapter2-42b49d83b08fadb538ebc936ed55083245c6fee2b8c4aee674b03e6965c7bb5e.jpg)
-
-9 · Investor’s Business Daily
-
-![image](images/Chapter2-b737885d107fd008c73e8cdc2dfc62dcde004bd686e42423553fec32593c25bd.jpg)
-
-![image](images/Chapter2-0f3f57ce92aca31451b554f10f05fa1bb8f445227de402104e89aa64b39cd7f1.jpg)
-
-Investor’s Business Daily
-
-![image](images/Chapter2-060dc1934b00d75b9dd87a010769b59a3d345ead2c868ce550dddcf032ed2402.jpg)
-
 ### Low Volume and Other Weak Action
 
 1. 低量创新高。有些股票会在成交量偏低、萎缩的情况下创出新高。随着股价走高，成交量反而下滑，说明大投资者已对这只股票失去兴趣。
@@ -771,7 +741,6 @@ Investor’s Business Daily
 5. 从峰值回落。一只股票从峰值下跌约 8% 后，有时仔细审视此前的上涨、顶部和下跌过程，可以帮你判断行情是已经结束，还是正在经历一次正常的 8% 到 15% 回调。若从峰值的跌幅超过 12% 或 15%，你或许偶尔应该卖出。
 6. 相对强度疲软。相对价格强度走弱，也是卖出的另一个理由。当一只股票的 IBD 相对价格强度评级跌破 70 时，可考虑卖出。
 7. 独行侠。若同一行业板块中没有任何其他重要成员印证价格强度，就应考虑卖出。
-
 
 1. New highs on low volume. Some stocks will make new highs on lower or poor volume. As the stock goes higher, volume trends lower, suggesting that big investors have lost their appetite for the stock.
 2. Closing at or near the day’s price low. Tops can also be seen on a stock’s daily chart in the form of “arrows” pointing down. That is, for several days, the stock will close at or near the low of the daily price range, fully retracing the day’s advance.
@@ -791,7 +760,6 @@ Investor’s Business Daily
 4. 200 日移动平均线拐头向下。经历长期上涨之后，若一只股票的 200 日移动平均价格线拐头向下，可考虑卖出。此外，如果一只股票的底部表现疲软——大部分价格活动发生在底部下半区或 200 日移动平均价格线之下——那么一旦它创出新高，就应卖出。
 5. 久居 10 周移动平均线之下。若一只股票经历了漫长的上涨，随后收盘跌破其 10 周移动平均线，并连续八到九周都待在这条均线下方、无法反弹到周末收于线上，可考虑卖出。
 
-
 Breaking support occurs when stocks close for the week below established major trend lines.
 
 1. Long-term uptrend line is broken. Sell if a stock closes at the end of the week below a major long-term uptrend line or breaks a key price support area on overwhelming volume. An uptrend line should connect at least three intraday or intraweek price lows occurring over a number of months. Trend lines drawn over too short a time period aren’t valid.
@@ -809,7 +777,6 @@ Breaking support occurs when stocks close for the week below established major t
 5. 多数情况下，当季度盈利增幅明显放缓（或较此前增速放缓三分之二）、并连续出现两个季度时，就应卖出。
 6. 小心因坏消息或谣言而卖出，它们的影响可能只是暂时的。谣言有时正是被制造出来，吓唬个人投资者这条"小鱼"交出手中的筹码。
 7. 永远从你过去所有的卖出失误中学习。把你过去的买卖点在图表上标出来，做自己的事后复盘；仔细研究你的错误，并写下新的规则，以避免那些造成过度亏损或错失重大机会的旧错重演。你正是这样才成为精明的投资者的。
-
 
 1. If you cut all your losses at 7% or 8%, take a few profits when you’re up 20%, 25%, or 30%. Compounding three gains like this could give you an overall gain of 100% or more. However, don’t sell and take a 25% or 30% gain in any market leader with institutional support that’s run up 20% in only one, two, or three weeks from the pivot buy point on a proper base. Those could be your big leaders and should be held for a potentially greater profit.
 2. If you’re in a bear market, get off margin, raise more cash, and don’t buy very many stocks. If you do buy, maybe you should take 15% profits and cut all your losses at 3%.
@@ -850,7 +817,6 @@ Breaking support occurs when stocks close for the week below established major t
 你刚刚读完了本书最有价值的章节之一。如果你反复温习，并为自己的投资采用一套有纪律的损益计划，它带来的价值也许是书价的几千倍。你甚至可以规定自己每年重读这一章一次。
 
 除非你既成为好的买家、也成为好的卖家，否则不可能成为市场上的大赢家。2000 年，那些遵循这些历经历史检验的卖出规则的读者，把他们在 1998 和 1999 年赚到的大部分可观收益都锁定了。少数认真的学生在那一轮快速行情中赚到了 500% 到 1000% 甚至更多。2008 年同样如此：更大比例的 IBD 读者（尽管并非人人）在经过大量钻研之后，得以施行正确的卖出规则，保护并守住了辛苦挣来的本金，而不是屈服于当年三、四季度的剧烈下跌。
-
 
 Closely related to the decision on when to sell is when to sit tight. Here are some suggestions for doing just that.
 
@@ -914,7 +880,6 @@ This and the following chapter will introduce you to the many options and alluri
 
 手头有 2 万到 20 万美元可投资的大多数人，应当考虑把自己限制在四五只精心挑选、真正了解并看懂的股票上。一旦你已持有五只股票，又冒出一个让你动心、想买入的机会，你就该拿出纪律，卖掉手上最不吸引人的那只。如果你可投资的是 5000 到 2 万美元，三只股票也许是合理的上限；一个 3000 美元的账户，限定两只股票足矣。让事情保持在可控范围内。持有越多，跟踪每一只就越难。即便是管理百万美元以上组合的投资者，持股也无须超过六七只精挑细选的证券。如果只持有六七只让你不安、紧张，那就持有十只；但持有三四十只就可能成为问题。大钱是靠集中赚来的——前提是你运用稳健的买卖规则和务实的大盘规则。当然，也没有哪条规则规定：一个 50 只股票的组合就不能下跌 50% 或更多。
 
-
 How many times have you been told, “Don’t put all your eggs in one basket”? On the surface, this sounds like good advice, but my experience is that few people do more than one or two things exceedingly well. Those who are jacks-of-all-trades and masters of none are rarely dramatically successful in any field, including investing. Did all the esoteric derivatives help or harm Wall Street pros? Did experimenting with highly abnormal leverage of 50 or 100 to 1 help or hurt them?
 
 Would you go to a dentist who did a little engineering or cabinetmaking on the side and who, on weekends, wrote music and worked as an auto mechanic, plumber, and accountant?
@@ -939,7 +904,6 @@ Most people with \$20,000 to \$200,000 to invest should consider limiting themse
 
 采用这套跟进买入的程序，能让你的资金更多地集中在少数几只最好的投资上。没有哪个系统是完美的，但这一套比随意分散的组合更贴近现实，也更有机会取得重要的成果。分散投资本身绝对稳健，只是别做过头。始终为你将持有的股票数量设定上限，并坚守你的规则。投资时，永远把你的规则集带在身边——也许就记在一个小本子里。什么？你说你一直在没有任何具体买卖规则的情况下投资？过去五到十年，这给你带来了什么结果？
 
-
 It’s possible to spread out your purchases over a period of time. This is an interesting form of diversifying. When I accumulated a position in Amgen in 1990 and 1991, I bought on numerous days. I spread out the buying and made add-on buys only when there was a significant gain on earlier buys. If the market price was 20 points over my average cost and a new buy point occurred off a proper base, I bought more, but I made sure not to run my average cost up by buying more than a limited or moderate addition.
 
 However, newcomers should be extremely careful in trying this more risky, highly concentrated approach. You have to learn how to do it right, and you positively have to sell or cut back if things don’t work as expected.
@@ -951,7 +915,6 @@ Using this follow-up purchasing procedure should keep more of your money in just
 ### Should You Invest for the Long Haul?
 
 如果你确实决定集中持股，那么是该长期持有，还是更频繁地交易？答案是：持有期的长短并不是关键。关键在于——在精准的时机买入正确的股票、最优秀的股票，然后当市场或你的各种卖出规则提示该卖时，就把它卖掉。从买入到卖出之间的时间，可能短也可能长，让你的规则和市场来决定。若你这样做，有些赢家你会持有三个月，有些六个月，少数则持有一两年、三年甚至更久；而大多数输家，你会持有短得多的时间，通常在几周到三个月之间。任何管理良好的组合，都绝不该让亏损持仓拖到六个月或以上。让你的组合保持干净、与市场同步。记住，好园丁总会给花圃除草、剪去弱枝。
-
 
 If you do decide to concentrate, should you invest for the long haul or trade more frequently? The answer is that the holding period (long or short) is not the main issue. What’s critical is buying the right stock—the very best stock—at precisely the right time, then selling it whenever the market or your various sell rules tell you it’s time to sell. The time between your buy and your sell could be either short or long. Let your rules and the market decide which one it is. If you do this, some of your winners will be held for three months, some for six months, and a few for one, two, or three years or more. Most of your losers will be held for much shorter periods, normally between a few weeks and three months. No well-run portfolio should ever, ever have losses carried for six months or more. Keep your portfolio clean and in sync with the market. Remember, good gardeners always weed the flower patch and prune weak stems.
 
@@ -965,84 +928,27 @@ If you do decide to concentrate, should you invest for the long haul or trade mo
 
 ![image](images/Chapter2-2a45e88275c5097e7404edf0ad110ace49a0eb046f78691f59e0960199608f15.jpg)
 
-Investor’s Business Daily
-
 ![image](images/Chapter2-c876f67da5a8656b4d0f1616933ad7257fc9b0474375b1ef3faab8c4a1bdef29.jpg)
-
-Investor’s Business Daily
 
 ![image](images/Chapter2-866fdf9075f4ee38f4cbe05f59d4ebe1d1e6df02a368d487e9ba06cbb7e2e6df.jpg)
 
-Investor’s Business Daily
-
 ![image](images/Chapter2-aff82a7312902019db18cd3faf8b6dc50d9396a8097981689a3da92a8a1c8dd6.jpg)
-
-Investor’s Business Daily
 
 ![image](images/Chapter2-c08b7904e902cbcadb002faec0890c37ae8c900d5cd8e17dc4bff01231a58a19.jpg)
 
-Investor’s Business Daily
-
 ![image](images/Chapter2-181b8e9b8b74eea31400f9313f964aa6f41c25ad0ea09ee7d6d37c26e625a17c.jpg)
-
-Investor’s Business Daily
 
 ![image](images/Chapter2-8e94ebcfa3936492558dd2cb395fa11ce3e9f88dd57c2f993b630a37bbdeb7b7.jpg)
 
-Investor’s Business Daily
-
 ![image](images/Chapter2-321d8fd1f7dbbe5f307c31bd5fd6ec33e068aa82c18bb95a131d0db83802a336.jpg)
-
-Investor’s Business Daily
-
-Investor’s Business Daily
 
 ![image](images/Chapter2-829bc7262b0bad1ebb61d1fcc7aba1597616ad7b37c09b0b478d90a42f2e752e.jpg)
 
 实际上，如果你看得时间更长，还有更多卖出信号。例如，Citigroup 在此前三年（2004 到 2006 年）的相对强度基础上下跌惨重，其盈利增长在那段时间也从其 1990 年代的增速放缓。监控你投资的价格和成交量活动是值得的。那就是你停止亏损、开始盈利的方式。
 
-
 I’ve marked up the weekly charts of WorldCom in 1999, Enron in 2001, and Citigroup, AIG, and General Motors in 2007. They show 10 to 15 specific signs that these investments should clearly have been sold at that time.
 
 Why you must always use charts…see what happens next.
-
-![image](images/Chapter2-1e48920512aabf73fc86d6a8603cfbf04e0e93c3ac3a41c2d84bb1488c4f6784.jpg)
-
-![image](images/Chapter2-2a45e88275c5097e7404edf0ad110ace49a0eb046f78691f59e0960199608f15.jpg)
-
-Investor’s Business Daily
-
-![image](images/Chapter2-c876f67da5a8656b4d0f1616933ad7257fc9b0474375b1ef3faab8c4a1bdef29.jpg)
-
-Investor’s Business Daily
-
-![image](images/Chapter2-866fdf9075f4ee38f4cbe05f59d4ebe1d1e6df02a368d487e9ba06cbb7e2e6df.jpg)
-
-Investor’s Business Daily
-
-![image](images/Chapter2-aff82a7312902019db18cd3faf8b6dc50d9396a8097981689a3da92a8a1c8dd6.jpg)
-
-Investor’s Business Daily
-
-![image](images/Chapter2-c08b7904e902cbcadb002faec0890c37ae8c900d5cd8e17dc4bff01231a58a19.jpg)
-
-Investor’s Business Daily
-
-![image](images/Chapter2-181b8e9b8b74eea31400f9313f964aa6f41c25ad0ea09ee7d6d37c26e625a17c.jpg)
-
-Investor’s Business Daily
-
-![image](images/Chapter2-8e94ebcfa3936492558dd2cb395fa11ce3e9f88dd57c2f993b630a37bbdeb7b7.jpg)
-
-Investor’s Business Daily
-
-![image](images/Chapter2-321d8fd1f7dbbe5f307c31bd5fd6ec33e068aa82c18bb95a131d0db83802a336.jpg)
-
-Investor’s Business Daily
-
-Investor’s Business Daily
-
-![image](images/Chapter2-829bc7262b0bad1ebb61d1fcc7aba1597616ad7b37c09b0b478d90a42f2e752e.jpg)
 
 Actually, if you looked at a longer time period, there were even more sell signals. For example, Citigroup had dramatically underperformed on a relative strength basis for the prior three years, from 2004 through 2006, and its earnings growth during that time slowed from its growth rate throughout the 1990s. It pays to monitor your investments’ price and volume activity. That’s how you stop losing and start winning.
 
@@ -1051,7 +957,6 @@ Actually, if you looked at a longer time period, there were even more sell signa
 我始终劝人不要做的一种操作就是日内交易，即当天买入、当天卖出。大多数投资者这样做都会亏钱。原因很简单：你主要面对的是难以辨识的日内小幅波动，远比更长时间周期上的基本趋势难读。何况，日内交易的利润潜力通常不足以弥补你产生的佣金和不可避免的亏损。别急着赚快钱。罗马不是一天建成的。
 
 还有一种新型日内交易，更像短线波段交易（在上涨途中买入股票，在不可避免的回调前卖出）。它指的是：在图表上的精确枢轴买点（脱离底部或价格整理区）买入股票，并在突破后约五天卖出。有时，在五分钟周期的日内图上辨识出杯柄形态等形态中的枢轴点，能揭示一只正从日内形态突破的股票。若以真正的技巧在积极的市场中操作，这种做法对某些人或许管用，但它需要大量的时间、学习和经验。
-
 
 One type of investing that I have always discouraged people from doing is day trading, where you buy and sell stocks on the same day. Most investors lose money doing this. The reason is simple: you are dealing predominantly with minor daily fluctuations that are harder to read than basic trends over a longer time period. Besides, there’s generally not enough profit potential in day trading to offset the commissions you generate and the losses that will inevitably occur. Don’t try to make money so fast. Rome wasn’t built in a day.
 
@@ -1067,7 +972,6 @@ There is a new form of day trading that is more like short-term swing trading (b
 
 你的融资利息支出，视不断变化的税法而定，或许可以抵税。但在某些时期，融资利率可能高得让大幅获利的可能性大打折扣。要用融资买入，你还需与券商签署一份融资协议。
 
-
 In the first year or two, while you’re still learning to invest, it’s much safer to invest on a cash basis. It usually takes most new investors at least two to three years before they gain enough market experience (by making several bad decisions, wasting time trying to reinvent the wheel, and experimenting with unsound beliefs) to be able to make and keep significant profits. Once you have a few years’ experience, a sound plan, and a strict set of both buy and sell rules, you might consider buying on margin (using borrowed money from your brokerage firm in order to purchase more stock). Generally, margin buying should be done by younger investors who are still working. Their risk is somewhat less because they have more time to prepare for retirement.
 
 The best time to use margin is generally during the first two years of a new bull market. Once you recognize a new bear market, you should get off margin immediately and raise as much cash as possible. You must understand that when the general market declines and your stocks start sinking, you will lose your initial capital twice as fast if you’re fully margined than you would if you were invested on a cash basis. This dictates that you absolutely must cut all losses quickly and get off margin when a major general market deterioration begins. If you speculate in small-capitalization or high-tech stocks fully margined, a 50% correction can cause a total loss. This happened to some new investors in 2000 and early 2001.
@@ -1079,7 +983,6 @@ Your margin interest expense, depending on laws that change constantly, might be
 ### Never Answer a Margin Call
 
 如果你融资账户里的一只股票大幅缩水，以至于券商要求你或追加资金、或卖出股票，那就别追加资金——考虑卖出股票。十有八九，这样对你更有利。市场正在告诉你：你走错了路、你正在受伤、事情不奏效。所以卖出，降低你的风险水平。再说一遍，为什么要拿好钱去填坏窟窿？如果你追加了资金，股票却继续下跌、你又收到更多追加保证金通知，你打算怎么办？难道要为一个输家撑腰撑到破产？
-
 
 If a stock in your margin account collapses in value to the point where your stockbroker asks you to either put up money or sell stock, don’t put up money; think about selling stock. Nine times out of ten, you’ll be better off. The marketplace is telling you that you’re on the wrong path, you’re getting hurt, and things aren’t working. So sell and cut back your risk level. Again, why throw good money after bad? What will you do if you put up good money and the stock continues to decline and you get more margin calls? Go broke backing a loser?
 
@@ -1095,6 +998,9 @@ If a stock in your margin account collapses in value to the point where your sto
 
 卖空时，你同样必须把风险限制在 8% 止损之内。否则后果不堪设想，因为股票的价格上涨空间是无限的。
 
+![image](images/Chapter2-3eb413f19bca71ba3c18951fce93e20d6f3e88cee1c0976159419335c8770537.jpg)
+
+![image](images/Chapter2-97f8adb2b3b519df3d85bb377c5332fff72b17a31283345f7fc23eb3a41c11f2.jpg)
 
 I did some research and wrote a booklet on short selling in 1976. It’s now out of print, but not much has changed on the subject since then. In 2005, the booklet was the basis for a book titled How to Make Money Selling Short. The book was written with Gil Morales, who rewrote, revised, and updated my earlier work. Short selling is still a topic few investors understand and an endeavor at which even fewer succeed, so consider carefully whether it’s right for you. More active and seasoned investors might consider limited short selling. But I would want to keep the limit to 10% or 15% of available money, and most people probably shouldn’t do even that much. Furthermore, short selling is far more complicated than simply buying stocks, and most short sellers are run in and lose money.
 
@@ -1106,18 +1012,11 @@ Effective short selling is usually done at the beginning of a new general market
 
 In selling short, you also have to minimize your risk by cutting your losses at 8%. Otherwise, the sky’s the limit, as your stock could have an unlimited price increase.
 
-![image](images/Chapter2-3eb413f19bca71ba3c18951fce93e20d6f3e88cee1c0976159419335c8770537.jpg)
-
-© 2009 Investor’s Business Daily, Inc.
-
-![image](images/Chapter2-97f8adb2b3b519df3d85bb377c5332fff72b17a31283345f7fc23eb3a41c11f2.jpg)
-
 ### What Are Options, and Should You Invest in Them?
 
 期权是这样一种投资工具：你花钱买下一份权利（合约），可以在某个约定的未来时点（即期权到期日）之前，按约定价格买入（"看涨"，call）或卖出（"看跌"，put）一只股票、某个股票指数或商品。期权投机性极强，其风险与价格波动都远大于普通股。因此，大多数投资者都不该买入或卖出期权。获胜的投资者首先应学会如何把所承担的投资风险降到最低，而不是去加大它。一个人唯有证明自己能在普通股上赚钱、并具备足够的投资理解和实战经验之后，才可以明智地考虑有限度地使用期权。
 
 期权就像在打"全有或全无"的赌。假如你买入一份 McDonald's 的三个月看涨期权，所付的权利金赋予你在未来三个月内任何时候以某个价格买入 100 股 MCD 的权利。买入看涨期权时，你预期股价会上涨；所以若一只股票现价 120 美元，你或许会以 125 美元的执行价买入看涨期权。若三个月后股价涨到 150 美元（而你还没卖出这份看涨期权），你便可以行权，把 25 美元的价差减去你付出的权利金后落袋。反之，若三个月过去，股价下跌、表现不及预期，你就不会行权；期权到期作废，你损失掉付出的权利金。如你所料，看跌期权的运作方式类似，只是你赌的是股价下跌而非上涨。
-
 
 Options are an investment vehicle where you purchase rights (contracts) to buy (“call”) or sell (“put”) a stock, stock index, or commodity at a specified price before a specified future time, known as the option expiration date. Options are very speculative and involve substantially greater risks and price volatility than common stocks. Therefore, most investors should not buy or sell options. Winning investors should first learn how to minimize the investment risks they take, not increase them. After a person has proved that she is able to make money in common stocks and has sufficient investment understanding and actual experience, then the limited use of options could be intelligently considered.
 
@@ -1128,7 +1027,6 @@ Options are like making “all or nothing” bets. If you buy a three-month call
 如果你确实考虑期权，就一定要限制它在整个投资组合中所占的比重。一个审慎的上限，也许是不超过 10% 到 15%。你还应订立一条规则，明确打算在何处砍掉并限制所有亏损。这个比例自然必须高于 8%，因为期权的波动远大于股票。如果一份期权的波动速度是标的股票的三倍，那么 20% 或 25% 或许可以作为绝对上限。在利润方面，你可以订一条规则：多数收益在达到 50% 到 75% 时就了结。
 
 期权有些方面会带来挑战。如果某份期权因市场狭小、流动性不足，其价格就极易受供求变化影响，买入这类期权是有问题的。同样麻烦的是，仅仅因为标的股票或大盘的价格波动性短暂上升，期权就可能被人为地、暂时地抬高价格。
-
 
 If you do consider options, you should definitely limit the percentage of your total portfolio committed to them. A prudent limit might be no more than 10% to 15%. You should also adopt a rule about where you intend to cut and limit all of your losses. The percentage will naturally have to be more than 8%, since options are much more volatile than stocks. If an option fluctuates three times as rapidly as the underlying stock, then perhaps 20% or 25% might be a possible absolute limit. On the profit side, you might consider adopting a rule that you’ll take many of your gains when they hit 50% to 75%.
 
@@ -1152,7 +1050,6 @@ Some aspects of options present challenges. Buying options whose price can be si
 
 如果你持有的证券陷入麻烦，而你因为给卖单设了限价而未能卖出脱身，也可能输个精光。你的目标是在大波动上判断正确，而不是在小波动上。
 
-
 When I buy options, which is rarely, I prefer to buy them for the most aggressive and outstanding stocks with the biggest earnings estimates, those where the premium you have to pay for the option is higher. Once again, you want options on the best stocks, not the cheapest. The secret to making money in options doesn’t have much to do with options. You have to analyze and be right on the selection and timing of the underlying stock. Therefore, you should apply your CAN SLIM system and select the best possible stock at the best possible time.
 
 If you do this and you are right, the option will go up along with the stock, except that the option should move up much faster because of the leverage.
@@ -1175,7 +1072,6 @@ You could also lose your shirt if your security is in trouble and you fail to se
 
 短期期权的问题在于：你在个股上或许判断正确，但大盘可能滑入一轮中期回调，结果到期时所有股票都下跌，于是你所有的期权都因大盘而亏损。这也正是你为什么应当把期权买入和到期日分散到好几个不同的月份。
 
-
 If you buy options, you’re better off with longer time periods, say, six months or so. This will minimize the chance your option will run out of time before your stock has had a chance to perform. Now that I’ve told you this, what do you think most investors do? Of course, they buy shorter-term option—30 to 90 days—because these options are cheaper and move faster in both directions, up and down!
 
 The problem with short-term options is that you could be right on your stock, but the general market may slip into an intermediate correction, with the result that all stocks are down at the end of the short time period. You will then lose on all your options because of the general market. This is also why you should spread your option buying and option expiration dates over several different months.
@@ -1191,7 +1087,6 @@ The problem with short-term options is that you could be right on your stock, bu
 价差组合（spread），是到期日相同的期权的一买一卖。
 
 光是挑出一只上涨的股票或期权就已经够难了。如果你把事情搞复杂、开始对冲（同时做多和做空），信不信由你，你很可能落得两边都亏。比如，若股票上涨，你可能忍不住早早卖出手中的看跌以减小亏损，结果后来发现股价已掉头向下，你又在看涨那一头亏钱；反过来也一样。这是一种危险的心理游戏，你应当避而远之。
-
 
 One thing to keep in mind is that you should always keep your investments as simple as possible. Don’t let someone talk you into speculating in such seemingly sophisticated packages as strips, straddles, and spreads.
 
@@ -1217,7 +1112,6 @@ It’s difficult enough to just pick a stock or an option that is going up. If y
 
 有些大投资者很难让组合取得像样的回报，他们或许能在对自己持有、且认为估值偏高的股票卖出短期期权时，找到一点微薄的附加价值。不过，对于那些看似轻而易举的赚钱新法子，我总是心存疑虑。股市和房地产里，很少有免费午餐。
 
-
 Writing options is a completely different story from buying options. I am not overly impressed with the strategy of writing options on stocks.
 
 A person who writes a call option receives a small fee or premium in return for giving someone else (the buyer) the right to “call” away and buy the stock from the writer at a specified price, up to a certain date. In a bull market, I would rather be a buyer of calls than a writer (seller) of calls. In bad markets, just stay out or go short.
@@ -1237,7 +1131,6 @@ It’s possible that large investors who have trouble making decent returns on t
 纳斯达克上通常有数百只引人注目的新成长股，也是美国一些最大公司的所在地。你绝对应该考虑买入那些有机构撑腰、符合 CAN SLIM 规则的更优质的纳斯达克股票。
 
 为了最大的灵活性和安全性，无论股票在纽交所还是纳斯达克交易，让你的所有投资都保持可流通性至关重要。一只具有较大日均成交量的机构级普通股，是应对失控市场的一道防线。
-
 
 Nasdaq stocks are not traded on a listed stock exchange, but instead are traded through over-the-counter dealers. The over-the-counter dealer market has been enhanced in recent years by a wide range of ECNs (electronic communication networks), such as Instinet, SelectNet, Redibook, and Archipelago, which bring buyers and sellers together within each network, and through which orders can be routed and executed. The Nasdaq is a specialized field, and in many cases the stocks traded are those of newer, lessestablished companies. But now even NYSE firms have large Nasdaq operations. In addition, reforms during the 1990s have removed any lingering stigma that once dogged the Nasdaq.
 
@@ -1264,7 +1157,6 @@ For maximum flexibility and safety, it’s vital that you maintain marketability
 懂得正确选股与择时技巧的经验丰富的投资者，绝对应该考虑买入这类新股：它们显示出良好的正盈利和出色的销售增长，同时又构筑出扎实的价格底部。若按这种方式操作，它们可以成为新点子的绝佳来源。近年来大多数大牛股，在其之前一到八年或十年间的某个时点都经历过 IPO。即便如此，新股也可能波动更剧烈，并在艰难的熊市中偶遭剧烈回调。这通常发生在 IPO 市场一段疯狂过热之后——那时似乎任何一只新股都是"热门发行"。例如，1960 年代初、1983 年初，以及 1999 年底和 2000 年初出现的几轮新股热潮，几乎总是紧接着一段熊市。
 
 在本书写作的 2009 年初，国会应当考虑下调资本利得税率，为成千上万的新企业家创办创新型公司创造强大的激励。我们此前提到过，历史研究证明：1980 和 1990 年代价格表现与就业创造俱佳的股票中，有 80% 是在之前八到十年间上市的。如今美国亟需一股源源不断的新公司洪流，去激发新发明和新产业……以及更强的经济、数百万更多的就业和数百万更多的纳税人。对华盛顿而言，下调资本利得税从来都是划算的。在次贷房地产计划和信贷危机引发 2008 年经济崩塌之后，重燃 IPO 市场和美国经济正需要这一举措。我多年前就明白：一旦税率提高，许多投资者干脆就不卖股票了——因为他们不想缴税、然后拿显著更少的钱去再投资。华盛顿似乎就是弄不懂这个简单的事实。结果是卖股票的人更少，政府拿到的税收反而更少，而不是更多。我有许多年长的退休人士告诉我，他们会持股到死，这样就无需缴税。
-
 
 An initial public offering is a company’s first offering of stock to the public. I usually don’t recommend that investors purchase IPOs. There are several reasons for this.
 
@@ -1294,7 +1186,6 @@ Congress, at this writing in early 2009, should consider lowering the capital ga
 
 正因以上几点，我不建议大多数投资者买入可转换债券。我自己也从未买过公司债。它们是糟糕的通胀对冲工具；而讽刺的是，如果你为了追逐更高收益、最终却做成一笔风险更高的投资，你也可能在债券市场上亏掉很多钱。
 
-
 A convertible bond is one that you can exchange (convert) for another investment category, typically common stock, at a predetermined price. Convertible bonds provide a little higher income to the owner than the common stock typically does, along with the potential for some possible profits.
 
 The theory goes that a convertible bond will rise almost as fast as the common stock rises, but will decline less during downturns. As so often happens with theories, the reality can be different. There is also a liquidity question to consider, since convertible bond markets may dry up during extremely difficult periods.
@@ -1314,7 +1205,6 @@ It is for these several reasons that I do not recommend that most investors buy 
 这里是美国——任何真正肯下功夫的人，都能在储蓄和投资上取得成功。学会如何赚到净利润；等你做到了，就为此高兴，而不是因为"赚了钱要缴税"而抱怨。难道你宁愿一直持有到亏损、从而无税可缴？从一开始就要认清：山姆大叔永远是你的合伙人，他会照例分走你工资和投资收益中属于他的那一份。
 
 我从未买过免税证券或避税工具。这让我得以自由地专注于寻找尽可能好的投资。当这些投资奏效时，我像所有人一样照章纳税。永远记住……美国的自由与机会体系是世界上最伟大的。学会去使用它、保护它、欣赏它。
-
 
 The typical investor should not use these investment vehicles (IRAs, 401(k) plans, and Keoghs excepted), the most common of which are municipal bonds. Overconcern about taxes can confuse and cloud investors’ normally sound judgment. Common sense should also tell you that if you invest in tax shelters, there is a much greater chance the IRS may decide to audit your tax return.
 
@@ -1340,7 +1230,6 @@ I have never bought a tax-free security or a tax shelter. This has left me free 
 
 如果你需要收入，我的建议是专注于质量最好的股票，每年从中提取投资额的 6% 用于生活开支。你可以卖掉少量股份，每季度提取 1.5%。通常不建议用更高的提取率，因为时间一长，那可能会侵蚀你的本金。
 
-
 Income stocks are stocks that have high and regular dividend yields, providing taxable income to the owner. These stocks are typically found in supposedly more conservative industries, such as utilities and banks. Most people should not buy common stocks for their dividends or income, yet many people do.
 
 People think that income stocks are conservative and that you can just sit and hold them because you are getting your dividends. Talk to any investor who lost big on Continental Illinois Bank in 1984 when the stock plunged from \$25 to \$2, or on Bank of America when it crashed from \$55 to \$5 as of the beginning of 2009, or on the electric utilities caught up in the past with nuclear power plants. (Ironically, 17 major nations now get or for years have gotten more of their electricity from nuclear power plants than the United States does. France gets 78% of its electricity from nuclear power.)
@@ -1359,7 +1248,6 @@ If you need income, my advice is to concentrate on the very best-quality stocks 
 
 然而，大多数投资者应当对低价权证敬而远之。这又是一个复杂而专业的领域，概念上听起来不错，却极少有投资者真正弄懂。归根到底，真正的问题在于对应的普通股是否值得买入。对大多数投资者来说，忘掉权证这个领域反而更好。
 
-
 Warrants are an investment vehicle that allows you to purchase a specific amount of stock at a specific price. Sometimes warrants are good for a certain period of time, but it’s common for them not to have time limits. Many of them are cheap in price and therefore seem appealing.
 
 However, most investors should shy away from low-priced warrants. This is another complex, specialized field that sounds fine in concept but that few investors truly understand. The real question comes down to whether the common stock is correct to buy. Most investors will be better off if they forget the field of warrants.
@@ -1367,7 +1255,6 @@ However, most investors should shy away from low-priced warrants. This is anothe
 ### Should You Invest in Merger Candidates?
 
 并购题材股的表现往往反复无常，所以我不推荐投资它们。有些并购候选股会因一则可能被收购的传闻而大幅上涨，结果等交易告吹或出现其他意外时，股价又突然跳水。换句话说，这可能是一门风险高、波动大的生意，一般应留给专攻此道的资深专业人士去玩。基于你基本的 CAN SLIM 评估去买稳健的公司，通常比费心去猜某家公司会不会被出售或合并要好得多。
-
 
 Merger candidates can often behave erratically, so I don’t recommend investing in them. Some merger candidates run up substantially in price on rumors of a possible sale, only to have the price drop suddenly when a potential deal falls through or other unforeseen circumstances occur. In other words, this can be a risky, volatile business, and it should generally be left to experienced professionals who specialize in this field. It is usually better to buy sound companies, based on your basic CAN SLIM evaluation, than to try to guess whether a company will be sold or merged with another.
 
@@ -1378,7 +1265,6 @@ Merger candidates can often behave erratically, so I don’t recommend investing
 既然美国就有超过 10000 种证券可供挑选，你没必要去搜寻大量外国股票。许多值得一提的外国股票也在美国交易，其中一些过去表现相当成功，比如 Research in Motion、China Mobile 和 America Movil——在上轮牛市中我持有过其中两只。这些股票都受益于全球无线通信的繁荣，却在随后的熊市中回调了 60% 或更多。也有一些在外国证券上表现优异的共同基金。
 
 2008 年我们的股市已经够疲弱了，许多海外市场跌得更多。中国股票龙头百度从 429 美元跌到 100 美元。而俄罗斯市场在普京入侵并恫吓格鲁吉亚之后，从 16291 点一路直线跌到 3237 点。
-
 
 A few foreign stocks have excellent potential if they are bought at the right time and the right place, but I don’t suggest that people spend too much time getting substantially invested in them. The potential profit from a foreign stock should be a good bit more than that from a standout U.S. company to justify the potential additional risk. For example, investors in foreign securities must understand and closely follow the general market of the particular country involved. Sudden changes in that country’s interest rates, currency, or government policy could, through one unexpected action, make your investment less attractive.
 
@@ -1391,7 +1277,6 @@ As weak as our stock market was in 2008, many foreign markets declined even more
 加拿大和丹佛的市场上，挂着许多每股只需几美分就能买到的股票。我强烈建议你避免在这种便宜货上赌博，因为任何东西都按其真实价值出售——你付出多少，就只能得到多少。
 
 这些看似便宜的证券投机性过强、质量极低。与质地更好、价格更高的投资相比，它们的风险大得多。低价股中出现可疑或不道德推销手法的机会也更大。我倾向于不买任何每股售价低于 15 美元的普通股，你也应当如此。我们对美国 125 年间超级赢家的广泛历史研究表明，其中大多数股票是从每股 30 到 50 美元之间的图表底部突破的。
-
 
 The Canadian and Denver markets list many stocks that you can buy for only a few cents a share. I strongly advise that you avoid gambling in such cheap merchandise, because everything sells for what it’s worth. You get what you pay for.
 
@@ -1412,7 +1297,6 @@ These seemingly cheap securities are unduly speculative and extremely low in qua
 可交易的期货品种相对较少，因此精明的投机者能够集中精力分析。期货交易的规则和术语各不相同，风险也大得多，所以投资者一定要限制投入期货的资金比例。期货交易中还夹杂着令人揪心的事件，比如"跌停"日——那时交易者不被允许卖出、砍掉亏损。风险管理（即控制仓位规模、迅速止损）在交易期货时比任何时候都更重要。你在任何单一期货头寸上承担的风险，都绝不应超过资本的 5%。而且，持仓有可能陷入一连串涨停或跌停日而无法脱身。期货可能凶险而具有毁灭性；你完全可能输得精光。
 
 我从未买过商品期货。我不相信你能样样精通。把一个领域学到尽可能透彻吧——可供选择的股票有成千上万只。
-
 
 Futures involve buying or selling a specific amount of a commodity, financial issue, or stock index at a specific price on a specific future date. Most futures fall into the categories of grains, precious metals, industrial metals, foods, meats, oils, woods, and fibers (known collectively as commodities); financial issues; and stock indexes. The financial group includes government T-bills and bonds, plus foreign currencies. One of the more active stock indexes traded is the S&P 100, better known by its ticker symbol OEX.
 
@@ -1435,7 +1319,6 @@ I have never bought commodity futures. I do not believe you can be a jack-of-all
 这类投资大多有着反复无常的历史。它们曾被以极其激进的方式推销，对小投资者几乎不提供任何保护。此外，交易商在这些投资上的加价利润可能过高。再者，这类投资不付利息，也不派股息。
 
 黄金股总会周期性地大幅上涨，原因是某些外国国家可能出现的问题引发了恐惧或恐慌。少数黄金公司也可能有自己的周期，比如 1980 年代末和 1990 年代初的 Barrick Gold。这种以商品为导向的交易，可能是一场情绪化而不稳定的游戏，所以我建议慎之又慎。不过，在特定时点，对这类股票做小额投资也可能合时宜、有道理。
-
 
 As you might surmise, I do not normally recommend investing in metals or precious stones.
 
@@ -1464,7 +1347,6 @@ There will always be periodic, significant run-ups in gold stocks caused by fear
 这里先做个总结：分散投资是好事，但别过度分散。把精力集中在少数几只精挑细选的股票上，让市场帮你判断每一只该持有多久。如果你经验丰富，使用融资未尝不可，但它意味着显著额外的风险。除非你确切知道自己在做什么，否则不要卖空。一定要学会用图表来辅助你的选股与择时。纳斯达克是较新的创业型公司的良好市场，但期权和期货风险相当大，只有在你经验非常丰富时才可动用，而且即便如此，也应限制在整体投资的一个小比例内。投资避税工具和外国股票时也要多加小心。
 
 最好让你的投资保持简单、基本——高质量的成长型股票、共同基金或房地产。但每一项都是专门的领域，你需要自我教育，这样才不至于完全依赖别人来获得稳妥的建议和投资。
-
 
 Yes, at the right time and in the right place. I am convinced that most people should work toward being able to own a home by building a savings account and investing in common stocks or a growth-stock mutual fund. Home ownership has been a goal for most Americans. The ability over the years to obtain long-term borrowed money with only a small or reasonable down payment has created the leverage necessary to eventually make real estate investments possible for most Americans.
 
@@ -1522,13 +1404,11 @@ You can learn to do this. Many people have learned how to use sound rules and pr
 
 固执地死守那些本还很小、完全可以承受的亏损。大多数投资者本可以低价脱身，可因为他们是人，情绪便占了上风。你不愿认亏，于是等待、期盼，直到亏损大到让你付出惨痛代价。这几乎是所有投资者犯下的最大错误之一：他们不明白，所有普通股都可能高度投机、蕴含巨大风险。毫无例外，每一笔亏损你都应及早截断。45 年来，我在全国各地课堂上讲授的规则就是：当股票跌破买入价 7% 或 8% 时，永远立即砍掉所有亏损。遵循这条简单的规则，你就能活到明天继续投资，并把握未来大量的绝佳机会。
 
-
 Stubbornly holding onto your losses when they are very small and reasonable. Most investors could get out cheaply, but because they are human, their emotions take over. You don’t want to take a loss, so you wait and you hope, until your loss gets so large it costs you dearly. This is by far one of the greatest mistakes nearly all investors make; they don’t understand that all common stocks can be highly speculative and can involve large risks. Without exception, you should cut every single loss short. The rule I have taught in classes all across the nation for 45 years is to always cut all your losses immediately when a stock falls 7% or 8% below your purchase price. Following this simple rule will ensure you will survive another day to invest and capitalize on the many excellent opportunities in the future.
 
 ##### (2) 在下跌途中买入（Buying on the way down in price）
 
 在股价下跌途中买入，结果注定惨淡。一只下跌的股票看上去很划算，因为它比几个月前便宜了。1999 年底，我认识的一位年轻女士在 Xerox 突然跌到 34 美元新低、看起来真是便宜时买入了它。一年后，它的股价是 6 美元。何必徒手去接一把下落的利刃？2000 年，许多人做了同样的事——在 Cisco Systems 从 82 美元跌落、跌到 50 美元时买入。此后再也没见过 50 美元，即便在 2003 到 2007 年的牛市中也没有。到 2009 年 1 月，你花 16 美元就能买到它。
-
 
 Buying on the way down in price, thus ensuring miserable results. A declining stock seems like a real bargain because it’s cheaper than it was a few months earlier. In late 1999, a young woman I know bought Xerox when it dropped abruptly to a new low at \$34 and seemed really cheap. A year later, it traded at \$6. Why try to catch a falling dagger? Many people did the same thing in 2000, buying Cisco Systems at \$50 on the way down after it had been \$82. It never saw \$50 again, even in the 2003 to 2007 bull market. In January 2009, you could buy it for \$16.
 
@@ -1536,13 +1416,11 @@ Buying on the way down in price, thus ensuring miserable results. A declining st
 
 买入时向下摊平，而不是向上加仓。如果你以 40 美元买入一只股票，又跌到 30 美元时加买、把成本摊到 35 美元，你就是在跟进自己的输家、拿好钱去填坏窟窿。这种业余打法可能造成严重亏损，还会用几个大输家拖累你的整个组合。
 
-
 Averaging down in price rather than averaging up when buying. If you buy a stock at \$40, then buy more at \$30 and average out your cost at \$35, you are following up your losers and throwing good money after bad. This amateur strategy can produce serious losses and weigh down your portfolio with a few big losers.
 
 ##### (4) 不学图表、不敢买新高（Not learning to use charts）
 
 不学会使用图表，并且害怕买入那些正从扎实底部进入新高区域的股票。公众通常觉得一只创新高的股票看起来太贵了，但个人的感受和看法带有情绪，远不如市场本身准确。在任何牛市中，买入一只股票的最好时机，是它刚开始从至少七到八周的价格整理或扎实"筑底"区突破而出之时。改掉那种总想在下跌途中捡便宜货的念头吧。
-
 
 Not learning to use charts and being afraid to buy stocks that are going into new high ground off sound bases. The public generally thinks that a stock making a new high price seems too high, but personal feelings and opinions are emotional and far less accurate than the market itself. The best time to buy a stock during any bull market is when the stock initially emerges from a price consolidation or sound “basing” area of at least seven or eight weeks. Get over wanting to buy something cheap on the way down.
 
@@ -1550,13 +1428,11 @@ Not learning to use charts and being afraid to buy stocks that are going into ne
 
 因为选股标准糟糕、不清楚一家成功公司身上究竟该看什么，而始终没能正确地起步。你必须弄懂哪些基本面因素至关重要、哪些其实根本没那么重要！许多投资者买的都是四流的、"没什么值得向家里报喜"的股票：走势谈不上好，盈利、销售增长和股东权益回报率都可疑，更不是真正的市场龙头。另一些人则过度集中于投机性极强、或质量更低、风险更高的科技股。
 
-
 Never getting out of the starting gate properly because of poor selection criteria and not knowing exactly what to look for in a successful company. You need to understand what fundamental factors are crucial and what are simply not that important! Many investors buy fourthrate, “nothing-to-write-home-about” stocks that are not acting particularly well; have questionable earnings, sales growth, and return on equity; and are not the true market leaders. Others overly concentrate in highly speculative or lower-quality, risky technology securities.
 
 ##### (6) 没有大盘规则（Not having specific general market rules）
 
 没有具体的整体市场规则，来判断市场回调何时开始、或市场下跌最可能于何时结束、新的上升趋势何时得到确认。若你想保护账户免受利润过度回吐和重大亏损，能够识别市场顶部、以及从底部起来的重要转折，就至关重要。同样，你必须知道风暴何时过去、市场何时在告诉你可以买回、提高你在市场中的投入。你不能凭自己的观点或感觉行事，必须有具体的规则，并虔诚地遵守它们。
-
 
 Not having specific general market rules to tell when a correction in the market is beginning or when a market decline is most likely over and a new uptrend is confirmed. It’s critical that you be able to recognize market tops and major market turnarounds coming off the bottom if you want to protect your account from excessive giveback of profits and significant losses. Likewise, you must know when the storm is over and the market tells you to buy back in and raise your market commitments. You can’t go by your opinions or feelings. You must have specific rules and follow them religiously.
 
@@ -1564,20 +1440,17 @@ Not having specific general market rules to tell when a correction in the market
 
 不遵守自己的买卖规则，导致你犯下更多错误。如果你不培养出按历经检验的规则和作战计划去决策、去行动的纪律，那么你制定的最健全的规则也帮不了你。
 
-
 Not following your buy and sell rules, causing you to make an increased number of mistakes. The soundest rules you create are of no help if you don’t develop the discipline to make decisions and act according to your historically proven rules and game plan.
 
 ##### (8) 只研究买、不知何时卖（Not understanding when to sell）
 
 把全部精力都放在买什么上，而一旦做出买入决定，就不明白该在何时、在什么条件下卖出。大多数投资者没有任何卖出股票的规则或计划，这意味着他们只做了成功所需功课的一半。
 
-
 Concentrating your effort on what to buy and, once the buy decision is made, not understanding when or under what conditions the stock must be sold. Most investors have no rules or plan for selling stocks, meaning that they are doing only half of the homework necessary to succeed.
 
 ##### (9) 不懂优质公司与图表（Not understanding quality and charts）
 
 未能理解买入有良好机构撑腰的高质量公司有多重要，也未能理解学会用图表来显著改善选股与择时有多重要。
-
 
 Failing to understand the importance of buying high-quality companies with good institutional sponsorship and the importance of learning how to use charts to significantly improve selection and timing.
 
@@ -1591,7 +1464,6 @@ Failing to understand the importance of buying high-quality companies with good 
 
 便宜股票的买卖价差占比也更大。拿一只报价买 5 美元、卖 5.25 美元的 5 美元股票，与一只买 50 美元、卖 50.25 美元的 50 美元股票相比：在那只 5 美元股票上，0.25 美元的价差相当于买价的 5%；而在那只 50 美元股票上，0.25 美元只有可以忽略不计的 0.5%——相差整整 10 倍。结果就是，对低价股而言，从你的初始买点出发，你得弥补多得多的距离，才能打平并跨过价差。
 
-
 Buying more shares of low-priced stocks rather than fewer shares of higher-priced stocks. Many people think it’s smarter to buy round lots of 100 or 1,000 low-priced shares. This makes them feel like they’re getting a lot more for their money. They’d be better off buying 30 or 50 shares of higher-priced, better-quality, better-performing companies. Think in terms of dollars when you invest, not the number of shares you can buy. Buy the best merchandise available, not the cheapest.
 
 Many investors can’t resist \$2, \$5, or \$10 stocks, but most stocks selling for \$10 or less are cheap for a reason. They’ve either been deficient in the past or have something wrong with them now. Stocks are like anything else: the best quality rarely comes at the cheapest price.
@@ -1604,13 +1476,11 @@ Cheap stocks also have larger spreads in terms of the percentage difference betw
 
 依据小道消息、谣言、分拆公告和其他新闻事件、各种故事、投资顾问的推荐，或是你从别人口里、从电视上那些所谓的市场专家那里听来的意见去买入。许多人太轻易就根据别人的一句话，拿辛苦挣来的钱去冒险，而不肯花时间研究、学习，确凿地弄懂自己在做什么。结果，他们冒着亏掉大笔钱的风险。你听到的大多数谣言和消息根本不是真的；即便属实，很多时候相关股票也会讽刺地下跌，而不是如你所料地上涨。
 
-
 Buying on tips, rumors, split announcements, and other news events; stories; advisory-service recommendations; or opinions you hear from other people or from supposed market experts on TV. Many people are too willing to risk their hard-earned money on the basis of what someone else says, rather than taking the time to study, learn, and know for sure what they’re doing. As a result, they risk losing a lot of money. Most rumors and tips you hear simply aren’t true. Even if they are true, in many cases the stock concerned will ironically go down, not up as you assume.
 
 ##### (12) 因股息或低市盈率选二流股（Selecting second-rate stocks for dividends or low P/E）
 
 因为股息或低市盈率而选择二流股票。股息和市盈率的重要性，根本比不上每股收益的增长。很多时候，一家公司派发的股息越多，它可能越虚弱——它也许不得不支付高利率，去补回那些以股息形式派出去的资金。表现更好的公司通常不派股息，而是把资本再投资于研发（R&D）或其他企业改进。此外还要记住：股价一两天的波动，就能让你亏掉相当于一笔股息的金额。至于市盈率，市盈率低，往往是因为公司过去的记录较差。任何特定时点上，大多数股票都按其真实价值出售。
-
 
 Selecting second-rate stocks because of dividends or low price/earnings ratios. Dividends and P/E ratios aren’t anywhere near as important as earnings per share growth. In many cases, the more a company pays in dividends, the weaker it may be. It may have to pay high interest rates to replenish the funds it is paying out in the form of dividends. Betterperforming companies typically will not pay dividends. Instead, they reinvest their capital in research and development (R&D) or other corporate improvements. Also, keep in mind that you can lose the amount of a dividend in one or two days’ fluctuation in the price of the stock. As for P/E ratios, a low P/E is probably low because the company’s past record is inferior. Most stocks sell for what they’re worth at any particular time.
 
@@ -1618,13 +1488,11 @@ Selecting second-rate stocks because of dividends or low price/earnings ratios. 
 
 想赚快钱、赚容易钱。想要得太多、太快——却不做必要的准备、不学习最健全的方法、不掌握必需的技能和纪律——这可能就是你的败因。很可能，你会太快跳进一只股票，而在判断错误时又太慢砍掉亏损。
 
-
 Wanting to make a quick and easy buck. Wanting too much, too fast—without doing the necessary preparation, learning the soundest methods, or acquiring the essential skills and discipline—can be your downfall. Chances are, you’ll jump into a stock too fast and then be too slow to cut your losses when you are wrong.
 
 ##### (14) 买入熟悉的旧名字（Buying familiar old names）
 
 买入自己熟悉的旧名字。仅仅因为你曾在通用汽车工作过，并不意味着它就是一只值得买的股票。许多最好的投资往往是些你还不了解的新名字，但只要做一点研究，你就能赶在它们家喻户晓之前发掘出来并从中获利。
-
 
 Buying old names you’re familiar with. Just because you used to work for General Motors doesn’t necessarily make it a good stock to buy. Many of the best investments will be newer names that you won’t know, but that, with a little research, you could discover and profit from before they become household names.
 
@@ -1632,13 +1500,11 @@ Buying old names you’re familiar with. Just because you used to work for Gener
 
 无法识别（并采纳）好的信息和建议。朋友、亲戚、某些股票经纪人以及投资顾问服务，都可能成为坏建议的来源。真正自身足够成功、值得你重视的只是极少数。出色的股票经纪人或顾问服务，并不比出色的医生、律师或棒球运动员更常见。签订职业合同后能打上大联盟的棒球选手，九个人里只有一个；大学里走出来的球员，大多数根本达不到职业水准。许多券商倒闭，正是因为它们连自己的钱都管不好。2000 年前后，有些机构动用了令人难以置信的杠杆。你永远不该过度使用借来的钱。
 
-
 Not being able to recognize (and follow) good information and advice. Friends, relatives, certain stockbrokers, and advisory services can all be sources of bad advice. Only a small minority are successful enough themselves to merit your consideration. Outstanding stockbrokers or advisory services are no more plentiful than outstanding doctors, lawyers, or ballplayers. Only one out of nine baseball players who sign professional contracts ever make it to the big leagues. Most of the ballplayers coming out of college simply are not professional caliber. Many brokerage firms have gone out of business because they couldn’t manage their own money wisely. In the 2000 era, some used unbelievable leverage. You never want to make excessive use of borrowed money.
 
 ##### (16) 兑现小利润却持有输家（Cashing small profits, holding losers）
 
 小赚就落袋，却死抱着输家不放。换句话说，你做的恰恰与你该做的相反：本该尽早砍掉亏损、给利润更多时间。
-
 
 Cashing in small, easy-to-take profits while holding the losers. In other words, doing exactly the opposite of what you should be doing: cutting your losses short and giving your profits more time.
 
@@ -1648,7 +1514,6 @@ Cashing in small, easy-to-take profits while holding the losers. In other words,
 
 与买卖股票相关的佣金——尤其是通过网上券商——与你只要一开始就做对决定、在需要时果断行动所能赚到的钱相比，微不足道。你只需支付相对低廉的佣金，又能比持有房地产快得多地脱身，这两点正是持股胜过持房的重大优势。人们在房地产中若过度扩张，就可能亏钱。而股票具有即时流动性，你能以低成本迅速自保，并在新的高利润趋势出现时及时把握。
 
-
 Worrying way too much about taxes and commissions. The name of the game is to first make a net profit. Excessive worrying about taxes usually leads to unsound investment decisions in the hope of achieving a tax shelter. You can also fritter away a good profit by holding on too long in an attempt to get a long-term capital gain. Some investors convince themselves they can’t sell because of taxes, but that’s ego trumping judgment.
 
 The commissions associated with buying and selling stocks, especially through an online broker, are minor compared with the money to be made by making the right decisions in the first place and taking action when needed. The fact that you pay relatively low commissions and you can get out of your investment much faster are two of the biggest advantages of owning stock over owning real estate. People can get over their head in real estate and lose money if they overstep themselves. With instant liquidity in equities, you can protect yourself quickly at low cost and take advantage of highly profitable new trends as they emerge.
@@ -1657,20 +1522,17 @@ The commissions associated with buying and selling stocks, especially through an
 
 把期权或期货当成快速致富的途径而过度投机。有些投资者还主要盯着那些波动更大、风险更高的短期低价期权。有限的时间周期对短期期权的持有者不利。有些人还卖出"裸期权"（卖出他们根本不拥有的股票的期权），这等于是为一点潜在的微薄回报去承担更大的风险。
 
-
 Speculating too heavily in options or futures because you see them as a way to get rich quick. Some investors also focus mainly on shorter-term, lower-priced options that involve greater volatility and risk. The limited time period works against holders of short-term options. Some people also write “naked options” (selling options on stocks they do not even own), which amounts to taking greater risk for a potentially small reward.
 
 ##### (19) 很少以市价交易（Rarely transacting at the market）
 
 很少"以市价"成交，而偏爱在买卖单上挂限价。这样做，投资者是在为八分之一、四分之一点的差价（或其十进制等值）斤斤计较，而不是关注股票更重要的较大波动。用限价单，你可能完全错过行情，卖不掉那些本该卖出以规避重大亏损的股票。
 
-
 Rarely transacting “at the market,” preferring instead to put price limits on buy and sell orders. By doing so, investors are quibbling over eighths and quarters of a point (or their decimal equivalents), rather than focusing on the stock’s larger and more important movement. With limit orders, you run the risk of missing the market completely and not getting out of stocks that should be sold to avoid substantial losses.
 
 ##### (20) 该决定时拿不定主意（Not making up your mind）
 
 到了该做决定时却拿不定主意。许多投资者不知道自己该买、该卖还是该继续持有；这种犹疑恰恰说明他们没有章法。大多数人不遵循一套经过验证的计划、一套严格的原则或买卖规则来正确地引导自己。
-
 
 Not being able to make up your mind when a decision needs to be made. Many investors don’t know whether they should buy, sell, or hold, and the uncertainty shows that they have no guidelines. Most people don’t follow a proven plan, a set of strict principles or buy and sell rules, to correctly guide them.
 
@@ -1679,7 +1541,6 @@ Not being able to make up your mind when a decision needs to be made. Many inves
 不能客观地看待股票。许多人只挑自己钟爱的股票，然后交叉手指祈求好运。成功的投资者不依赖希望和自己的主观看法，而是关注通常正确的市场。
 
 这些错误中，有多少描述了你过去的投资信念和做法？糟糕的原则和方法带来糟糕的结果；健全的原则和方法带来健全的结果。
-
 
 Not looking at stocks objectively. Many people pick favorites and cross their fingers. Instead of relying on hope and their own opinions, successful investors pay attention to the market, which is usually right.
 
