@@ -1,0 +1,9 @@
+# 统一换行符为 LF，避免编辑器/Windows 把 Markdown、YAML 换成 CRLF
+# 造成整篇文件"假改动"（曾两次踩坑：part2_cn_en.md、metadata.yaml）
+* text=auto eol=lf
+
+# 二进制资源不做换行转换
+*.jpg binary
+*.png binary
+*.epub binary
+*.ico binary
