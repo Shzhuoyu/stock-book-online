@@ -4,10 +4,20 @@
   <meta charset="UTF-8" />
   <title>在线图书馆 · 中英对照</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="light dark" />
   <meta name="description" content="个人在线图书馆，中英对照在线阅读" />
   <link rel="stylesheet" href="vendor/vue.css" />
   <style>
-    :root { --theme-color: #42b983; }
+    :root {
+      --theme-color: #42b983;
+      /* ===== 自定义面板变量 ===== */
+      --wb-font-scale: 1;
+      --wb-panel-bg: #ffffff;
+      --wb-panel-border: #e6e8eb;
+      --wb-panel-text: #4a5568;
+      --wb-accent: #42b983;
+      --wb-shadow: 0 2px 14px rgba(0, 0, 0, 0.08);
+    }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "PingFang SC",
         "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
@@ -17,10 +27,208 @@
     .markdown-section blockquote { border-left: 4px solid var(--theme-color); }
     /* 图片行上下留白，避免与正文粘连 */
     .markdown-section p > img { margin: 12px 0; }
+
+    /* ===== 字号缩放 ===== */
+    html { font-size: calc(16px * var(--wb-font-scale)); }
+    body { font-size: calc(15px * var(--wb-font-scale)); }
+    .sidebar ul li a { font-size: calc(14px * var(--wb-font-scale)); }
+
+    /* ===== 主题：夜间 ===== */
+    html[data-wb-theme="dark"] {
+      color-scheme: dark;
+      --theme-color: #4fc08d;
+      --wb-panel-bg: #1b1f24;
+      --wb-panel-border: #2c333b;
+      --wb-panel-text: #c3cbd4;
+      --wb-accent: #4fc08d;
+      --wb-shadow: 0 2px 14px rgba(0, 0, 0, 0.45);
+    }
+    html[data-wb-theme="dark"] body,
+    html[data-wb-theme="dark"] .sidebar { background-color: #1b1f24; }
+    html[data-wb-theme="dark"] body { color: #c3cbd4; }
+    html[data-wb-theme="dark"] .anchor span { color: #c3cbd4; }
+    html[data-wb-theme="dark"] .sidebar { color: #aeb7c2; border-right-color: rgba(255, 255, 255, 0.08); }
+    html[data-wb-theme="dark"] .sidebar ul li a { color: #9aa5b1; }
+    html[data-wb-theme="dark"] .sidebar ul li.active > a { color: #4fc08d; }
+    html[data-wb-theme="dark"] .markdown-section h1,
+    html[data-wb-theme="dark"] .markdown-section h2,
+    html[data-wb-theme="dark"] .markdown-section h3,
+    html[data-wb-theme="dark"] .markdown-section h4,
+    html[data-wb-theme="dark"] .markdown-section h5,
+    html[data-wb-theme="dark"] .markdown-section strong { color: #e6edf3; }
+    html[data-wb-theme="dark"] .markdown-section h6 { color: #9aa5b1; }
+    html[data-wb-theme="dark"] .markdown-section a { color: #4fc08d; }
+    html[data-wb-theme="dark"] .markdown-section hr { border-bottom-color: #2c333b; }
+    html[data-wb-theme="dark"] .markdown-section td,
+    html[data-wb-theme="dark"] .markdown-section th { border-color: #2c333b; }
+    html[data-wb-theme="dark"] .markdown-section tr { border-top-color: #2c333b; }
+    html[data-wb-theme="dark"] .markdown-section p.tip,
+    html[data-wb-theme="dark"] .markdown-section tr:nth-child(2n) { background-color: #22272e; }
+    html[data-wb-theme="dark"] .markdown-section code,
+    html[data-wb-theme="dark"] .markdown-section pre { background-color: #22272e; }
+    html[data-wb-theme="dark"] .markdown-section code { color: #e6a06a; }
+    html[data-wb-theme="dark"] .markdown-section pre > code { color: #c3cbd4; }
+    html[data-wb-theme="dark"] .markdown-section blockquote { color: #8b949e; border-left-color: #4fc08d; }
+    html[data-wb-theme="dark"] .markdown-section em { color: #9aa5b1; }
+    html[data-wb-theme="dark"] .app-nav a { color: #c3cbd4; }
+    html[data-wb-theme="dark"] .app-nav li ul { background-color: #1b1f24; border-color: #2c333b; }
+    html[data-wb-theme="dark"] .app-nav li ul a { color: #c3cbd4; }
+    html[data-wb-theme="dark"] .search input { background: #22272e; color: #c3cbd4; border-color: #2c333b; }
+    html[data-wb-theme="dark"] .search .results-panel { background: #1b1f24; border-color: #2c333b; }
+    html[data-wb-theme="dark"] .search .matching-post { border-bottom-color: #2c333b; }
+    html[data-wb-theme="dark"] .search h2 { color: #e6edf3; }
+    html[data-wb-theme="dark"] .search p { color: #9aa5b1; }
+
+    /* ===== 主题：护眼（暖色） ===== */
+    html[data-wb-theme="sepia"] {
+      color-scheme: light;
+      --theme-color: #a9791c;
+      --wb-panel-bg: #fbf5e9;
+      --wb-panel-border: #e3d7c0;
+      --wb-panel-text: #5b4636;
+      --wb-accent: #a9791c;
+      --wb-shadow: 0 2px 14px rgba(120, 90, 40, 0.15);
+    }
+    html[data-wb-theme="sepia"] body,
+    html[data-wb-theme="sepia"] .sidebar { background-color: #f7f0e3; }
+    html[data-wb-theme="sepia"] body { color: #5b4636; }
+    html[data-wb-theme="sepia"] .anchor span { color: #5b4636; }
+    html[data-wb-theme="sepia"] .sidebar { color: #6b5742; }
+    html[data-wb-theme="sepia"] .sidebar ul li a { color: #6b5742; }
+    html[data-wb-theme="sepia"] .markdown-section h1,
+    html[data-wb-theme="sepia"] .markdown-section h2,
+    html[data-wb-theme="sepia"] .markdown-section h3,
+    html[data-wb-theme="sepia"] .markdown-section h4,
+    html[data-wb-theme="sepia"] .markdown-section h5,
+    html[data-wb-theme="sepia"] .markdown-section strong { color: #4a3826; }
+    html[data-wb-theme="sepia"] .markdown-section a { color: #a9791c; }
+    html[data-wb-theme="sepia"] .markdown-section code,
+    html[data-wb-theme="sepia"] .markdown-section pre { background-color: #efe6d4; }
+    html[data-wb-theme="sepia"] .markdown-section pre > code { color: #5b4636; }
+    html[data-wb-theme="sepia"] .markdown-section blockquote { color: #8a7360; border-left-color: #a9791c; }
+    html[data-wb-theme="sepia"] .markdown-section p.tip,
+    html[data-wb-theme="sepia"] .markdown-section tr:nth-child(2n) { background-color: #f1e7d4; }
+    html[data-wb-theme="sepia"] .app-nav a { color: #5b4636; }
+    html[data-wb-theme="sepia"] .search input { background: #fbf5e9; color: #5b4636; border-color: #e3d7c0; }
+
+    /* ===== 右上设置工具栏 ===== */
+    #wb-tools {
+      position: fixed;
+      top: 70px;
+      right: 16px;
+      z-index: 40;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      background: var(--wb-panel-bg);
+      border: 1px solid var(--wb-panel-border);
+      border-radius: 10px;
+      padding: 5px 7px;
+      box-shadow: var(--wb-shadow);
+    }
+    #wb-tools button {
+      font: inherit;
+      font-size: 12px;
+      line-height: 1;
+      cursor: pointer;
+      color: var(--wb-panel-text);
+      background: transparent;
+      border: 1px solid var(--wb-panel-border);
+      border-radius: 6px;
+      padding: 5px 7px;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s, background-color 0.15s;
+    }
+    #wb-tools button:hover { border-color: var(--wb-accent); color: var(--wb-accent); }
+    #wb-tools button.active { background: var(--wb-accent); border-color: var(--wb-accent); color: #fff; }
+    #wb-tools .wb-sep { width: 1px; align-self: stretch; background: var(--wb-panel-border); margin: 0 1px; }
+
+    /* ===== 右侧本页大纲 ===== */
+    #wb-toc {
+      display: none;
+      position: fixed;
+      top: 118px;
+      right: 16px;
+      width: 232px;
+      max-height: calc(100vh - 172px);
+      overflow-y: auto;
+      overflow-x: hidden;
+      background: var(--wb-panel-bg);
+      border: 1px solid var(--wb-panel-border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      z-index: 25;
+      box-shadow: var(--wb-shadow);
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    body.wb-toc-on #wb-toc { display: block; }
+    #wb-toc .wb-toc-title {
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      opacity: 0.8;
+      margin: 2px 0 8px;
+      color: var(--wb-panel-text);
+    }
+    #wb-toc a {
+      display: block;
+      color: var(--wb-panel-text);
+      text-decoration: none;
+      padding: 4px 8px;
+      border-left: 2px solid transparent;
+      border-radius: 4px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      cursor: pointer;
+    }
+    #wb-toc a:hover { color: var(--wb-accent); background: rgba(127, 127, 127, 0.08); }
+    #wb-toc a.active { color: var(--wb-accent); border-left-color: var(--wb-accent); font-weight: 600; }
+    #wb-toc a.lv-2 { padding-left: 18px; }
+    #wb-toc a.lv-3 { padding-left: 30px; font-size: 12px; opacity: 0.9; }
+    #wb-toc::-webkit-scrollbar { width: 6px; }
+    #wb-toc::-webkit-scrollbar-thumb { background: rgba(127, 127, 127, 0.35); border-radius: 3px; }
+    /* 显示大纲时为右侧预留空间，避免内容被遮挡 */
+    @media (min-width: 1001px) {
+      body.wb-toc-on .content { right: 246px; }
+    }
+    @media (max-width: 1000px) {
+      body.wb-toc-on #wb-toc { width: auto; max-width: min(78vw, 300px); right: 8px; }
+    }
+    @media (max-width: 768px) {
+      #wb-tools { top: auto; bottom: 12px; }
+    }
   </style>
+  <script>
+    // 首帧前置：在样式生效前套用已保存主题与字号，避免闪白
+    (function () {
+      try {
+        var t = localStorage.getItem('wb-theme');
+        if (t && t !== 'light') { document.documentElement.setAttribute('data-wb-theme', t); }
+        var s = parseFloat(localStorage.getItem('wb-font-scale'));
+        if (s && !isNaN(s)) { document.documentElement.style.setProperty('--wb-font-scale', s); }
+      } catch (e) {}
+    })();
+  </script>
 </head>
 <body>
   <div id="app">正在加载…</div>
+
+  <div id="wb-tools" role="group" aria-label="显示设置">
+    <button type="button" data-wb-toc-toggle title="显示 / 隐藏本页大纲">目录</button>
+    <span class="wb-sep"></span>
+    <button type="button" data-wb-theme-btn="light" title="日间模式">日</button>
+    <button type="button" data-wb-theme-btn="dark" title="夜间模式">夜</button>
+    <button type="button" data-wb-theme-btn="sepia" title="护眼模式">护眼</button>
+    <span class="wb-sep"></span>
+    <button type="button" data-wb-font="-1" title="缩小字号">A-</button>
+    <button type="button" data-wb-font="1" title="放大字号">A+</button>
+    <button type="button" data-wb-font="0" title="重置字号">A</button>
+  </div>
+
+  <div id="wb-toc" aria-label="本页大纲"></div>
+
   <script>
     window.$docsify = {
       name: '在线图书馆',
@@ -77,6 +285,162 @@
         }
       });
     }, window.$docsify.plugins || []);
+  </script>
+  <script>
+    // ===== 主题 / 字号 / 本页大纲 =====
+    (function () {
+      var root = document.documentElement;
+      var TK = 'wb-theme', FK = 'wb-font-scale', CK = 'wb-toc';
+
+      function store(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+      function load(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+      function esc(s) {
+        return String(s).replace(/[&<>"]/g, function (c) {
+          return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+        });
+      }
+
+      // ---- 主题 ----
+      function applyTheme(t) {
+        t = t || 'light';
+        if (t === 'light') { root.removeAttribute('data-wb-theme'); }
+        else { root.setAttribute('data-wb-theme', t); }
+        store(TK, t);
+        var bs = document.querySelectorAll('[data-wb-theme-btn]');
+        for (var i = 0; i < bs.length; i++) {
+          bs[i].classList.toggle('active', bs[i].getAttribute('data-wb-theme-btn') === t);
+        }
+      }
+
+      // ---- 字号 ----
+      var scale = parseFloat(load(FK));
+      if (!scale || isNaN(scale)) { scale = 1; }
+      function applyScale(s) {
+        s = Math.max(0.8, Math.min(1.7, Math.round(s * 20) / 20)); // 0.05 步进
+        root.style.setProperty('--wb-font-scale', s);
+        store(FK, s);
+        scale = s;
+      }
+
+      applyTheme(load(TK) || 'light');
+      applyScale(scale);
+
+      // ---- 工具栏 ----
+      var tools = document.getElementById('wb-tools');
+      if (tools) {
+        tools.addEventListener('click', function (e) {
+          var b = e.target && e.target.closest ? e.target.closest('button') : null;
+          if (!b) { return; }
+          var th = b.getAttribute('data-wb-theme-btn');
+          if (th) { applyTheme(th); return; }
+          var f = b.getAttribute('data-wb-font');
+          if (f !== null) {
+            if (f === '0') { applyScale(1); }
+            else { applyScale(scale + parseFloat(f) * 0.05); }
+            return;
+          }
+          if (b.hasAttribute('data-wb-toc-toggle')) {
+            var on = document.body.classList.toggle('wb-toc-on');
+            store(CK, on ? 'on' : 'off');
+          }
+        });
+      }
+
+      // ---- 本页大纲 ----
+      var tocEl = document.getElementById('wb-toc');
+      var curPath = '/';
+      var scrollTimer = null;
+
+      function headings() {
+        return document.querySelectorAll('.markdown-section h1, .markdown-section h2, .markdown-section h3');
+      }
+      function countHeadings() { return headings().length; }
+
+      function markActive(id) {
+        if (!tocEl) { return; }
+        var as = tocEl.querySelectorAll('a[data-target]');
+        for (var i = 0; i < as.length; i++) {
+          as[i].classList.toggle('active', as[i].getAttribute('data-target') === id);
+        }
+      }
+
+      function buildToc() {
+        if (!tocEl) { return; }
+        var hs = headings();
+        var html = '<div class="wb-toc-title">本页大纲</div>';
+        var n = 0;
+        for (var i = 0; i < hs.length; i++) {
+          var h = hs[i];
+          if (!h.id) { continue; }
+          var id = h.id;
+          var lv = h.tagName.charAt(1);
+          html += '<a class="lv-' + lv + '" data-target="' + esc(id) + '"' +
+            ' href="#' + curPath + '?id=' + encodeURIComponent(id) + '">' +
+            esc(h.textContent.trim()) + '</a>';
+          n++;
+        }
+        tocEl.innerHTML = html;
+
+        var pref = load(CK);
+        var want = pref === 'on' ? true : (pref === 'off' ? false : (window.innerWidth > 1200));
+        document.body.classList.toggle('wb-toc-on', n > 0 && want);
+        setActiveFromScroll();
+      }
+
+      // 点击大纲：平滑滚动 + 同步地址栏
+      if (tocEl) {
+        tocEl.addEventListener('click', function (e) {
+          var a = e.target && e.target.closest ? e.target.closest('a[data-target]') : null;
+          if (!a) { return; }
+          e.preventDefault();
+          var id = a.getAttribute('data-target');
+          var el = document.getElementById(id);
+          if (!el) { return; }
+          var top = el.getBoundingClientRect().top + window.pageYOffset - 72;
+          if (window.scrollTo) { window.scrollTo({ top: top, behavior: 'smooth' }); }
+          else { window.scrollTo(0, top); }
+          if (history.replaceState) {
+            history.replaceState(null, '', '#' + curPath + '?id=' + encodeURIComponent(id));
+          }
+          markActive(id);
+        });
+      }
+
+      // 滚动高亮（节流）
+      function setActiveFromScroll() {
+        if (scrollTimer) { return; }
+        scrollTimer = setTimeout(function () {
+          scrollTimer = null;
+          if (!tocEl || !document.body.classList.contains('wb-toc-on')) { return; }
+          var hs = headings();
+          var cur = null;
+          for (var i = 0; i < hs.length; i++) {
+            if (!hs[i].id) { continue; }
+            if (hs[i].getBoundingClientRect().top <= 90) { cur = hs[i].id; }
+            else { break; }
+          }
+          if (cur) { markActive(cur); }
+        }, 120);
+      }
+      window.addEventListener('scroll', setActiveFromScroll, { passive: true });
+      window.addEventListener('resize', function () {
+        var pref = load(CK);
+        if (pref === null) {
+          document.body.classList.toggle('wb-toc-on', countHeadings() > 0 && window.innerWidth > 1200);
+        }
+      });
+
+      // ---- docsify 插件：每次渲染后重建大纲 ----
+      window.$docsify = window.$docsify || {};
+      window.$docsify.plugins = [].concat(function (hook, vm) {
+        hook.doneEach(function () {
+          try {
+            if (vm && vm.route && vm.route.path) { curPath = vm.route.path; }
+            buildToc();
+          } catch (err) {}
+        });
+      }, window.$docsify.plugins || []);
+    })();
   </script>
   <script src="vendor/docsify.min.js"></script>
   <script src="vendor/search.min.js"></script>
