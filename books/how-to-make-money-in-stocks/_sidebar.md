@@ -1,7 +1,26 @@
 - [封面 · 全书目录](/books/how-to-make-money-in-stocks/README.md)
-- [第一部分 · Part 1](/books/how-to-make-money-in-stocks/part1_cn_en.md)
-- [第二部分 · Part 2](/books/how-to-make-money-in-stocks/part2_cn_en.md)
-- [第三部分 · Part 3](/books/how-to-make-money-in-stocks/part3_cn_en.md)
+- 第一部分 · Part 1
+  - [Chapter 2 · 如何像行家一样读图](/books/how-to-make-money-in-stocks/chapter2_cn_en.md)
+  - [Chapter 3 · C=当前季度盈利与销售加速](/books/how-to-make-money-in-stocks/chapter3_cn_en.md)
+  - [Chapter 4 · A=年度盈利增长](/books/how-to-make-money-in-stocks/chapter4_cn_en.md)
+  - [Chapter 5 · N=新品、新管理层、新高](/books/how-to-make-money-in-stocks/chapter5_cn_en.md)
+  - [Chapter 6 · S=供需与成交量](/books/how-to-make-money-in-stocks/chapter6_cn_en.md)
+  - [Chapter 7 · L=龙头还是落后股](/books/how-to-make-money-in-stocks/chapter7_cn_en.md)
+  - [Chapter 8 · I=机构支持](/books/how-to-make-money-in-stocks/chapter8_cn_en.md)
+  - [Chapter 9 · M=市场方向](/books/how-to-make-money-in-stocks/chapter9_cn_en.md)
+- 第二部分 · Part 2
+  - [Chapter 10 · 何时必须卖出并止损](/books/how-to-make-money-in-stocks/chapter10_cn_en.md)
+  - [Chapter 11 · 何时卖出锁定利润](/books/how-to-make-money-in-stocks/chapter11_cn_en.md)
+  - [Chapter 12 · 资金管理](/books/how-to-make-money-in-stocks/chapter12_cn_en.md)
+  - [Chapter 13 · 21 个常见错误](/books/how-to-make-money-in-stocks/chapter13_cn_en.md)
+- 第三部分 · Part 3
+  - [Chapter 14 · 更多赢家范例](/books/how-to-make-money-in-stocks/chapter14_cn_en.md)
+  - [Chapter 15 · 挑选主题、板块与行业组](/books/how-to-make-money-in-stocks/chapter15_cn_en.md)
+  - [Chapter 16 · 用 IBD 找赢家股](/books/how-to-make-money-in-stocks/chapter16_cn_en.md)
+  - [Chapter 17 · 观察市场与新闻](/books/how-to-make-money-in-stocks/chapter17_cn_en.md)
+  - [Chapter 18 · 共同基金赚百万](/books/how-to-make-money-in-stocks/chapter18_cn_en.md)
+  - [Chapter 19 · 养老金与机构组合管理](/books/how-to-make-money-in-stocks/chapter19_cn_en.md)
+  - [Chapter 20 · 重要规则与准则](/books/how-to-make-money-in-stocks/chapter20_cn_en.md)
 
 ---
 
